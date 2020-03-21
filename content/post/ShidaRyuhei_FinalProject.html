@@ -43,16 +43,18 @@ for(league in 1:length(leagues_teams)) {
   team_names = list()
   team_squads = list()
   
+  # Go through each team in the current league
   for(team in 1:length(leagues_teams[[league]])) {
     s = html_session(base_urls[[league]]) %&gt;%
       jump_to(leagues_teams[[league]][team]) %&gt;%
       read_html()
-      
+    
+    # Get the names of the current team 
     team_names[[team]] &lt;- s %&gt;% 
       html_nodes(&quot;h2&quot;) %&gt;% 
       html_text
     
-    
+    # Get the squad for the current team
     team_squads[team] &lt;- s %&gt;% 
       html_table(header = TRUE)
   
@@ -60,7 +62,7 @@ for(league in 1:length(leagues_teams)) {
   
   # For each team in current league
   for(i in 1:length(team_names)) {
-    # Add team name
+    # Add team name as a column
     team_squads[i] &lt;- lapply(team_squads[i],
                              function(x) cbind(x, Team = team_names[[i]]))
     
