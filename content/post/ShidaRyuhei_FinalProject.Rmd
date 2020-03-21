@@ -157,7 +157,7 @@ geocoded = list()
 
 
 
-```{r, eval=FALSE}
+```{r, eval=FALSE, include=FALSE}
 # Write geocoded data frames to csv files
 write.csv(file="geocoded1.csv", x=geocoded[[1]], row.names = FALSE)
 write.csv(file="geocoded2.csv", x=geocoded[[2]], row.names = FALSE)
@@ -205,17 +205,15 @@ write.csv(file="top4leagues.csv", x=top4leagues, row.names = FALSE)
 ```
 
 
-```{r, message=FALSE}
-#all_teams2 <- read_csv("all_teams.csv", locale = readr::locale(encoding = "latin1"))
-```
+
+I manually added information for some players with missing coordinate data.
 
 ```{r, eval=FALSE}
 # Add information for some notable missing players
-
-#all_teams2[all_teams2$Name == "Mohamed Salah", "lat"] = 30.940491
-#all_teams2[all_teams2$Name == "Mohamed Salah", "long"] = 30.830231
-#all_teams2[all_teams2$Name == "Bukayo Saka", "lat"] = 51.525
-#all_teams2[all_teams2$Name == "Bukayo Saka", "long"] = -0.3325
+top4leagues[top4leagues$Name == "Mohamed Salah", "lat"] = 30.940491
+top4leagues[top4leagues$Name == "Mohamed Salah", "long"] = 30.830231
+top4leagues[top4leagues$Name == "Bukayo Saka", "lat"] = 51.525
+top4leagues[top4leagues$Name == "Bukayo Saka", "long"] = -0.3325
 ```
 
 
@@ -263,6 +261,7 @@ locations_sf <- st_as_sf(spain, coords = c("long", "lat"), crs = 4326)
 mapview(locations_sf, zcol=c("Pos"))
 ```
 
+- Players from South Africa tend to play in England
 - Asian Players tend to be forwards in England, midfielders in Germany and Spain, and defenders in Italy.
 
 # Birthdays
