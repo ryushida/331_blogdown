@@ -23,9 +23,9 @@ library(lubridate)
 ```
 # Scrape Data
 
-I scraped European football data from an online database using the rvest package.
+I scraped European football data from an online database using the `rvest` package.
 
-Using rvest, I got data about every team in the "top 4 leagues" of European Football, which are England, Germany, Italy, and Spain.
+Using `rvest`, I got data about every team in the "top 4 leagues" of European Football, which are England, Germany, Italy, and Spain.
 
 Source of Material is http://www.footballsquads.com. Material: © FootballSquads.com, 1999 - 2020, All Rights Reserved
 
@@ -121,7 +121,8 @@ league_names = c("England", "Germany", "Italy", "Spain")
 # Function to 
 assign_and_remove <- function(index) {
   leagues_allplayers[[index]]["League"] <- league_names[index]
-  leagues_allplayers[[index]] <- leagues_allplayers[[index]][!(is.na(leagues_allplayers[[index]]$Name) | leagues_allplayers[[index]]$Name==""), ]
+  leagues_allplayers[[index]] <- leagues_allplayers[[index]][
+    !(is.na(leagues_allplayers[[index]]$Name) | leagues_allplayers[[index]]$Name==""), ]
   leagues_allplayers[[index]]
 }
 ```

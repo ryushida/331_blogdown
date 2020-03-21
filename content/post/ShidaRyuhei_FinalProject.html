@@ -28,8 +28,8 @@ output: html_document
 </div>
 <div id="scrape-data" class="section level1">
 <h1>Scrape Data</h1>
-<p>I scraped European football data from an online database using the rvest package.</p>
-<p>Using rvest, I got data about every team in the “top 4 leagues” of European Football, which are England, Germany, Italy, and Spain.</p>
+<p>I scraped European football data from an online database using the <code>rvest</code> package.</p>
+<p>Using <code>rvest</code>, I got data about every team in the “top 4 leagues” of European Football, which are England, Germany, Italy, and Spain.</p>
 <p>Source of Material is <a href="http://www.footballsquads.com" class="uri">http://www.footballsquads.com</a>. Material: © FootballSquads.com, 1999 - 2020, All Rights Reserved</p>
 <p>Scraping was a complex process, where I first needed to get the links to the indivual teams for each league.</p>
 <p>Then I went through each league’s teams, and scraped the table on the site.</p>
@@ -77,7 +77,8 @@ for(league in 1:length(leagues_teams)) {
 <pre class="r"><code># Function to 
 assign_and_remove &lt;- function(index) {
   leagues_allplayers[[index]][&quot;League&quot;] &lt;- league_names[index]
-  leagues_allplayers[[index]] &lt;- leagues_allplayers[[index]][!(is.na(leagues_allplayers[[index]]$Name) | leagues_allplayers[[index]]$Name==&quot;&quot;), ]
+  leagues_allplayers[[index]] &lt;- leagues_allplayers[[index]][
+    !(is.na(leagues_allplayers[[index]]$Name) | leagues_allplayers[[index]]$Name==&quot;&quot;), ]
   leagues_allplayers[[index]]
 }</code></pre>
 </div>
