@@ -10,6 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+# Introduction
+
+I was interested in how the players in different European Football leagues were different, so I decided to get data and analyze it.
+
 
 ```{r, warning=FALSE, message=FALSE, include=FALSE}
 library(tidyverse)
