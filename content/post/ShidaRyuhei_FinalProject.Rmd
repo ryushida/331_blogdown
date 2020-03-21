@@ -63,7 +63,7 @@ base_urls[4] = "http://www.footballsquads.co.uk/spain/2019-2020/"
 ```
 
 
-```{r, warning=FALSE, eval=FALSE, include=FALSE}
+```{r, warning=FALSE, eval=FALSE}
 
 # Stores players from every league
 leagues_allplayers = list()
@@ -107,13 +107,13 @@ for(league in 1:length(leagues_teams)) {
 
 ```
 
-After I had data frames for each league, I added the league name as a column, and removed numbers that were missing.
+After I had data frames for each league, I wrote a function to add the league name as a column and remove numbers that are missing.
 
 ```{r, eval=FALSE, include=FALSE}
 league_names = c("England", "Germany", "Italy", "Spain")
 ```
 
-```{r, eval=FALSE, include=FALSE}
+```{r, eval=FALSE}
 # Function to 
 assign_and_remove <- function(index) {
   leagues_allplayers[[index]]["League"] <- league_names[index]
@@ -171,7 +171,7 @@ write.csv(file="geocoded4.csv", x=geocoded[[4]], row.names = FALSE)
 ```
 
 
-```{r}
+```{r, echo=FALSE}
 geocoded = list()
 # Read data from csv files to save time
 
@@ -180,6 +180,8 @@ geocoded[[2]] <- read.table("geocoded2.csv", header = TRUE, sep = ',', encoding 
 geocoded[[3]] <- read.table("geocoded3.csv", header = TRUE, sep = ',', encoding = 'latin1')
 geocoded[[4]] <- read.table("geocoded4.csv", header = TRUE, sep = ',', encoding = 'latin1')
 ```
+
+The geocoded list holds the data frames of players in each of the 4 leagues.
 
 
 I finally put the data for all 4 leagues together, now that they are mostly prepared for analysis.
@@ -275,43 +277,26 @@ mapview(locations_sf, zcol=c("Pos"))
 
 # Birthdays
 
-```{r}
+```{r, include=FALSE}
 top4leagues3 <- top4leagues2
 ```
 
 ```{r}
-top4leagues3
+top4leagues3$bd <- dmy(top4leagues3$Date.of.Birth)
+top4leagues3$bd_year <- year(top4leagues3$bd)
 ```
 
 
 ```{r}
-#top4leagues3$`Date of Birth` = dmy(top4leagues3$`Date of Birth`)
-```
-```{r}
-#top4leagues3
-```
-
-
-
-```{r}
-#all_teams4$`Date of Birth` = dmy(all_teams4$`Date of Birth`)
+top4leagues3 %>% 
+  ggplot(aes(x = bd_year)) +
+  geom_density(stat = "count") +
+  ggtitle("Birthday of Active Players")
 ```
 
 
 ```{r}
-#all_teams4$bd_year <- year(all_teams4$`Date of Birth`)
-```
-
-
-```{r}
-#all_teams4 %>% 
-#  ggplot(aes(x = bd_year)) +
-#  geom_density(stat = "count") +
-#  ggtitle("Birthday of Premier League Players")
-```
-
-```{r}
-#summary(all_teams4$`Date of Birth`)
+summary(top4leagues3$bd)
 ```
 
 # Count per team
