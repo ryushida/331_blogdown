@@ -73,11 +73,12 @@ for(league in 1:length(leagues_teams)) {
   team_squads = list()
   
   for(team in 1:length(leagues_teams[[league]])) {
-    s = html_session(base_urls[[league]]) %>% jump_to(leagues_teams[[league]][team]) %>% read_html()
+    s = html_session(base_urls[[league]]) %>%
+      jump_to(leagues_teams[[league]][team]) %>%
+      read_html()
       
     team_names[[team]] <- s %>% 
       html_nodes("h2") %>% 
-      #html_nodes("font") %>% 
       html_text
     
     
@@ -89,11 +90,13 @@ for(league in 1:length(leagues_teams)) {
   # For each team in current league
   for(i in 1:length(team_names)) {
     # Add team name
-    team_squads[i] <- lapply(team_squads[i], function(x) cbind(x, Team = team_names[[i]]))
+    team_squads[i] <- lapply(team_squads[i],
+                             function(x) cbind(x, Team = team_names[[i]]))
     
     # Remove "Players no longer at this club"
-    team_squads[i] <- lapply(team_squads[i], head, n= which(as.data.frame(team_squads[i])$Number == "Players no longer at this club")-1)
-  #}
+    team_squads[i] <- lapply(team_squads[i],
+                             head,
+                             n= which(as.data.frame(team_squads[i])$Number == "Players no longer at this club")-1)
   
     leagues_allplayers[[league]] <- bind_rows(team_squads)
 
@@ -151,7 +154,7 @@ get_coords <- function(index) {
 }
 ```
 
-```{r}
+```{r, eval=FALSE, echo=FALSE}
 geocoded = list()
 ```
 
@@ -167,6 +170,7 @@ write.csv(file="geocoded4.csv", x=geocoded[[4]], row.names = FALSE)
 
 
 ```{r}
+geocoded = list()
 # Read data from csv files to save time
 
 geocoded[[1]] <- read.table("geocoded1.csv", header = TRUE, sep = ',', encoding = 'latin1')
@@ -176,18 +180,14 @@ geocoded[[4]] <- read.table("geocoded4.csv", header = TRUE, sep = ',', encoding 
 ```
 
 
+I finally put the data for all 4 leagues together, now that they are mostly prepared for analysis.
+
 ```{r, warning=FALSE}
 top4leagues <- bind_rows(list(geocoded[[1]],
                               geocoded[[2]],
                               geocoded[[3]],
                               geocoded[[4]]))
 ```
-
-```{r}
-head(top4leagues)
-```
-
-
 
 
 ```{r}
@@ -199,7 +199,7 @@ top4leagues <- top4leagues[!(is.na(top4leagues$Name) | top4leagues$Name==""), ]
 head(top4leagues)
 ```
 
-```{r}
+```{r, eval=FALSE, echo=FALSE}
 # Save to csv file
 write.csv(file="top4leagues.csv", x=top4leagues, row.names = FALSE)
 ```
@@ -224,7 +224,7 @@ top4leagues2 <- top4leagues[complete.cases(top4leagues[12:13]), ]
 ```
 
 
-```{r}
+```{r, echo=FALSE}
 england <- top4leagues2 %>% 
   filter(League == "England")
 
@@ -238,23 +238,30 @@ spain <- top4leagues2 %>%
   filter(League == "Spain")
 ```
 
+I created data frames for each country again, and plotted where the players who played in each respective league were born. The color of the dots show their position.
+
+### England
 
 ```{r}
 locations_sf <- st_as_sf(england, coords = c("long", "lat"), crs = 4326)
 mapview(locations_sf, zcol=c("Pos"))
 ```
 
+### Germany
 
 ```{r}
 locations_sf <- st_as_sf(germany, coords = c("long", "lat"), crs = 4326)
 mapview(locations_sf, zcol=c("Pos"))
 ```
 
+### Italy
+
 ```{r}
 locations_sf <- st_as_sf(italy, coords = c("long", "lat"), crs = 4326)
 mapview(locations_sf, zcol=c("Pos"))
 ```
 
+### Spain
 
 ```{r}
 locations_sf <- st_as_sf(spain, coords = c("long", "lat"), crs = 4326)
