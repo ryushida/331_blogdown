@@ -1,0 +1,1412 @@
+"Number","Name","Nat","Pos","Height","Weight","Date of Birth","Birth Place","Previous Club","Team","lat","long"
+"1","Bernd Leno","GER","G","1.89","78","04-03-92","Bietigheim-Bissingen","Bayer Leverkusen","Arsenal",48.9502631,9.1383314
+"2","Héctor Bellerín","ESP","D","1.78","74","19-03-95","Barcelona","Barcelona","Arsenal",41.3828939,2.1774322
+"3","Kieran Tierney","SCO","D","1.78","70","05-06-97","Douglas","Celtic","Arsenal",39.7628415,-88.2170516
+"5","Sokratis Papastathopoulos","GRE","D","1.83","82","09-06-88","Kalamata","Borussia Dortmund","Arsenal",37.0377582,22.1109392
+"8","Dani Ceballos","ESP","M","1.79","71","07-08-96","Utrera","Real Madrid","Arsenal",37.1824646,-5.7817506
+"9","Alexandre Lacazette","FRA","F","1.74","69","28-05-91","Lyon","Lyon","Arsenal",45.7578137,4.8320114
+"10","Mesut Özil","GER","M","1.80","76","15-10-88","Gelsenkirchen","Real Madrid","Arsenal",51.5110321,7.0960124
+"11","Lucas Torreira","URU","M","1.68","64","11-02-96","Fray Bentos","Sampdoria","Arsenal",-33.1165167,-58.3130977
+"14","Pierre-Emerick Aubameyang","GAB","F","1.85","74","18-06-89","Laval","Borussia Dortmund","Arsenal",48.0710377,-0.7723499
+"15","Ainsley Maitland-Niles","ENG","M","1.77","71","29-08-97","Goodmayes","None","Arsenal",51.565803,0.1119305
+"16","Rob Holding","ENG","D","1.89","75","09-11-94","Bolton","Bolton W","Arsenal",53.5782863,-2.4300367
+"17","Cédric Soares","POR","D","1.72","67","31-08-91","Gelsenkirchen","Southampton","Arsenal",51.5110321,7.0960124
+"19","Nicolas Pépé","CIV","F","1.78","68","29-05-95","Mantes-la-Jolie","Lille","Arsenal",48.9891971,1.7140683
+"20","Shkodran Mustafi","GER","D","1.84","82","17-04-92","Bad Hersfeld","Valencia","Arsenal",50.8681341,9.7068481
+"21","Calum Chambers","ENG","D","1.82","66","20-01-95","Petersfield","Southampton","Arsenal",51.0050388,-0.928323554454398
+"22","Pablo Marí","ESP","D","1.91","87","31-08-93","Valencia","Flamengo","Arsenal",39.4699014,-0.3759513
+"23","David Luiz","BRA","D","1.89","84","22-04-87","São Paulo","Chelsea","Arsenal",-23.5506507,-46.6333824
+"24","Reiss Nelson","ENG","F","1.75","70","10-12-99","Lambeth","None","Arsenal",51.5013012,-0.117287
+"26","Emiliano Martínez","ARG","G","1.95","88","02-09-92","Mar del Plata","Independiente","Arsenal",-37.9977225,-57.5482703
+"28","Joe Willock","ENG","M","","","20-08-99","Waltham Forest","None","Arsenal",42.3756401,-71.2358004
+"29","Mattéo Guendouzi","FRA","M","1.80","68","14-04-99","Poissy","Lorient","Arsenal",48.927439,2.0428293
+"30","Edward Nketiah","ENG","F","","","30-05-99","Lewisham","None","Arsenal",51.4624325,-0.0101331
+"31","Sead Kolašinac","BIH","D","1.83","82","20-06-93","Karlsruhe","Schalke","Arsenal",49.0068705,8.4034195
+"33","Matt Macey","ENG","G","1.98","81","09-09-94","Bristol","Bristol R","Arsenal",51.4538022,-2.5972985
+"34","Granit Xhaka","SUI","M","1.85","82","27-09-92","Gnjilane","B Mönchengladbach","Arsenal",42.4635017,21.4681816
+"35","Gabriel Martinelli","BRA","F","1.80","78","18-06-01","Guarulhos","Ituano","Arsenal",-23.4430602,-46.524459
+"37","Danny Ballard","NIR","D","","","22-09-99","Stevenage","None","Arsenal",51.9035099,-0.2013368
+"38","Folarin Balogun","ENG","F","","","03-07-01","","None","Arsenal",NA,NA
+"40","Tolaji Bola","ENG","D","1.80","80","04-01-99","Camden Town","None","Arsenal",51.5423045,-0.1395604
+"42","Harry Clarke","ENG","D","","","02-03-01","Ipswich","None","Arsenal",52.0579495,1.1526345
+"43","Trae Coyle","ENG","F","","","11-01-01","","None","Arsenal",NA,NA
+"47","Jordan McEneff","IRL","F","","","08-01-01","Derry","None","Arsenal",54.9978678,-7.3213056
+"48","Mark McGuinness","IRL","D","","","05-01-01","","None","Arsenal",NA,NA
+"49","Zech Medley","ENG","D","","","09-07-00","Greenwich","Chelsea","Arsenal",51.4820845,-0.0045417
+"53","Joseph Olowu","ENG","D","","","27-11-99","","None","Arsenal",NA,NA
+"54","Tobi Omole","ENG","D","","","17-12-99","","None","Arsenal",NA,NA
+"57","Matthew Smith","ENG","M","","","05-10-00","","None","Arsenal",NA,NA
+"59","Zak Swanson","ENG","D","","","28-09-00","","None","Arsenal",NA,NA
+"61","Nathan Tormey","ENG","M","","","25-05-00","Hatfield","None","Arsenal",51.7634675,-0.2258741
+"63","James Hillson","ENG","G","","","14-01-01","","Reading","Arsenal",NA,NA
+"69","Ben Cottrell","ENG","M","","","31-01-01","","None","Arsenal",NA,NA
+"71","Charlie Patino","ENG","M","","","17-10-03","Watford","Luton T","Arsenal",51.6553875,-0.3957425
+"72","Sam Greenwood","ENG","F","","","26-01-02","Sunderland","Sunderland","Arsenal",54.9058512,-1.3828727
+"74","Joel López","ESP","D","","","31-03-02","Barcelona","Barcelona","Arsenal",41.3828939,2.1774322
+"76","Arthur Okonkwo","ENG","G","","","09-09-01","","None","Arsenal",NA,NA
+"77","Bukayo Saka","ENG","M","","","05-09-01","","None","Arsenal",NA,NA
+"79","Miguel Azeez","ENG","M","","","20-09-02","","None","Arsenal",NA,NA
+"80","Nathan Butler-Oyedeji","ENG","F","","","04-01-03","","None","Arsenal",NA,NA
+"85","Mazeed Ogungbo","IRL","D","","","20-10-02","","None","Arsenal",NA,NA
+"86","Daniel Oyegoke","ENG","D","","","03-01-03","","None","Arsenal",NA,NA
+"1","Thomas Heaton","ENG","G","1.88","85","15-04-86","Chester","Burnley","Aston Villa",53.1908873,-2.8908955
+"3","Neil Taylor","WAL","D","1.75","64","07-02-89","St Asaph","Swansea C","Aston Villa",53.2575614,-3.4438607
+"4","Danny Drinkwater","ENG","M","1.78","79","05-03-90","Manchester","Chelsea","Aston Villa",53.4794892,-2.2451148
+"6","Douglas Luiz","BRA","M","1.78","65","09-05-98","Rio de Janeiro","Manchester C","Aston Villa",-22.9110137,-43.2093727
+"7","John McGinn","SCO","M","1.75","68","18-10-94","Glasgow","Hibernian","Aston Villa",55.8609825,-4.2488787
+"8","Henri Lansbury","ENG","M","1.83","85","12-10-90","Enfield","Nottingham F","Aston Villa",51.6520851,-0.0810175
+"9","Wesley","BRA","F","1.91","93","26-11-96","Juiz de Fora","Club Brugge","Aston Villa",-21.7609533,-43.3501129
+"10","Jack Grealish","ENG","M","1.75","68","10-09-95","Birmingham","None","Aston Villa",52.4796992,-1.9026911
+"11","Marvelous Nakamba","ZIM","M","1.77","71","19-01-94","Hwange","Club Brugge","Aston Villa",-18.84066235,26.7310153654583
+"12","Jed Steer","ENG","G","1.88","89","23-09-92","Norwich","Norwich C","Aston Villa",52.628606,1.29227
+"14","Conor Hourihane","IRL","M","1.81","62","02-02-91","Cork","Barnsley","Aston Villa",51.8979282,-8.4705806
+"15","Ezri Konsa","ENG","D","1.83","77","23-10-97","Newham","Brentford","Aston Villa",51.52999955,0.0293179602938221
+"17","Mahmoud Hassan","EGY","M","1.76","72","01-10-94","Kafr el-Sheikh","Kasimpasa","Aston Villa",31.3827023,30.8516791133286
+"18","Matt Targett","ENG","D","1.83","70","18-09-95","Eastleigh","Southampton","Aston Villa",50.9202217,-1.29927636848828
+"19","Borja González","ESP","F","1.86","83","25-08-92","Madrid","Swansea C","Aston Villa",40.4167047,-3.7035825
+"20","Mbwana Samatta","TAN","F","1.79","70","13-12-92","Dar es Salam","KRC Genk","Aston Villa",-6.8160837,39.2803583
+"21","Anwar El Ghazi","NED","F","1.88","76","03-05-95","Barendrecht","Lille","Aston Villa",51.85193795,4.52938352520747
+"22","Björn Engels","BEL","D","1.93","74","15-09-94","Kaprijke","Reims","Aston Villa",51.2185075,3.6190769
+"23","Jota","ESP","M","1.80","67","16-06-91","A Pobra do Caramiñal","Birmingham C","Aston Villa",42.6046249,-8.9402045
+"24","Frédéric Guilbert","FRA","D","1.78","70","24-12-94","Valognes","Caen","Aston Villa",49.5089547,-1.4708174
+"25","Ørjan Nyland","NOR","G","1.92","78","10-09-90","Volda","Ingolstadt","Aston Villa",62.08037975,6.27441076752317
+"27","Ahmed Elmohamady","EGY","D","1.82","81","09-09-87","El-Mahalla El-Kubra","Hull C","Aston Villa",30.9723517,31.1683002
+"29","Pepe Reina","ESP","G","1.88","92","31-08-82","Madrid","Milan","Aston Villa",40.4167047,-3.7035825
+"30","Kortney Hause","ENG","D","1.89","84","16-07-95","Goodmayes","Wolverhampton W","Aston Villa",51.565803,0.1119305
+"31","Matija Šarkic","MNE","G","1.92","76","23-07-97","Podgorica","Anderlecht","Aston Villa",42.4415238,19.2621081
+"34","Dominic Revan","ENG","D","1.92","81","19-09-00","West Bromwich","None","Aston Villa",52.5186579,-1.9923114
+"35","Jake Walker","ENG","D","","","03-11-00","","None","Aston Villa",NA,NA
+"36","Indiana Vassilev","USA","M","1.75","72","16-02-01","Savannah","IMG Academy","Aston Villa",32.0809263,-81.0911768
+"38","Callum Rowe","ENG","M","","","02-09-99","Leicester","None","Aston Villa",52.6361398,-1.1330789
+"39","Keinan Davis","ENG","F","1.68","68","01-06-98","Stevenage","Biggleswade T","Aston Villa",51.9035099,-0.2013368
+"40","Tyrone Mings","ENG","D","1.91","77","13-03-93","Bath","Bournemouth","Aston Villa",51.38092635,-2.37418971512966
+"42","Isaiah Bazeley-Graham","ENG","D","","","03-02-00","","None","Aston Villa",NA,NA
+"43","Jack Birch","ENG","M","","","23-11-00","","None","Aston Villa",NA,NA
+"44","Mungo Bridge","ENG","D","","","12-09-00","","None","Aston Villa",NA,NA
+"45","Ben Guy","ENG","F","","","02-11-00","","None","Aston Villa",NA,NA
+"46","Anton Hooper","ENG","F","","","07-02-01","","None","Aston Villa",NA,NA
+"47","Colin Odutayo","NED","F","","","08-03-01","Roermond","KRC Genk","Aston Villa",51.1927811,6.00395278289544
+"48","Dimitri Sea","FRA","F","","","","","Boulogne-Billancourt","Aston Villa",NA,NA
+"49","Michael Tait","ENG","F","","","29-01-01","","None","Aston Villa",NA,NA
+"50","Viljami Sinisalo","FIN","G","1.96","78","11-10-01","Espoo","FC Espoo","Aston Villa",60.2241869,24.6603626
+"51","Cameron Archer","ENG","F","","","21-07-01","","None","Aston Villa",NA,NA
+"52","Jamie Searle","NZL","G","","","","","Melville U","Aston Villa",NA,NA
+"53","Filip Marschall","ENG","G","","","","","None","Aston Villa",NA,NA
+"54","Lewis Brunt","ENG","M","","","06-11-00","","None","Aston Villa",NA,NA
+"55","Tyreik Wright","IRL","M","","","22-09-01","","Lakewood Ath","Aston Villa",NA,NA
+"56","Jack Clarke","IRL","M","","","30-01-99","","None","Aston Villa",NA,NA
+"57","Jayden Philogene-Bidace","ENG","M","","","","","None","Aston Villa",NA,NA
+"58","Aaron Pressley","SCO","F","","","07-11-01","Edinburgh","None","Aston Villa",55.9533456,-3.1883749
+"59","Kaine Hayden","ENG","M","","","","","None","Aston Villa",NA,NA
+"60","Carney Chukwuemeka","ENG","M","","","","","Northampton T","Aston Villa",NA,NA
+"61","Myles Sohna","ENG","D","","","","","None","Aston Villa",NA,NA
+"62","Sebastian Revan","ENG","D","","","","","None","Aston Villa",NA,NA
+"63","Harrison Sohna","ENG","M","","","","","None","Aston Villa",NA,NA
+"1","Artur Boruc","POL","G","1.93","87","20-02-80","Siedlce","Southampton","Bournemouth",52.1663751,22.2765138
+"2","Simon Francis","ENG","D","1.83","90","16-02-85","Nottingham","Charlton Ath","Bournemouth",52.9534193,-1.1496461
+"3","Steve Cook","ENG","D","1.85","82","19-04-91","Hastings","Brighton & HA","Bournemouth",50.8553888,0.5824703
+"4","Dan Gosling","ENG","M","1.83","79","02-02-90","Brixham","Newcastle U","Bournemouth",50.3952404,-3.514544
+"5","Nathan Aké","NED","D","1.80","75","18-02-95","Den Haag","Chelsea","Bournemouth",52.07494555,4.26968022053645
+"6","Andrew Surman","ENG","M","1.78","72","20-08-86","Johannesburg","Norwich C","Bournemouth",-26.205,28.049722
+"7","Joshua King","NOR","F","1.80","74","15-01-92","Oslo","Blackburn R","Bournemouth",59.9133301,10.7389701
+"8","Jefferson Lerma","COL","M","1.79","70","25-10-94","El Cerrito","Levante","Bournemouth",-31.8546304,-52.8151659
+"9","Dominic Solanke","ENG","F","1.87","80","14-09-97","Reading","Liverpool","Bournemouth",51.45149525,-0.983634249936538
+"10","Jordon Ibe","ENG","M","1.76","81","08-12-95","Southwark","Liverpool","Bournemouth",51.5029222,-0.103458
+"11","Charlie Daniels","ENG","D","1.78","75","07-09-86","Harlow","Leyton Orient","Bournemouth",51.7676194,0.0974893
+"12","Aaron Ramsdale","ENG","G","1.88","77","14-05-98","Stoke-on-Trent","Sheffield U","Bournemouth",53.0162014,-2.1812607
+"13","Callum Wilson","ENG","F","1.80","66","27-02-92","Coventry","Coventry C","Bournemouth",52.4081812,-1.510477
+"14","Arnaut Danjuma","NED","M","1.78","74","31-01-97","Oss","Club Brugge","Bournemouth",51.7689067,5.5223672
+"15","Adam Smith","ENG","D","1.80","78","29-04-91","Leytonstone","Tottenham H","Bournemouth",51.5710783,0.0064237
+"16","Lewis Cook","ENG","M","1.75","71","03-02-97","Leeds","Leeds U","Bournemouth",53.7974185,-1.5437941
+"17","Jack Stacey","ENG","D","1.80","68","06-04-96","Bracknell","Luton T","Bournemouth",51.4060111,-0.758857295357585
+"19","Junior Stanislas","ENG","M","1.83","76","26-11-89","Kidbrooke","Burnley","Bournemouth",51.4675731,0.0285241
+"20","David Brooks","WAL","M","1.66","62","08-07-97","Warrington","Sheffield U","Bournemouth",53.4018582,-2.5680223597163
+"21","Diego Rico","ESP","D","1.83","76","23-02-93","Burgos","Leganés","Bournemouth",42.343926,-3.696977
+"22","Harry Wilson","WAL","M","1.73","70","22-03-97","Wrexham","Liverpool","Bournemouth",53.0465068,-2.9938137
+"24","Ryan Fraser","SCO","M","1.63","70","24-02-94","Aberdeen","Aberdeen","Bournemouth",57.1482429,-2.0928095
+"25","Jack Simpson","ENG","D","1.78","83","08-01-97","Wandsworth","None","Bournemouth",51.4570271,-0.1932607
+"26","Lloyd Kelly","ENG","D","1.78","70","01-10-98","Bristol","Bristol C","Bournemouth",51.4538022,-2.5972985
+"28","Kyle Taylor","ENG","M","","","28-08-99","","None","Bournemouth",NA,NA
+"29","Philip Billing","DEN","M","1.93","80","11-06-96","","Huddersfield T","Bournemouth",NA,NA
+"33","Chris Mepham","WAL","D","1.91","75","05-11-97","Hammersmith","Brentford","Bournemouth",51.4920377,-0.2236401
+"37","Corey Jordan","ENG","D","1.85","75","04-03-99","Bournemouth","None","Bournemouth",50.7194784,-1.8767712
+"40","Will Dennis","ENG","G","","","10-07-00","","Watford","Bournemouth",NA,NA
+"42","Mark Travers","IRL","G","1.91","82","18-05-99","Maynooth","Shamrock R","Bournemouth",45.231604,-77.9377476
+"44","Sam Surridge","ENG","F","1.91","77","28-07-98","Slough","None","Bournemouth",51.50342695,-0.574872152385296
+"50","Sam Sherring","ENG","D","","","08-05-00","Dorchester","None","Bournemouth",50.7116772,-2.44221709806127
+"53","Gavin Kilkenny","IRL","M","","","01-02-00","Dublin","St Kevin's Boys","Bournemouth",53.3497645,-6.2602732
+"55","Tyler Cordner","ENG","D","","","04-12-98","Southampton","None","Bournemouth",50.9025349,-1.404189
+"56","Jaidon Anthony","ENG","F","","","01-12-99","Hackney","Arsenal","Bournemouth",51.5432402,-0.0493621
+"60","Brooklyn Genesini","ENG","D","","","12-12-01","Yeovil","None","Bournemouth",50.9416615,-2.64583823394119
+"63","Brennan Camp","SCO","D","","","12-10-00","Portland","None","Bournemouth",45.5202471,-122.6741949
+"65","Christian Saydee","ENG","F","","","10-05-02","Hillingdon","None","Bournemouth",51.5425193,-0.448334931179497
+"1","Matthew Ryan","AUS","G","1.81","73","08-04-92","Plumpton","Valencia","Brighton & 
+Hove Albion",50.92332315,-0.0652568512614444
+"2","Tariq Lamptey","ENG","D","","","30-09-00","Hillingdon","Chelsea","Brighton & 
+Hove Albion",51.5425193,-0.448334931179497
+"4","Shane Duffy","IRL","D","1.93","76","01-01-92","Derry","Blackburn R","Brighton & 
+Hove Albion",54.9978678,-7.3213056
+"5","Lewis Dunk","ENG","D","1.90","77","21-11-91","Brighton","None","Brighton & 
+Hove Albion",50.8220399,-0.1374061
+"6","Dale Stephens","ENG","M","1.69","71","12-06-89","Bolton","Charlton Ath","Brighton & 
+Hove Albion",53.5782863,-2.4300367
+"7","Neal Maupay","FRA","F","1.71","69","14-08-96","Versailles","Brentford","Brighton & 
+Hove Albion",48.8035403,2.1266886
+"8","Yves Bissouma","MLI","M","1.81","78","30-08-96","Issia","Lille","Brighton & 
+Hove Albion",6.4929499,-6.582576
+"10","Alexis Mac Allister","ARG","M","1.74","72","24-12-98","La Pampa","Argentinos Juniors","Brighton & 
+Hove Albion",-37.2314643,-65.3972948
+"11","Leandro Trossard","BEL","M","1.72","61","04-12-94","Waterschei","KRC Genk","Brighton & 
+Hove Albion",50.9958545,5.5223907
+"13","Pascal Groß","GER","M","1.71","66","15-06-91","Bad Salzungen","Ingolstadt","Brighton & 
+Hove Albion",50.812318,10.2320784
+"15","Adam Webster","ENG","D","1.85","75","04-01-95","West Wittering","Bristol C","Brighton & 
+Hove Albion",50.7833912,-0.891988570891436
+"16","Alireza Jahanbakhsh","IRN","F","1.85","78","08-10-93","Jirandeh","AZ Alkmaar","Brighton & 
+Hove Albion",36.7021301,49.7957151
+"17","Glenn Murray","ENG","F","1.83","80","25-09-83","Workington","Bournemouth","Brighton & 
+Hove Albion",54.6415716,-3.5459287
+"18","Aaron Mooy","AUS","M","1.73","68","15-09-90","Sydney","Huddersfield T","Brighton & 
+Hove Albion",-33.8548157,151.2164539
+"19","José Izquierdo","COL","F","1.71","73","07-07-92","Pereira","Club Brugge","Brighton & 
+Hove Albion",4.8142912,-75.6946451
+"20","Solly March","ENG","M","1.85","77","26-07-94","Eastbourne","Lewes","Brighton & 
+Hove Albion",50.7685761,0.2957854
+"21","Matiás Ezequiel Schelotto","ITA","D","1.87","76","23-05-89","Buenos Aires","Sporting CP","Brighton & 
+Hove Albion",-34.6075682,-58.4370894
+"22","Martín Montoya","ESP","D","1.75","73","14-04-91","Gavà","Valencia","Brighton & 
+Hove Albion",41.3050933,2.0063126
+"23","Jason Steele","ENG","G","1.88","79","18-08-90","Newton Aycliffe","Sunderland","Brighton & 
+Hove Albion",54.6218534,-1.5663624
+"24","Davy Pröpper","NED","M","1.85","72","02-09-91","Arnhem","PSV Eindhoven","Brighton & 
+Hove Albion",52.0056642,5.87623450776413
+"25","Beram Kayal","ISR","M","1.78","74","02-05-88","Jadeidi-Makr","Celtic","Brighton & 
+Hove Albion",NA,NA
+"27","David Button","ENG","G","1.91","83","27-02-89","Stevenage","Fulham","Brighton & 
+Hove Albion",51.9035099,-0.2013368
+"30","Bernardo","BRA","D","1.86","76","14-05-95","São Paulo","RB Leipzig","Brighton & 
+Hove Albion",-23.5506507,-46.6333824
+"33","Dan Burn","ENG","D","1.98","83","09-05-92","Blyth","Wigan Ath","Brighton & 
+Hove Albion",55.1177802,-1.53632074591777
+"39","Soufyan Ahannach","NED","F","1.73","72","09-09-95","Amsterdam","Almere C","Brighton & 
+Hove Albion",52.3745403,4.89797550561798
+"42","Lewis Freestone","ENG","D","1.75","64","26-10-99","King's Lynn","Peterborough U","Brighton & 
+Hove Albion",52.754891,0.3964614
+"44","Aaron Connolly","IRL","F","","","28-01-00","Galway","Mervue U","Brighton & 
+Hove Albion",53.2744122,-9.0490632
+"45","Taylor Richards","ENG","M","","","04-12-00","Hammersmith","Manchester C","Brighton & 
+Hove Albion",51.4920377,-0.2236401
+"46","Steven Alzate","ENG","M","1.77","65","01-09-98","Camden Town","Leyton Orient","Brighton & 
+Hove Albion",51.5423045,-0.1395604
+"48","Andrew Crofts","WAL","M","1.75","73","20-05-84","Chatham","Yeovil T","Brighton & 
+Hove Albion",35.7151316,-79.2533035
+"49","Romaric Yapi","FRA","D","","","13-07-00","Evry","Paris St-Germain","Brighton & 
+Hove Albion",48.26406,3.25604
+"50","Alex Cochrane","ENG","M","","","21-04-00","Brighton","None","Brighton & 
+Hove Albion",50.8220399,-0.1374061
+"51","Archie Davies","ENG","M","","","07-10-98","","None","Brighton & 
+Hove Albion",NA,NA
+"52","Jordan Davies","WAL","D","","","18-08-98","Wrexham","Wrexham","Brighton & 
+Hove Albion",53.0465068,-2.9938137
+"53","Warren O'Hora","IRL","D","1.83","75","19-04-99","Dublin","Bohemians","Brighton & 
+Hove Albion",53.3497645,-6.2602732
+"55","Peter Gwargis","SWE","M","1.80","69","04-09-00","","Jönköpings Södra IF","Brighton & 
+Hove Albion",NA,NA
+"56","Bojan Radulovic","SRB","F","1.91","79","29-12-99","Lleida","Lleida","Brighton & 
+Hove Albion",41.6147605,0.6267842
+"57","Kipras Kažukolovas","LTU","D","","","20-11-00","","None","Brighton & 
+Hove Albion",NA,NA
+"58","Hayden Roberts","ENG","D","","","10-05-02","","None","Brighton & 
+Hove Albion",NA,NA
+"59","Danny Cashman","ENG","F","","","08-01-01","Crawley","None","Brighton & 
+Hove Albion",51.1103444,-0.1801094
+"60","Ryan Longman","ENG","M","","","06-11-00","","None","Brighton & 
+Hove Albion",NA,NA
+"61","Hugo Keto","FIN","G","1.91","70","09-02-98","Helsinki","Arsenal","Brighton & 
+Hove Albion",60.1674098,24.9425769
+"64","Tareq Shihab","ENG","M","","","07-03-01","","None","Brighton & 
+Hove Albion",NA,NA
+"65","Kacper Lopata","POL","D","1.88","80","27-08-01","Kraków","Bristol C","Brighton & 
+Hove Albion",50.0619474,19.9368564
+"66","Adam Desbois","ENG","G","","","05-01-01","","Reading","Brighton & 
+Hove Albion",NA,NA
+"71","Jack Spong","ENG","M","","","04-02-02","","None","Brighton & 
+Hove Albion",NA,NA
+"72","Teddy Jenks","ENG","M","","","12-03-02","","None","Brighton & 
+Hove Albion",NA,NA
+"73","Ben Wilson","NIR","M","","","05-12-01","","Coleraine","Brighton & 
+Hove Albion",NA,NA
+"74","Ben Clark-Eden","ENG","D","","","02-07-02","","None","Brighton & 
+Hove Albion",NA,NA
+"75","Lorent Tolaj","SUI","F","","","23-10-01","Aigle","Sion","Brighton & 
+Hove Albion",46.3179006,6.9688929
+"76","Ayo Tanimowo","ENG","D","","","09-11-01","","Norwich C","Brighton & 
+Hove Albion",NA,NA
+"77","Sam Packham","ENG","M","","","08-11-01","","None","Brighton & 
+Hove Albion",NA,NA
+"78","Marc Leonard","SCO","M","","","19-12-01","","Hearts","Brighton & 
+Hove Albion",NA,NA
+"79","Luca Cocoracchio","ENG","D","","","06-05-01","","Worthing","Brighton & 
+Hove Albion",NA,NA
+"80","Stefan Vukoje","ENG","M","","","11-11-01","","Luton T","Brighton & 
+Hove Albion",NA,NA
+"81","Roco Rees","ENG","G","","","03-10-01","Chichester","None","Brighton & 
+Hove Albion",50.84467705,-0.783114431619324
+"82","Flynn Talley","ENG","G","","","14-09-02","","Arsenal","Brighton & 
+Hove Albion",NA,NA
+"84","Odel Offiah","ENG","D","","","26-10-02","","Bromley","Brighton & 
+Hove Albion",NA,NA
+"85","Marcus Dackers","WAL","M","","","09-01-03","","None","Brighton & 
+Hove Albion",NA,NA
+"86","Ed Turns","ENG","D","","","18-10-02","","None","Brighton & 
+Hove Albion",NA,NA
+"87","Nathan Jenkins","ENG","D","","","01-08-03","","None","Brighton & 
+Hove Albion",NA,NA
+"88","Antef Tsoungui","BEL","D","","","30-12-02","","Chelsea","Brighton & 
+Hove Albion",NA,NA
+"89","Jack Leahy","ENG","F","","","17-09-02","","None","Brighton & 
+Hove Albion",NA,NA
+"90","Matt Everitt","IRL","M","","","24-10-02","","None","Brighton & 
+Hove Albion",NA,NA
+"91","James Furlong","IRL","D","","","07-06-02","Dublin","Shamrock R","Brighton & 
+Hove Albion",53.3497645,-6.2602732
+"92","Todd Miller","ENG","M","","","01-10-02","","Colchester U","Brighton & 
+Hove Albion",NA,NA
+"1","Nick Pope","ENG","G","1.91","76","19-04-92","Cambridge","Charlton Ath","Burnley",52.2034823,0.1235817
+"2","Matthew Lowton","ENG","D","1.80","78","09-06-89","Chesterfield","Aston Villa","Burnley",38.661953,-90.5643258
+"3","Charlie Taylor","ENG","D","1.75","70","18-09-93","York","Leeds U","Burnley",53.9590555,-1.0815361
+"4","Jack Cork","ENG","M","1.85","69","25-06-89","Carshalton","Swansea C","Burnley",51.3657883,-0.1610857
+"5","James Tarkowski","ENG","D","1.85","81","19-11-92","Manchester","Brentford","Burnley",53.4794892,-2.2451148
+"6","Ben Mee","ENG","D","1.80","74","23-09-89","Sale","Manchester C","Burnley",44.980656,8.809348
+"7","Jóhann Guðmundsson","ISL","M","1.86","79","27-10-90","Reykjavík","Charlton Ath","Burnley",64.145981,-21.9422367
+"8","Josh Brownhill","ENG","M","1.79","69","19-12-95","Warrington","Bristol C","Burnley",53.4018582,-2.5680223597163
+"9","Chris Wood","NZL","F","1.91","91","07-12-91","Auckland","Leeds U","Burnley",-36.852095,174.7631803
+"10","Ashley Barnes","AUT","F","1.86","77","31-10-89","Bath","Brighton & HA","Burnley",51.38092635,-2.37418971512966
+"11","Dwight McNeil","ENG","M","1.83","68","22-11-99","Rochdale","None","Burnley",53.6153659,-2.1557561
+"12","Robbie Brady","IRL","M","1.75","69","14-01-92","Dublin","Norwich C","Burnley",53.3497645,-6.2602732
+"13","Jeff Hendrick","IRL","M","1.85","79","31-01-92","Dublin","Derby Co","Burnley",53.3497645,-6.2602732
+"14","Ben Gibson","ENG","D","1.85","78","15-01-93","Nunthorpe","Middlesbrough","Burnley",54.5278914,-1.1696095
+"15","Bailey Peacock-Farrell","NIR","G","1.88","73","29-10-96","Darlington","Leeds U","Burnley",54.5242081,-1.5555812
+"18","Ashley Westwood","ENG","M","1.70","81","01-04-90","Nantwich","Aston Villa","Burnley",53.0671376,-2.5221184
+"19","Jay Rodriguez","ENG","F","1.85","80","29-07-89","Burnley","WBA","Burnley",53.7907262,-2.2439196
+"20","Joe Hart","ENG","G","1.96","91","19-04-87","Shrewsbury","Manchester C","Burnley",52.707755,-2.7540658
+"23","Erik Pieters","NED","D","1.83","83","07-08-88","Tiel","Stoke C","Burnley",51.89242535,5.43043817413793
+"25","Aaron Lennon","ENG","M","1.65","63","16-04-87","Chapeltown","Everton","Burnley",53.4619775,-1.4654915
+"26","Phillip Bardsley","SCO","D","1.80","78","28-06-85","Salford","Stoke C","Burnley",53.4877463,-2.2891921
+"27","Matej Vydra","CZE","F","1.80","73","01-05-92","Chotebor","Derby Co","Burnley",49.7205393,15.6699904
+"28","Kevin Long","IRL","D","1.88","83","18-08-90","Cork","Cork C","Burnley",51.8979282,-8.4705806
+"30","Adam Legzdins","ENG","G","1.83","78","28-11-86","Stafford","Birmingham C","Burnley",52.8063157,-2.1163818
+"34","Jimmy Dunne","IRL","D","","","19-10-97","Dundalk","Manchester U","Burnley",54.0046033,-6.4008879
+"38","Lewis Richardson","ENG","F","","","07-02-03","","None","Burnley",NA,NA
+"42","Ali Koiki","ENG","D","1.87","81","22-08-99","Chelsea","Crystal Palace","Burnley",51.4875417,-0.1682205
+"44","Mace Goodridge","ENG","M","","","13-09-99","Manchester","Newcastle U","Burnley",53.4794892,-2.2451148
+"1","Kepa Arrizabalaga","ESP","G","1.89","84","03-10-94","Ondarroa","Athletic Bilbao","Chelsea",43.3207293,-2.4207497
+"2","Antonio Rüdiger","GER","D","1.90","85","03-03-93","Berlin","Roma","Chelsea",52.5170365,13.3888599
+"3","Marcos Alonso","ESP","D","1.88","84","28-12-90","Madrid","Fiorentina","Chelsea",40.4167047,-3.7035825
+"4","Andreas Christensen","DEN","D","1.88","68","10-04-96","Allerød","Brøndby","Chelsea",55.8710792,12.3569245
+"5","Jorginho","ITA","M","1.80","65","21-12-91","Imbituba","Napoli","Chelsea",-28.241827,-48.6643444
+"7","Ngolo Kanté","FRA","M","1.68","68","29-03-91","Paris","Leicester C","Chelsea",48.8566969,2.3514616
+"8","Ross Barkley","ENG","M","1.89","76","05-12-93","Liverpool","Everton","Chelsea",53.407154,-2.991665
+"9","Tammy Abraham","ENG","F","1.90","72","02-10-97","Camberwell","None","Chelsea",51.4745706,-0.0925416
+"10","Willian","BRA","M","1.75","77","09-08-88","Ribeirão Pires","Anzhi Makhachkala","Chelsea",-23.7129388,-46.4150871
+"11","Pedro","ESP","M","1.69","65","28-07-87","Santa Cruz de Tenerife","Barcelona","Chelsea",28.469648,-16.2540884
+"12","Ruben Loftus-Cheek","ENG","M","1.91","88","23-01-96","Lewisham","None","Chelsea",51.4624325,-0.0101331
+"13","Wilfredo Caballero","ARG","G","1.86","80","28-09-81","Salta Elena","Manchester C","Chelsea",-32.5691436,-64.3964193
+"15","Kurt Zouma","FRA","D","1.90","96","27-10-94","Lyon","St-Etienne","Chelsea",45.7578137,4.8320114
+"17","Mateo Kovacic","CRO","M","1.81","75","06-05-94","Linz","Real Madrid","Chelsea",48.3059078,14.286198
+"18","Olivier Giroud","FRA","F","1.92","88","30-09-86","Chambéry","Arsenal","Chelsea",45.5662672,5.9203636
+"19","Mason Mount","ENG","M","1.78","64","10-01-99","Portsmouth","None","Chelsea",50.8036831,-1.075614
+"20","Callum Hudson-Odoi","ENG","M","1.77","75","07-11-00","Wandsworth","None","Chelsea",51.4570271,-0.1932607
+"22","Christian Pulisic","USA","F","1.73","63","18-09-98","Easton","Borussia Dortmund","Chelsea",40.6916081,-75.2099866
+"23","Michy Batshuayi","BEL","F","1.85","86","02-10-93","Brussels","Marseille","Chelsea",50.8436709,4.36743669338796
+"24","Reece James","ENG","D","1.83","71","08-12-99","Redbridge","None","Chelsea",51.5763203,0.0454097
+"28","César Azpilicueta","ESP","D","1.78","78","28-08-89","Pamplona","Marseille","Chelsea",42.8184538,-1.6442556
+"29","Fikayo Tomori","ENG","D","1.84","75","19-12-97","Calgary","None","Chelsea",51.0534234,-114.0625892
+"31","Jamie Cumming","ENG","G","1.88","74","04-09-99","Winchester","None","Chelsea",51.0612766,-1.3131692
+"33","Emerson Palmieri","ITA","D","1.76","63","03-08-94","Santos","Roma","Chelsea",-23.960833,-46.333889
+"40","Karlo Žiger","CRO","G","","","11-05-01","Zagreb","Zagreb","Chelsea",45.813177,15.977048
+"45","George McEachran","ENG","M","","","30-08-00","Oxford","None","Chelsea",51.7520131,-1.2578499
+"46","Tariq Uwakwe","ENG","M","","","19-11-99","Islington","None","Chelsea",51.5384287,-0.0999051
+"47","Billy Gilmour","SCO","M","","","11-06-01","","Rangers","Chelsea",NA,NA
+"49","Marcel Lavinier","POR","D","","","16-12-00","Chelsea","None","Chelsea",51.4875417,-0.1682205
+"50","Nicolas Tie","FRA","G","","","13-02-01","Lille","Poitiers","Chelsea",50.6365654,3.0635282
+"52","Jon Russell","ENG","M","","","09-10-00","Hounslow","None","Chelsea",51.4686132,-0.3613471
+"53","Jack Wakely","ENG","D","","","25-10-00","High Wycombe","None","Chelsea",51.627422,-0.7484153
+"54","Jordan Aina","ENG","D","","","01-12-01","Southwark","None","Chelsea",51.5029222,-0.103458
+"55","Faustino Anjorin","ENG","M","","","23-11-01","Poole","None","Chelsea",50.7179472,-1.981521
+"56","Thierno Ballo","AUT","M","","","02-01-02","Abidjan","Viktoria Köln","Chelsea",5.320357,-4.016107
+"57","Armand Broja","ALB","F","","","10-09-01","Slough","None","Chelsea",51.50342695,-0.574872152385296
+"58","James Clark","ENG","D","","","05-09-01","Ealing","Leatherhead","Chelsea",51.5126553,-0.3051952
+"59","Pierre Ekwah Elimby","FRA","D","","","15-01-02","Massy","Nantes","Chelsea",49.6902106,1.399492
+"60","Jake Askew","ENG","G","","","08-02-02","Hillingdon","None","Chelsea",51.5425193,-0.448334931179497
+"61","Henry Lawrence","ENG","M","","","21-09-01","London","None","Chelsea",51.5073219,-0.1276474
+"62","Marcel Lewis","ENG","M","","","30-09-01","Cambridge","None","Chelsea",52.2034823,0.1235817
+"63","Ian Maatsen","NED","D","","","10-03-02","Vlaardingen","PSV Eindhoven","Chelsea",51.9227863,4.32956337887085
+"64","Sam McClelland","NIR","D","","","04-01-02","Coleraine","Coleraine","Chelsea",47.28883,-93.427708
+"65","George Nunn","ENG","F","","","23-11-01","Crewe","None","Chelsea",37.1732075,-78.1233329
+"66","Dynel Simeu","ENG","D","","","13-03-02","Yaoundé","None","Chelsea",3.8689867,11.5213344
+"67","Levi Colwill","ENG","D","","","26-02-03","Southampton","None","Chelsea",50.9025349,-1.404189
+"68","Xavier Simons","ENG","M","","","20-02-03","Hammersmith","Brenford","Chelsea",51.4920377,-0.2236401
+"70","Ethan Wady","USA","G","","","25-01-02","San Jose","None","Chelsea",37.3361905,-121.8905833
+"71","Lucas Bergstrom","FIN","G","","","05-09-02","Paragas","Turun PS","Chelsea",-2.42385255,-54.7419350429084
+"72","Tino Livramento","ENG","D","","","12-11-02","Croydon","None","Chelsea",51.3713049,-0.101957
+"2","Joel Ward","ENG","D","1.88","83","29-10-89","Emsworth","Portsmouth","
+Crystal Palace",50.8473211,-0.9371343
+"3","Patrick van Aanholt","NED","D","1.75","67","29-08-90","'s-Hertogenbosch","Sunderland","
+Crystal Palace",51.7099698,5.29191613945104
+"4","Luka Milivojevic","SRB","M","1.83","75","07-04-91","Kragujevac","Olympiakos","
+Crystal Palace",44.0125745,20.91877
+"5","James Tomkins","ENG","D","1.92","74","29-03-89","Basildon","West Ham U","
+Crystal Palace",51.5754602,0.4757363
+"6","Scott Dann","ENG","D","1.95","78","14-02-87","Liverpool","Blackburn R","
+Crystal Palace",53.407154,-2.991665
+"7","Max Meyer","GER","M","1.69","65","18-09-95","Oberhausen","Schalke","
+Crystal Palace",51.4696137,6.8514435
+"8","Cheikhou Kouyaté","SEN","M","1.89","83","21-12-89","Dakar","West Ham U","
+Crystal Palace",14.693425,-17.447938
+"9","Jordan Ayew","GHA","F","1.82","81","11-09-91","Marseille","Swansea C","
+Crystal Palace",43.2961743,5.3699525
+"10","Andros Townsend","ENG","M","1.81","77","16-07-91","Whipps Cross","Newcastle U","
+Crystal Palace",51.581543,-0.0001023
+"11","Wilfried Zaha","CIV","F","1.80","66","10-11-92","Abidjan","Manchester U","
+Crystal Palace",5.320357,-4.016107
+"12","Mamadou Sakho","FRA","D","1.87","80","13-02-90","Paris","Liverpool","
+Crystal Palace",48.8566969,2.3514616
+"13","Wayne Hennessey","WAL","G","1.97","89","24-01-87","Bangor","Wolverhampton W","
+Crystal Palace",44.8011821,-68.7778138
+"15","Jeffrey Schlupp","GHA","D","1.78","72","23-12-92","Hamburg","Leicester C","
+Crystal Palace",53.5437641,10.0099133
+"17","Christian Benteke","BEL","F","1.90","83","03-12-90","Kinshasa","Liverpool","
+Crystal Palace",-4.3217055,15.3125974
+"18","James McArthur","SCO","M","1.78","64","07-10-87","Glasgow","Wigan Ath","
+Crystal Palace",55.8609825,-4.2488787
+"19","Stephen Henderson","IRL","G","1.88","87","02-05-88","Dublin","Nottingham F","
+Crystal Palace",53.3497645,-6.2602732
+"20","Cenk Tosun","TUR","F","1.83","78","07-06-91","Wetzlar","Everton","
+Crystal Palace",50.5525346,8.5074406
+"22","James McCarthy","IRL","M","1.80","72","12-11-90","Glasgow","Everton","
+Crystal Palace",55.8609825,-4.2488787
+"24","Gary Cahill","ENG","D","1.93","86","19-12-85","Sheffield","Chelsea","
+Crystal Palace",53.3806626,-1.4702278
+"31","Vicente Guaita","ESP","G","1.90","81","10-01-87","Torrent","Getafe","
+Crystal Palace",39.436668,-0.4656213
+"34","Martin Kelly","ENG","D","1.91","77","27-04-90","Bolton","Liverpool","
+Crystal Palace",53.5782863,-2.4300367
+"36","Nikola Tavares","CRO","D","1.85","76","17-01-99","Cape Town","Brentford","
+Crystal Palace",-33.928992,18.417396
+"37","Nya Kirby","ENG","M","1.73","66","31-01-00","Islington","Tottenham H","
+Crystal Palace",51.5384287,-0.0999051
+"38","Gio McGregor","ENG","M","","","09-01-99","Hammersmith","Brentford","
+Crystal Palace",51.4920377,-0.2236401
+"39","Tyrick Mitchell","ENG","D","","","01-09-99","Brent","Brentford","
+Crystal Palace",32.9373463,-87.1647184
+"40","Brandon Pierrick","ENG","M","","","10-12-01","","None","
+Crystal Palace",NA,NA
+"42","Malachi Boateng","ENG","M","","","05-07-02","","None","
+Crystal Palace",NA,NA
+"43","David Boateng","ENG","M","","","08-05-01","","None","
+Crystal Palace",NA,NA
+"44","Jaïro Riedewald","NED","M","1.86","77","09-09-96","Amsterdam","Ajax","
+Crystal Palace",52.3745403,4.89797550561798
+"1","Jordan Pickford","ENG","G","1.85","77","07-03-94","Washington","Sunderland","Everton",38.8948932,-77.0365529
+"2","Mason Holgate","ENG","D","1.84","63","22-10-96","Doncaster","Barnsley","Everton",53.5227681,-1.1335312
+"3","Leighton Baines","ENG","D","1.70","74","11-12-84","Liverpool","Wigan Ath","Everton",53.407154,-2.991665
+"5","Michael Keane","ENG","D","1.91","82","11-01-93","Stockport","Burnley","Everton",53.407901,-2.160243
+"7","Richarlison","BRA","F","1.79","71","10-05-97","Nova Venécia","Watford","Everton",-18.7063456,-40.3969786
+"8","Fabian Delph","ENG","M","1.74","60","21-11-89","Bradford","Manchester C","Everton",53.7944229,-1.7519186
+"9","Dominic Calvert-Lewin","ENG","F","1.76","64","16-03-97","Sheffield","Sheffield U","Everton",53.3806626,-1.4702278
+"10","Gylfi Sigurðsson","ISL","M","1.86","77","08-09-89","Reykjavik","Swansea C","Everton",64.145981,-21.9422367
+"11","Theo Walcott","ENG","F","1.76","68","16-03-89","Stanmore","Arsenal","Everton",51.6188526,-0.3026271
+"12","Lucas Digne","FRA","D","1.78","74","20-07-93","Meaux","Barcelona","Everton",48.9582708,2.8773541
+"13","Yerry Mina","COL","D","1.93","75","23-09-94","Guachené","Barcelona","Everton",3.14261345,-76.3878972097552
+"17","Alex Iwobi","NGA","M","1.80","75","03-05-96","Lagos","Arsenal","Everton",6.4550575,3.3941795
+"18","Morgan Schneiderlin","FRA","M","1.81","75","08-11-89","Zettwiller","Manchester U","Everton",NA,NA
+"19","Djibril Sidibé","FRA","D","1.82","73","29-07-92","Troyes","Monaco","Everton",48.2971626,4.0746257
+"20","Bernard","BRA","M","1.67","52","08-09-92","Belo Horizonte","Shakhtar Donetsk","Everton",-19.9227318,-43.9450948
+"21","André Gomes","POR","M","1.88","84","30-07-93","Vila Nova de Gaia","Barcelona","Everton",41.1300103,-8.6058415
+"22","Maarten Stekelenburg","NED","G","1.97","92","22-09-82","Haarlem","Fulham","Everton",52.38370575,4.64355969655963
+"23","Séamus Coleman","IRL","D","1.77","67","11-10-88","Killybegs","Sligo R","Everton",54.6362345,-8.4442592
+"25","Jean-Philippe Gbamin","CIV","M","1.86","83","25-05-95","San-Pédro","Mainz","Everton",5.014152,-6.94022371627317
+"26","Tom Davies","ENG","M","1.80","70","30-06-98","Liverpool","None","Everton",53.407154,-2.991665
+"27","Moise Kean","ITA","F","1.83","67","28-02-00","Vercelli","Juventus","Everton",45.55538265,8.34628367832727
+"29","Oumar Niasse","SEN","F","1.82","75","18-04-90","Ouakam","Lokomotiv Moscow","Everton",14.7247367,-17.4850662
+"30","Cuco Martina","CUW","D","1.85","77","25-09-89","Rotterdam","Southampton","Everton",51.9228958,4.4631727
+"32","Jarrad Branthwaite","ENG","D","1.87","67","27-06-02","Carlisle","Carlisle U","Everton",54.8948478,-2.9362311
+"34","Beni Baningime","ENG","M","","","09-09-98","Kinshasa","None","Everton",-4.3217055,15.3125974
+"35","Dennis Adeniran","ENG","M","1.80","74","02-01-99","Southwark","Fulham","Everton",51.5029222,-0.103458
+"38","Ryan Astley","WAL","D","","","04-10-01","","None","Everton",NA,NA
+"39","Matty Foulds","ENG","D","1.83","74","17-02-98","Bradford","Bury","Everton",53.7944229,-1.7519186
+"42","Anthony Gordon","ENG","M","","","24-02-01","","None","Everton",NA,NA
+"43","Alex Denny","ENG","M","","","12-04-00","Chester","None","Everton",53.1908873,-2.8908955
+"44","Nathangelo Markelo","NED","D","","","07-01-99","Groningen","FC Volendam","Everton",53.2217925,6.55824533479853
+"46","Con Ouzounidis","AUS","D","","","08-10-99","","None","Everton",NA,NA
+"47","Manasse Mampala","ENG","D","","","18-07-00","Kinshasa","None","Everton",-4.3217055,15.3125974
+"48","Kyle John","ENG","M","","","13-02-01","","None","Everton",NA,NA
+"50","Ellis Simms","ENG","F","","","05-01-01","Oldham","None","Everton",35.3907651,-102.6193428
+"51","Kieran Phillips","ENG","F","","","23-06-00","","Huddersfield T","Everton",NA,NA
+"52","Nicolas Hansen","USA","G","","","10-07-01","","Weston FC","Everton",NA,NA
+"53","Harry Tyrer","ENG","G","","","06-12-01","Crosby","None","Everton",33.5778818,-101.2855737
+"54","Joseph Anderson","ENG","D","","","06-02-01","Stalybridge","None","Everton",53.4840214,-2.0562536
+"55","Einar Iversen","NOR","M","","","06-06-01","","Stord","Everton",NA,NA
+"56","Žan Luk Leban","SVN","G","","","15-12-02","","Escola Varsovia","Everton",NA,NA
+"57","Bobby Carroll","ENG","M","","","12-10-01","Doncaster","None","Everton",53.5227681,-1.1335312
+"58","MacKenzie Hunt","ENG","M","","","14-11-01","","None","Everton",NA,NA
+"59","Rhys Hughes","WAL","M","","","21-09-01","Wrexham","None","Everton",53.0465068,-2.9938137
+"60","Jack Barrett","ENG","G","","","04-06-02","","None","Everton",NA,NA
+"61","Lewis Dobbin","ENG","F","","","03-01-03","Stoke-on-Trent","None","Everton",53.0162014,-2.1812607
+"62","Tyler Onyango","ENG","M","","","04-03-03","Luton","None","Everton",51.89107295,-0.423030407620178
+"63","Jack McIntyre","ENG","G","","","18-10-02","Manchester","None","Everton",53.4794892,-2.2451148
+"1","Kasper Schmeichel","DEN","G","1.85","76","05-11-86","Copenhagen","Leeds U","Leicester City",55.6867243,12.5700724
+"2","James Justin","ENG","D","1.83","71","11-07-97","Luton","Luton T","Leicester City",51.89107295,-0.423030407620178
+"3","Ben Chilwell","ENG","D","1.78","71","21-12-96","Milton Keynes","None","Leicester City",52.0429797,-0.7589607
+"4","Çaglar Söyüncü","TUR","D","1.87","80","23-05-96","Izmir","Freiburg","Leicester City",38.4147331,27.1434119
+"5","Wes Morgan","JAM","D","1.85","93","21-01-84","Nottingham","Nottingham F","Leicester City",52.9534193,-1.1496461
+"6","Jonny Evans","NIR","D","1.88","77","02-01-88","Belfast","WBA","Leicester City",54.5964411,-5.9302761
+"7","Demarai Gray","ENG","M","1.79","66","28-06-96","Birmingham","Birmingham C","Leicester City",52.4796992,-1.9026911
+"8","Youri Tielemans","BEL","M","1.76","72","07-05-97","Sint-Pieters-Leeuw","Monaco","Leicester City",50.7800261,4.2443604
+"9","Jamie Vardy","ENG","F","1.78","76","11-01-87","Sheffield","Fleetwood T","Leicester City",53.3806626,-1.4702278
+"10","James Maddison","ENG","M","1.79","73","23-11-96","Coventry","Norwich C","Leicester City",52.4081812,-1.510477
+"11","Marc Albrighton","ENG","M","1.74","67","18-11-89","Tamworth","Aston Villa","Leicester City",-31.0900743,150.9290159
+"12","Danny Ward","WAL","G","1.91","88","22-06-93","Wrexham","Wrexham","Leicester City",53.0465068,-2.9938137
+"14","Kelechi Iheanacho","NGA","F","1.87","77","03-10-96","Owerri","Manchester C","Leicester City",5.489736,7.0341973
+"15","Harvey Barnes","ENG","M","1.74","66","09-12-97","Burnley","None","Leicester City",53.7907262,-2.2439196
+"17","Ayoze Pérez","ESP","F","1.79","66","23-07-93","Santa Cruz de Tenerife","Newcastle U","Leicester City",28.469648,-16.2540884
+"18","Daniel Amartey","GHA","M","1.83","78","01-12-94","Accra","FC København","Leicester City",5.5600141,-0.2057437
+"20","Hamza Choudhury","ENG","M","1.78","64","01-10-97","Loughborough","None","Leicester City",52.7723859,-1.2077985
+"21","Ricardo Pereira","POR","D","1.75","70","06-10-93","Lisbon","FC Porto","Leicester City",38.7077507,-9.1365919
+"22","Matthew James","ENG","M","1.78","74","22-07-91","Bacup","Manchester U","Leicester City",53.7024932,-2.201046
+"24","Nampalys Mendy","FRA","M","1.68","68","23-06-92","La Seyne-sur-Mer","Nice","Leicester City",43.1007714,5.8788948
+"25","Wilfred Ndidi","NGA","M","1.87","80","16-12-96","Lagos","KRC Genk","Leicester City",6.4550575,3.3941795
+"26","Dennis Praet","BEL","M","1.81","78","14-05-94","Leuven","Sampdoria","Leicester City",50.879202,4.7011675
+"28","Christian Fuchs","AUT","D","1.86","80","07-04-86","Pitten","Schalke","Leicester City",47.7161255,16.1865133
+"33","Bartosz Kapustka","POL","M","1.79","60","23-12-96","Tarnów","Cracovia Kraków","Leicester City",50.0123784,20.9880739
+"35","Eldin Jakupovic","SUI","G","1.91","87","02-10-84","Sarajevo","Hull C","Leicester City",43.8519774,18.3866868
+"38","Khanya Leshabela","RSA","M","1.75","72","18-09-99","","None","Leicester City",NA,NA
+"39","Darnell Johnson","ENG","D","1.85","83","03-09-98","Leicester","None","Leicester City",52.6361398,-1.1330789
+"40","Viktor Johansson","SWE","G","1.86","72","14-09-98","","Aston Villa","Leicester City",NA,NA
+"42","Rhys Davies","WAL","G","","","27-11-99","Cardiff","Newport Co","Leicester City",51.4816546,-3.1791934
+"43","Jakub Stolarczyk","POL","G","","","19-12-00","","None","Leicester City",NA,NA
+"44","Vontae Daley-Campbell","ENG","D","","","04-04-01","","Arsenal","Leicester City",NA,NA
+"45","George Hirst","ENG","F","","","15-02-99","Sheffield","OH Leuven","Leicester City",53.3806626,-1.4702278
+"46","Callum Wright","ENG","M","","","02-05-00","","Blackburn R","Leicester City",NA,NA
+"47","Josh Eppiah","BEL","F","","","11-10-98","","None","Leicester City",NA,NA
+"48","Calvin Ughelumba","ITA","D","","","31-12-99","","None","Leicester City",NA,NA
+"50","Darragh O'Connor","IRL","D","","","05-08-99","Clonroche","Wexford","Leicester City",52.4496112,-6.7179575
+"51","Callum Hulme","ENG","M","1.70","65","10-11-00","Manchester","Bury","Leicester City",53.4794892,-2.2451148
+"53","Tyrese Shade","ENG","M","","","","Birmingham","Solihull Moors","Leicester City",52.4796992,-1.9026911
+"54","Conor Tee","ENG","M","","","15-07-00","Northampton","None","Leicester City",52.2381355,-0.8963907
+"55","Ali Reghba","IRL","F","","","14-01-00","","Bohemians","Leicester City",NA,NA
+"56","Luke Thomas","ENG","D","","","","","None","Leicester City",NA,NA
+"57","Sidnei Tavares","POR","M","","","29-09-01","","None","Leicester City",NA,NA
+"58","Adam Leathers","ENG","M","","","14-11-01","","None","Leicester City",NA,NA
+"59","Dempsey Arlott-John","ENG","F","","","14-11-01","","None","Leicester City",NA,NA
+"60","Dennis Gyamfi","GHA","D","","","","","None","Leicester City",NA,NA
+"61","Will Russ","WAL","F","","","08-11-02","","Chesterfield","Leicester City",NA,NA
+"62","Faiq Bolkiah","BRU","F","1.75","69","09-05-98","Los Angeles","Chelsea","Leicester City",34.0536909,-118.2427666
+"63","Justen Kranthove","NED","D","1.92","81","19-09-00","Amsterdam","AFC '34","Leicester City",52.3745403,4.89797550561798
+"64","Liam Loughlan","ENG","M","","","24-04-02","","None","Leicester City",NA,NA
+"65","Terell Pennant","ENG","F","","","14-09-02","Leicester","None","Leicester City",52.6361398,-1.1330789
+"","Ryan Bennett","ENG","D","1.88","70","06-03-90","Orsett","Wolverhampton W","Leicester City",51.5116644,0.3674076
+"1","Alisson Becker","BRA","G","1.91","91","02-10-92","Novo Hamburgo","Roma","Liverpool",-29.6905705,-51.1429035
+"2","Nathaniel Clyne","ENG","D","1.75","67","05-04-91","Stockwell","Southampton","Liverpool",51.472211,-0.1225014
+"3","Fabinho","BRA","M","1.87","78","23-10-93","Campinas","Monaco","Liverpool",-22.90556,-47.06083
+"4","Virgil van Dijk","NED","D","1.93","92","08-07-91","Breda","Southampton","Liverpool",51.5887845,4.7760237
+"5","Georginio Wijnaldum","NED","M","1.75","69","11-11-90","Rotterdam","Newcastle U","Liverpool",51.9228958,4.4631727
+"6","Dejan Lovren","CRO","D","1.88","84","05-07-89","Karlovac","Southampton","Liverpool",45.4892522,15.5486303
+"7","James Milner","ENG","M","1.75","70","04-01-86","Wortley","Manchester C","Liverpool",53.7903187,-1.5831141
+"8","Naby Keïta","GUI","M","1.72","64","10-02-95","Conakry","RB Leipzig","Liverpool",9.5170602,-13.6998434
+"9","Roberto Firmino","BRA","F","1.81","76","02-10-91","Maceió","1899 Hoffenheim","Liverpool",-9.6476843,-35.7339264
+"10","Sadio Mané","SEN","F","1.75","69","10-04-92","Sédhiou","Southampton","Liverpool",12.91008895,-15.5533027919228
+"11","Mohamed Salah","EGY","F","1.75","72","15-06-92","Basyoun","Roma","Liverpool",NA,NA
+"12","Joe Gomez","ENG","D","1.88","77","23-05-97","Catford","Charlton Ath","Liverpool",51.4453215,-0.0197534
+"13","Adrián","ESP","G","1.90","80","03-01-87","Seville","West Ham U","Liverpool",37.3886303,-5.9953403
+"14","Jordan Henderson","ENG","M","1.82","67","17-06-90","Sunderland","Sunderland","Liverpool",54.9058512,-1.3828727
+"15","Alex Oxlade-Chamberlain","ENG","M","1.80","70","15-08-93","Portsmouth","Arsenal","Liverpool",50.8036831,-1.075614
+"18","Takumi Minamino","JPN","F","1.74","67","16-01-95","Osaka","Red Bull Salzburg","Liverpool",34.6198813,135.490357
+"20","Adam Lallana","ENG","M","1.72","73","10-05-88","St Albans","Southampton","Liverpool",51.7492956,-0.3422526
+"22","Andy Lonergan","ENG","G","1.92","87","19-10-83","Preston","Middlesbrough","Liverpool",53.7593363,-2.6992717
+"23","Xherdan Shaqiri","SUI","M","1.69","72","10-10-91","Gnjilane","Stoke C","Liverpool",42.4635017,21.4681816
+"26","Andrew Robertson","SCO","D","1.78","63","11-03-94","Glasgow","Hull C","Liverpool",55.8609825,-4.2488787
+"27","Divock Origi","BEL","F","1.85","75","18-04-95","Ostend","Lille","Liverpool",51.2258565,2.919496
+"32","Joel Matip","CMR","D","1.95","90","08-08-91","Bochum","Schalke","Liverpool",51.4818111,7.2196635
+"45","Dal Varešanovic","BIH","M","","","23-05-01","Vienna","Sarajevo","Liverpool",48.2083537,16.3725042
+"46","Adam Lewis","ENG","D","","","08-11-99","Liverpool","None","Liverpool",53.407154,-2.991665
+"48","Curtis Jones","ENG","M","","","30-01-01","Liverpool","None","Liverpool",53.407154,-2.991665
+"49","Liam Millar","CAN","F","1.76","72","27-09-99","Toronto","Fulham","Liverpool",43.653963,-79.387207
+"51","Ki-Jana Hoever","NED","D","","","18-01-02","Amsterdam","Ajax","Liverpool",52.3745403,4.89797550561798
+"52","Daniel Atherton","ENG","G","","","18-12-99","Haydock","None","Liverpool",53.4671946,-2.6618064
+"53","Joe Hardy","ENG","F","","","26-09-98","Wirral","Brentford","Liverpool",53.3409714,-3.0500916
+"56","Tony Gallacher","SCO","D","1.73","65","23-07-99","Glasgow","Falkirk","Liverpool",55.8609825,-4.2488787
+"62","Caoimhin Kelleher","IRL","G","","","23-11-98","Cork","Ringmahon Rangers","Liverpool",51.8979282,-8.4705806
+"63","Ben Winterbottom","ENG","G","","","16-07-01","Preston","Blackburn R","Liverpool",53.7593363,-2.6992717
+"65","Tom Clayton","SCO","D","","","16-12-00","Rainford","None","Liverpool",53.5020825,-2.7878773
+"66","Trent Alexander-Arnold","ENG","D","1.75","69","07-10-98","Liverpool","None","Liverpool",53.407154,-2.991665
+"67","Harvey Elliott","ENG","M","","","04-04-03","Chertsey","Fulham","Liverpool",46.0727975,-73.8886371
+"68","Pedro Chirivella","ESP","M","1.78","66","23-05-97","Valencia","Valencia","Liverpool",39.4699014,-0.3759513
+"69","Elijah Dixon-Bonner","ENG","M","","","01-01-01","London","Arsenal","Liverpool",51.5073219,-0.1276474
+"70","Yasser Larouci","FRA","D","","","01-01-01","El Oued","Le Havre","Liverpool",33.3611766,6.8603492
+"72","Sepp van den Berg","NED","D","1.90","78","20-12-01","Zwolle","PEC Zwolle","Liverpool",52.51456525,6.09772035967769
+"75","Luis Longstaff","ENG","M","","","24-02-01","Darlington","Newcastle U","Liverpool",54.5242081,-1.5555812
+"76","Neco Williams","WAL","D","","","13-04-01","Wrexham","None","Liverpool",53.0465068,-2.9938137
+"77","Morgan Boyes","WAL","D","","","22-04-01","Chester","None","Liverpool",53.1908873,-2.8908955
+"78","Vítezslav Jaroš","CZE","G","","","23-07-01","Príbram","Slavia Prague","Liverpool",49.6901444,14.0103663
+"80","Jake Cain","ENG","M","","","02-09-01","Wigan","None","Liverpool",53.5457188,-2.6264624
+"81","Jack Bearne","ENG","M","","","15-09-01","Nottingham","Notts Co","Liverpool",52.9534193,-1.1496461
+"83","Jack Walls","ENG","D","","","16-10-01","Liverpool","None","Liverpool",53.407154,-2.991665
+"84","Leighton Clarkson","ENG","M","","","19-10-01","Blackburn","None","Liverpool",53.749326,-2.4840566
+"85","Remi Savage","ENG","D","","","26-10-01","Liverpool","None","Liverpool",53.407154,-2.991665
+"88","Owen Beck","WAL","D","","","09-08-02","Wrexham","None","Liverpool",53.0465068,-2.9938137
+"89","Billy Koumetio","FRA","D","","","14-11-02","Lyon","Orléans","Liverpool",45.7578137,4.8320114
+"92","Tyler Morton","ENG","M","","","31-10-02","Wirral","None","Liverpool",53.3409714,-3.0500916
+"93","James Norris","ENG","D","","","04-04-03","Liverpool","None","Liverpool",53.407154,-2.991665
+"94","Jarell Quansah","ENG","D","","","29-01-03","Warrington","None","Liverpool",53.4018582,-2.5680223597163
+"97","Layton Stewart","ENG","F","","","03-09-02","Liverpool","None","Liverpool",53.407154,-2.991665
+"99","Thomas Hill","ENG","M","","","13-10-02","Formby","None","Liverpool",53.5563035,-3.0656565
+"1","Claudio Bravo","CHI","G","1.84","80","13-04-83","Viluco","Barcelona","Manchester 
+City",-34.8962818,-71.1593473
+"2","Kyle Walker","ENG","D","1.83","83","28-05-90","Sheffield","Tottenham H","Manchester 
+City",53.3806626,-1.4702278
+"5","John Stones","ENG","D","1.88","70","28-05-94","Barnsley","Everton","Manchester 
+City",53.5527719,-1.4827755
+"7","Raheem Sterling","ENG","F","1.70","69","08-12-94","Kingston","Liverpool","Manchester 
+City",17.9712148,-76.7928128
+"8","Ilkay Gündogan","GER","M","1.80","80","24-10-90","Gelsenkirchen","Borussia Dortmund","Manchester 
+City",51.5110321,7.0960124
+"9","Gabriel Jesus","BRA","F","1.75","73","03-04-97","São Paulo","Palmeiras","Manchester 
+City",-23.5506507,-46.6333824
+"10","Sergio Agüero","ARG","F","1.73","70","02-06-88","Capital Federal","Atlético Madrid","Manchester 
+City",-34.6075682,-58.4370894
+"11","Oleksandr Zinchenko","UKR","D","1.75","61","15-12-96","Illichivsk","FC Ufa","Manchester 
+City",46.3020943,30.653466
+"14","Aymeric Laporte","FRA","D","1.91","87","27-05-94","Agen","Athletic Bilbao","Manchester 
+City",44.2015624,0.6176324
+"16","Rodri","ESP","M","1.90","78","22-06-96","Madrid","Atlético Madrid","Manchester 
+City",40.4167047,-3.7035825
+"17","Kevin De Bruyne","BEL","M","1.81","68","28-06-91","Drongen","Wolfsburg","Manchester 
+City",51.0528944,3.63953457678636
+"19","Leroy Sané","GER","F","1.83","75","11-01-96","Essen","Schalke","Manchester 
+City",51.4582235,7.0158171
+"20","Bernardo Silva","POR","M","1.73","62","10-08-94","Lisbon","Monaco","Manchester 
+City",38.7077507,-9.1365919
+"21","David Silva","ESP","M","1.73","67","08-01-86","Arguineguín","Valencia","Manchester 
+City",27.7590753,-15.6813497
+"22","Benjamin Mendy","FRA","D","1.80","72","17-07-94","Longjumeau","Monaco","Manchester 
+City",48.6943793,2.2953297
+"25","Fernandinho","BRA","M","1.79","67","04-05-85","Londrina","Shakhtar Donetsk","Manchester 
+City",-23.3112878,-51.1595023
+"26","Riyad Mahrez","ALG","M","1.79","62","21-02-91","Sarcelles","Leicester C","Manchester 
+City",48.9960813,2.3796245
+"27","João Cancelo","POR","D","1.82","74","27-05-94","Barreiro","Juventus","Manchester 
+City",38.6340657,-9.04785672725107
+"30","Nicolás Otamendi","ARG","D","1.83","81","12-02-88","Pacheco","Valencia","Manchester 
+City",37.990188,-122.06975043068
+"31","Ederson","BRA","G","1.88","89","17-08-93","Osasco","Benfica","Manchester 
+City",-23.5324859,-46.7916801
+"32","Daniel Grimshaw","ENG","G","","","16-01-98","Manchester","None","Manchester 
+City",53.4794892,-2.2451148
+"33","Scott Carson","ENG","G","1.83","86","03-09-85","Whitehaven","Derby Co","Manchester 
+City",54.5474199,-3.5885335
+"47","Phil Foden","ENG","M","","","28-05-00","Stockport","None","Manchester 
+City",53.407901,-2.160243
+"50","Eric García","ESP","D","1.82","79","09-01-01","Barcelona","Barcelona","Manchester 
+City",41.3828939,2.1774322
+"51","Nabil Touaizi","ESP","F","","","01-02-01","","Valencia","Manchester 
+City",NA,NA
+"52","Tyreke Wilson","IRL","D","","","02-12-99","Dublin","Cherry Orchard","Manchester 
+City",53.3497645,-6.2602732
+"55","Gavin Bazunu","IRL","G","1.89","79","20-02-02","Dublin","Shamrock R","Manchester 
+City",53.3497645,-6.2602732
+"57","Yeboah Amankwah","ENG","D","","","19-10-00","","None","Manchester 
+City",NA,NA
+"58","Thomas Scott","ENG","G","","","28-10-00","Leeds","None","Manchester 
+City",53.7974185,-1.5437941
+"59","Henri Ogunby","ENG","M","","","21-01-01","Bolton","None","Manchester 
+City",53.5782863,-2.4300367
+"60","Fisayo Dele-Bashiru","ENG","M","","","06-02-01","Hamburg","None","Manchester 
+City",53.5437641,10.0099133
+"61","Felix Nmecha","ENG","M","","","10-10-00","Hamburg","None","Manchester 
+City",53.5437641,10.0099133
+"62","Nathaniel Ogbeta","ENG","D","","","28-04-01","Salford","None","Manchester 
+City",53.4877463,-2.2891921
+"63","Keyendrah Simmonds","ENG","F","","","31-05-01","Manchester","None","Manchester 
+City",53.4794892,-2.2451148
+"64","Rowan McDonald","ENG","M","","","20-10-01","Oldham","None","Manchester 
+City",35.3907651,-102.6193428
+"66","Iker Pozo","ESP","M","","","06-08-00","","Real Madrid","Manchester 
+City",NA,NA
+"69","Tommy Doyle","ENG","M","","","17-10-01","Manchester","None","Manchester 
+City",53.4794892,-2.2451148
+"70","Louie Moulden","ENG","G","","","06-01-02","Bolton","None","Manchester 
+City",53.5782863,-2.4300367
+"71","Lewis Fiorini","SCO","M","","","17-05-02","Manchester","None","Manchester 
+City",53.4794892,-2.2451148
+"72","Morgan Rogers","ENG","M","","","26-07-02","","WBA","Manchester 
+City",NA,NA
+"73","Jayden Braaf","NED","F","","","31-08-02","Amsterdam","PSV Eindhoven","Manchester 
+City",52.3745403,4.89797550561798
+"77","Sammy Robinson","ENG","D","","","09-01-02","Cheltenham","None","Manchester 
+City",51.8995685,-2.0711559
+"78","Taylor Harwood-Bellis","ENG","D","","","30-01-02","","None","Manchester 
+City",NA,NA
+"80","Cole Palmer","ENG","M","","","06-05-02","Manchester","None","Manchester 
+City",53.4794892,-2.2451148
+"82","Adrián Bernabé","ESP","M","","","26-05-01","","Barcelona","Manchester 
+City",NA,NA
+"84","Cieran Slicker","SCO","G","","","15-09-02","","None","Manchester 
+City",NA,NA
+"85","James Trafford","ENG","G","","","10-10-02","","None","Manchester 
+City",NA,NA
+"87","James McAtee","ENG","M","","","18-10-02","","None","Manchester 
+City",NA,NA
+"88","Richard Dionkou","ESP","D","1.83","70","10-10-01","Sindone","Mallorca","Manchester 
+City",45.07317265,7.68586468348643
+"94","Finley Burns","ENG","D","","","17-06-03","","Southend U","Manchester 
+City",NA,NA
+"96","Ben Knight","ENG","M","","","30-11-02","","Ipswich T","Manchester 
+City",NA,NA
+"1","David De Gea","ESP","G","1.92","76","07-11-90","Madrid","Atlético Madrid","Manchester 
+United",40.4167047,-3.7035825
+"2","Victor Lindelöf","SWE","D","1.87","82","17-07-94","Västerås","Benfica","Manchester 
+United",59.6110992,16.5463679
+"3","Eric Bailly","CIV","D","1.87","77","12-04-94","Abidjan","Villarreal","Manchester 
+United",5.320357,-4.016107
+"4","Phil Jones","ENG","D","1.80","71","21-02-92","Preston","Blackburn R","Manchester 
+United",53.7593363,-2.6992717
+"5","Harry Maguire","ENG","D","1.88","79","05-03-93","Sheffield","Leicester C","Manchester 
+United",53.3806626,-1.4702278
+"6","Paul Pogba","FRA","M","1.91","84","15-03-93","Lagny-sur-Marne","Juventus","Manchester 
+United",48.8773018,2.7056056
+"8","Juan Mata","ESP","M","1.70","63","28-04-88","Burgos","Chelsea","Manchester 
+United",42.343926,-3.696977
+"9","Anthony Martial","FRA","F","1.81","76","05-12-95","Massy","Monaco","Manchester 
+United",49.6902106,1.399492
+"10","Marcus Rashford","ENG","F","1.80","70","31-10-97","Manchester","None","Manchester 
+United",53.4794892,-2.2451148
+"13","Lee Grant","ENG","G","1.93","83","27-01-83","Hemel Hempstead","Stoke C","Manchester 
+United",51.7511784,-0.472528
+"14","Jesse Lingard","ENG","M","1.75","62","15-12-92","Warrington","None","Manchester 
+United",53.4018582,-2.5680223597163
+"15","Andreas Pereira","BRA","M","1.77","66","01-01-96","Duffel","PSV Eindhoven","Manchester 
+United",51.0957176,4.5061988
+"17","Fred","BRA","M","1.69","68","05-03-93","Belo Horizonte","Shakhtar Donetsk","Manchester 
+United",-19.9227318,-43.9450948
+"18","Bruno Fernandes","POR","M","1.79","75","08-09-94","Maia","Sporting CP","Manchester 
+United",41.23734565,-8.62999817336433
+"20","Diogo Dalot","POR","D","1.84","75","18-03-99","Braga","FC Porto","Manchester 
+United",41.5510583,-8.4280045
+"21","Daniel James","WAL","M","1.80","76","10-11-97","Kingston upon Hull","Swansea C","Manchester 
+United",53.7435722,-0.3394758
+"22","Sergio Romero","ARG","G","1.92","87","22-02-87","Bernardo de Irigoyen","Sampdoria","Manchester 
+United",-26.2553959,-53.6467366
+"23","Luke Shaw","ENG","D","1.85","75","12-07-95","Kingston upon Thames","Southampton","Manchester 
+United",51.4096275,-0.3062621
+"24","Timothy Fosu-Mensah","NED","D","1.90","78","02-01-98","Amsterdam","Ajax","Manchester 
+United",52.3745403,4.89797550561798
+"25","Odion Ighalo","NGA","F","1.88","70","16-06-89","Lagos","Shanghai Shenhua","Manchester 
+United",6.4550575,3.3941795
+"26","Mason Greenwood","ENG","F","","","01-10-01","Bradford","None","Manchester 
+United",53.7944229,-1.7519186
+"28","Angel Gomes","ENG","M","","","31-08-00","Enfield","None","Manchester 
+United",51.6520851,-0.0810175
+"29","Aaron Wan-Bissaka","ENG","D","1.83","72","26-11-97","Croydon","Crystal Palace","Manchester 
+United",51.3713049,-0.101957
+"30","Nathan Bishop","ENG","G","1.85","72","15-10-99","Hillingdon","Southend U","Manchester 
+United",51.5425193,-0.448334931179497
+"31","Nemanja Matic","SRB","M","1.94","85","01-08-88","Šabac","Chelsea","Manchester 
+United",44.7571535,19.6953972
+"32","Paul Woolston","ENG","G","1.80","85","14-08-98","North Shields","Newcastle U","Manchester 
+United",55.0093149,-1.4451288
+"33","Luca Ercolani","ITA","D","","","25-11-99","Ravenna","Forlì","Manchester 
+United",44.3640607,12.0590094908639
+"35","Demi Mitchell","ENG","D","1.75","75","11-01-97","Manchester","None","Manchester 
+United",53.4794892,-2.2451148
+"37","James Garner","ENG","M","","","13-03-01","Birkenhead","None","Manchester 
+United",53.3943509,-3.0191569
+"38","Axel Tuanzebe","ENG","D","1.82","75","14-11-97","Bunia","None","Manchester 
+United",1.5620529,30.2478844
+"39","Scott McTominay","SCO","M","1.78","65","08-12-96","Lancaster","None","Manchester 
+United",40.03813,-76.3056686
+"41","Ethan Laird","ENG","D","","","05-08-01","Basingstoke","None","Manchester 
+United",51.262826,-1.0861976
+"44","Tahith Chong","NED","F","1.85","70","04-12-99","Willemstad","Feyenoord","Manchester 
+United",12.1091242,-68.9316546
+"46","Hannibal Mejbri","FRA","M","","","21-01-03","Ivry-sur-Seine","Monaco","Manchester 
+United",48.8122302,2.3872525
+"47","Arnau Puigmal","ESP","M","","","10-01-01","","Espanyol","Manchester 
+United",NA,NA
+"49","D'Mani Mellor","ENG","F","","","20-09-00","Manchester","None","Manchester 
+United",53.4794892,-2.2451148
+"50","Alex Fojtícek","SVK","G","","","03-03-00","Prešov","Tatran Prešov","Manchester 
+United",48.99594245,21.2462787922124
+"51","Matej Kovár","CZE","G","","","17-05-00","","Slovácko","Manchester 
+United",NA,NA
+"52","Max Taylor","ENG","D","","","10-01-00","Manchester","None","Manchester 
+United",53.4794892,-2.2451148
+"53","Brandon Williams","ENG","D","","","03-09-00","Manchester","None","Manchester 
+United",53.4794892,-2.2451148
+"54","Ethan Galbraith","NIR","M","","","11-05-01","Belfast","Linfield","Manchester 
+United",54.5964411,-5.9302761
+"57","Aliou Traore","FRA","M","","","08-01-01","Sarcelles","Paris St-Germain","Manchester 
+United",48.9960813,2.3796245
+"58","Di'Shon Bernard","ENG","D","","","14-10-00","Wandsworth","None","Manchester 
+United",51.4570271,-0.1932607
+"59","Largie Ramazani","BEL","F","","","27-02-01","Sint-Agatha-Berchem","Charlton Ath","Manchester 
+United",50.8649231,4.2946734
+"60","Ondrej Mastný","CZE","G","","","08-03-02","","Vysocina Jihlava","Manchester 
+United",NA,NA
+"61","Dion McGhee","ENG","M","","","14-09-00","Oldham","None","Manchester 
+United",35.3907651,-102.6193428
+"62","Anthony Elanga","SWE","F","","","27-04-02","Hyllie","None","Manchester 
+United",55.56274605,12.975852768036
+"63","Dylan Levitt","WAL","M","","","17-11-00","Bodelwyddan","None","Manchester 
+United",53.2705527,-3.5129657
+"65","Dillon Hoogewerf","NED","F","","","27-02-03","Almere","Ajax","Manchester 
+United",52.44175125,5.20929431043276
+"71","Teden Mengi","ENG","D","","","30-04-02","Kaduna","None","Manchester 
+United",10.3825318,7.8533226
+"72","Mark Helm","ENG","M","","","21-01-01","Warrington","None","Manchester 
+United",53.4018582,-2.5680223597163
+"74","Charlie McCann","IRL","M","","","24-04-02","Coventry","Coventry C","Manchester 
+United",52.4081812,-1.510477
+"75","Reece Devine","ENG","D","","","18-12-01","","Manchester C","Manchester 
+United",NA,NA
+"76","Jacob Carney","ENG","G","","","21-04-01","","None","Manchester 
+United",NA,NA
+"77","William Fish","ENG","D","","","17-02-03","","None","Manchester 
+United",NA,NA
+"82","Lukasz Bejger","POL","D","","","11-01-02","Poznan","Lech Poznan","Manchester 
+United",52.4082663,16.9335199
+"86","Ayodeji Sotona","IRL","F","","","07-12-02","Waterford","None","Manchester 
+United",52.2609997,-7.1119081
+"88","Charlie Wellens","ENG","M","","","05-12-02","Salford","None","Manchester 
+United",53.4877463,-2.2891921
+"1","Martin Dúbravka","SVK","G","1.90","83","15-01-89","Žilina","Sparta Prague","Newcastle 
+United",49.22055575,18.7260535114405
+"2","Ciaran Clark","IRL","D","1.88","76","26-09-89","Harrow","Aston Villa","Newcastle 
+United",51.5967688,-0.33727515543507
+"3","Paul Dummett","WAL","D","1.78","65","26-09-91","Newcastle upon Tyne","None","Newcastle 
+United",54.9738474,-1.6131572
+"5","Fabian Schär","SUI","D","1.88","84","20-12-91","Wil","Deportivo La Coruña","Newcastle 
+United",41.5018224,-84.5923785
+"6","Jamaal Lascelles","ENG","D","1.88","83","11-12-93","Derby","Nottingham F","Newcastle 
+United",52.9212617,-1.4761491
+"7","Andy Carroll","ENG","F","1.93","79","06-01-89","Gateshead","West Ham U","Newcastle 
+United",54.9625789,-1.6019294
+"8","Jonjo Shelvey","ENG","M","1.83","70","27-02-92","Romford","Swansea C","Newcastle 
+United",51.5760462,0.1822646
+"9","Joelinton","BRA","F","1.90","76","14-08-96","Aliança","1899 Hoffenheim","Newcastle 
+United",-7.60398,-35.222696
+"10","Allan Saint-Maximin","FRA","F","1.73","67","12-03-97","Châtenay-Malabry","Nice","Newcastle 
+United",48.7670404,2.2775316
+"11","Matt Ritchie","SCO","M","1.73","70","10-09-89","Gosport","Bournemouth","Newcastle 
+United",50.7952074,-1.1210853
+"12","Dwight Gayle","ENG","F","1.77","73","20-10-90","Walthamstow","Crystal Palace","Newcastle 
+United",51.5844701,-0.0188186
+"13","Yoshinori Muto","JPN","F","1.78","69","15-07-92","Tokyo","Mainz","Newcastle 
+United",35.6828387,139.7594549
+"14","Isaac Hayden","ENG","D","1.87","79","22-03-95","Chelmsford","Arsenal","Newcastle 
+United",51.7345436,0.4724544
+"15","Jetro Willems","NED","D","1.69","66","30-03-94","Rotterdam","Eintracht Frankfurt","Newcastle 
+United",51.9228958,4.4631727
+"17","Emil Krafth","SWE","D","1.84","83","02-08-94","Stockholm","Amiens","Newcastle 
+United",59.3251172,18.0710935
+"18","Federico Fernández","ARG","D","1.90","83","21-02-89","Tres Algarrobos","Swansea C","Newcastle 
+United",-35.1958619,-62.7741166
+"19","Javi Manquillo","ESP","D","1.80","75","05-05-94","Madrid","Atlético Madrid","Newcastle 
+United",40.4167047,-3.7035825
+"20","Florian Lejeune","FRA","D","1.88","81","20-05-91","Paris","Eibar","Newcastle 
+United",48.8566969,2.3514616
+"21","Robert Elliot","IRL","G","1.90","98","30-04-86","Chatham","Charlton Ath","Newcastle 
+United",35.7151316,-79.2533035
+"22","DeAndre Yedlin","USA","D","1.73","68","09-07-93","Seattle","Tottenham H","Newcastle 
+United",47.6038321,-122.3300624
+"23","Valentino Lazaro","AUT","M","1.80","75","24-03-96","Graz","Internazionale","Newcastle 
+United",47.0708678,15.4382786
+"24","Miguel Almirón","PAR","M","1.77","70","01-02-94","Asunción","Atlanta U","Newcastle 
+United",-25.2800459,-57.6343814
+"25","Jamie Sterry","ENG","D","1.80","70","21-11-95","Newcastle upon Tyne","None","Newcastle 
+United",54.9738474,-1.6131572
+"26","Karl Darlow","ENG","G","1.85","79","08-10-90","Northampton","Nottingham F","Newcastle 
+United",52.2381355,-0.8963907
+"28","Danny Rose","ENG","D","1.74","76","02-07-90","Doncaster","Tottenham H","Newcastle 
+United",53.5227681,-1.1335312
+"30","Christian Atsu","GHA","M","1.72","68","10-01-92","Ada Foah","Chelsea","Newcastle 
+United",5.781638,0.633197
+"33","Liam Gibson","ENG","D","1.85","80","25-04-97","Stanley","None","Newcastle 
+United",-51.6950575,-57.8491693
+"35","Kyle Scott","USA","M","1.72","60","12-12-97","Bath","Chelsea","Newcastle 
+United",51.38092635,-2.37418971512966
+"36","Sean Longstaff","ENG","M","1.81","65","30-10-97","North Shields","None","Newcastle 
+United",55.0093149,-1.4451288
+"38","Víctor Fernández","ESP","F","","","02-05-98","Barcelona","Cornellà","Newcastle 
+United",41.3828939,2.1774322
+"39","Jake Turner","ENG","G","1.94","82","25-02-99","Wilmslow","Bolton W","Newcastle 
+United",53.3261292,-2.2327511
+"40","Rosaire Longelo","ENG","M","","","20-10-99","","West Ham U","Newcastle 
+United",NA,NA
+"42","Nabil Bentaleb","ALG","M","1.87","68","24-11-94","Lille","Schalke","Newcastle 
+United",50.6365654,3.0635282
+"43","Matthew Longstaff","ENG","M","","","21-03-00","Rotherham","None","Newcastle 
+United",53.4310417,-1.355187
+"44","Mohammed Sangare","LBR","M","","","28-12-98","","None","Newcastle 
+United",NA,NA
+"45","Lewis Cass","ENG","D","","","07-02-00","North Shields","None","Newcastle 
+United",55.0093149,-1.4451288
+"46","Luke Charman","ENG","F","","","09-12-97","Durham","None","Newcastle 
+United",35.996653,-78.9018053
+"47","Elias Sørensen","DEN","F","","","18-09-99","","HB Køge","Newcastle 
+United",NA,NA
+"48","Owen Bailey","ENG","D","","","22-01-99","Newcastle upon Tyne","None","Newcastle 
+United",54.9738474,-1.6131572
+"50","Tom Allan","ENG","F","","","23-09-99","Newcastle upon Tyne","None","Newcastle 
+United",54.9738474,-1.6131572
+"51","Yannick Toure","SUI","F","","","29-09-00","Dakar","Young Boys","Newcastle 
+United",14.693425,-17.447938
+"52","Oliver Walters","ENG","D","","","16-05-00","Newcastle upon Tyne","None","Newcastle 
+United",54.9738474,-1.6131572
+"53","Adam Wilson","ENG","F","","","10-04-00","Ashington","None","Newcastle 
+United",55.18354185,-1.58641198609403
+"54","Dan Langley","ENG","G","","","28-12-00","","None","Newcastle 
+United",NA,NA
+"55","Ludwig Francillette","FRA","D","","","05-05-99","","Quetigny","Newcastle 
+United",NA,NA
+"58","Ryan Barrett","WAL","D","","","05-06-01","","None","Newcastle 
+United",NA,NA
+"59","Oisin McEntee","IRL","D","1.92","78","05-01-01","New York","None","Newcastle 
+United",40.7127281,-74.0060152
+"60","Jack Young","ENG","M","","","21-10-00","","None","Newcastle 
+United",NA,NA
+"63","Lucas Gamblin","ENG","D","","","21-06-02","","None","Newcastle 
+United",NA,NA
+"64","Kain Reed","ENG","F","","","16-01-02","","None","Newcastle 
+United",NA,NA
+"66","Jude Swailes","ENG","D","","","01-09-01","","None","Newcastle 
+United",NA,NA
+"67","Elliot Anderson","SCO","M","","","06-11-02","","None","Newcastle 
+United",NA,NA
+"75","Joshua Scott","ENG","D","","","13-09-02","","None","Newcastle 
+United",NA,NA
+"76","Dylan Stephenson","ENG","M","","","10-12-02","","None","Newcastle 
+United",NA,NA
+"77","Joe White","ENG","M","","","01-10-02","","None","Newcastle 
+United",NA,NA
+"1","Tim Krul","NED","G","1.88","74","03-04-88","Den Haag","Brighton & HA","Norwich City",52.07494555,4.26968022053645
+"2","Max Aarons","ENG","D","1.76","69","04-01-00","Hammersmith","Luton T","Norwich City",51.4920377,-0.2236401
+"3","Sam Byram","ENG","D","1.80","72","16-09-93","Thurrock","West Ham U","Norwich City",51.5080169,0.396281739543767
+"4","Ben Godfrey","ENG","M","1.83","74","15-01-98","York","York C","Norwich City",53.9590555,-1.0815361
+"5","Grant Hanley","SCO","D","1.88","76","20-11-91","Dumfries","Newcastle U","Norwich City",55.069968,-3.6094901
+"6","Christoph Zimmermann","GER","D","1.94","92","12-01-93","Düsseldorf","Borussia Dortmund II","Norwich City",51.2254018,6.7763137
+"7","Lukas Rupp","GER","M","1.78","64","08-01-91","Heidelberg","1899 Hoffenheim","Norwich City",49.4093582,8.694724
+"8","Mario Vrancic","BIH","M","1.86","75","23-05-89","Slavonski Brod","Darmstadt","Norwich City",45.1662364,18.012177
+"10","Moritz Leitner","GER","M","1.74","65","08-12-92","Munich","Augsburg","Norwich City",48.1371079,11.5753822
+"11","Onel Hernández","GER","M","1.72","69","01-02-93","Morón","Eintracht Braunschweig","Norwich City",-34.6510527,-58.6217416
+"12","Jamal Lewis","NIR","D","1.78","70","25-01-98","Luton","None","Norwich City",51.89107295,-0.423030407620178
+"14","Todd Cantwell","ENG","M","1.77","66","27-02-98","Norwich","None","Norwich City",52.628606,1.29227
+"15","Timm Klose","SUI","D","1.93","87","09-05-88","Frankfurt am Main","Wolfsburg","Norwich City",50.1106444,8.6820917
+"17","Emi Buendía","ARG","M","1.70","65","25-12-96","Mar del Plata","Getafe","Norwich City",-37.9977225,-57.5482703
+"18","Marco Stiepermann","GER","M","1.80","75","09-02-91","Dortmund","Bochum","Norwich City",51.5142273,7.4652789
+"19","Tom Trybull","GER","M","1.81","72","09-03-93","Berlin","ADO Den Haag","Norwich City",52.5170365,13.3888599
+"20","Josip Drmic","SUI","F","1.82","70","08-08-92","Lachen","B Mönchengladbach","Norwich City",47.9455572,10.2388429
+"21","Ralf Fährmann","GER","G","1.94","89","27-09-88","Karl-Marx-Stadt","Schalke","Norwich City",50.8322608,12.9252977
+"22","Teemu Pukki","FIN","F","1.76","66","29-03-90","Kotka","Brøndby","Norwich City",60.4674228,26.9450844
+"23","Kenny McLean","SCO","M","1.83","70","08-01-92","Rutherglen","Aberdeen","Norwich City",55.8283888,-4.2116533
+"25","Ondrej Duda","SVK","M","1.83","64","15-12-94","Snina","Hertha Berlin","Norwich City",48.9867223,22.1501557182464
+"27","Alexander Tettey","NOR","M","1.80","68","04-04-86","Accra","Rennes","Norwich City",5.5600141,-0.2057437
+"33","Michael McGovern","NIR","G","1.91","89","12-07-84","Enniskillen","Hamilton Academical","Norwich City",54.3448538,-7.6389365
+"35","Adam Idah","IRL","F","1.90","83","11-02-01","Cork","College Corinthians","Norwich City",51.8979282,-8.4705806
+"36","Nick Hayes","ENG","G","","","10-04-99","Clacton-on-Sea","Dunstable","Norwich City",51.7883997,1.1527865
+"38","Aston Oxborough","ENG","G","1.85","76","09-05-98","Great Yarmouth","None","Norwich City",52.6072426,1.7310768
+"40","Rob Nizet","BEL","D","1.79","66","14-04-02","Banjul","Anderlecht","Norwich City",13.45535,-16.575646
+"41","Jordan Thomas","ENG","D","","","02-01-01","","Huddersfield T","Norwich City",NA,NA
+"42","Louis Lomas","ENG","D","","","11-10-00","","None","Norwich City",NA,NA
+"44","Ciaren Jones","ENG","D","1.92","78","20-11-99","Bedford","Luton T","Norwich City",40.0271453,-78.5237447
+"45","Saul Milovanovic","ENG","M","","","08-09-00","","Huddersfield T","Norwich City",NA,NA
+"46","Daniel Adshead","ENG","M","1.67","65","02-09-01","Manchester","Rochdale","Norwich City",53.4794892,-2.2451148
+"47","Tom Scully","ENG","M","","","01-10-99","","Everton","Norwich City",NA,NA
+"48","Reece McAlear","SCO","M","1.85","75","12-02-02","Glasgow","Motherwell","Norwich City",55.8609825,-4.2488787
+"49","William Hondermarck","FRA","M","","","21-11-00","Orléans","Drogheda U","Norwich City",45.4810323,-75.5100002
+"51","Shae Hutchinson","ENG","F","","","09-10-00","","None","Norwich City",NA,NA
+"52","Nelson Khumbeni","ENG","M","","","","","None","Norwich City",NA,NA
+"53","Zach Dronfield","ENG","M","","","01-03-02","","None","Norwich City",NA,NA
+"54","Tom Dickson-Peters","SCO","F","","","16-09-02","","None","Norwich City",NA,NA
+"55","Eddie Jackson","ENG","D","","","","","None","Norwich City",NA,NA
+"56","Josh Martin","ENG","M","","","09-09-01","Luton","Arsenal","Norwich City",51.89107295,-0.423030407620178
+"57","Aidan Fitzpatrick","SCO","M","","","20-03-01","","Partick Thistle","Norwich City",NA,NA
+"58","Ísak Snær Þorvaldsson","ISL","M","","","01-05-01","","Afturelding","Norwich City",NA,NA
+"59","Gassan Ahadme","MAR","M","","","17-11-00","","Gimnàstic de Manresa","Norwich City",NA,NA
+"60","Archie Mair","SCO","G","","","10-02-01","Turriff","Aberdeen","Norwich City",57.5375626,-2.4634241
+"61","Billy Johnson","ENG","G","","","25-09-99","","None","Norwich City",NA,NA
+"62","Joe Rose","ENG","G","","","","","None","Norwich City",NA,NA
+"64","Andrew Omobamidele","IRL","D","","","23-06-02","Dublin","None","Norwich City",53.3497645,-6.2602732
+"65","Sam Blair","ENG","G","","","27-12-02","","None","Norwich City",NA,NA
+"1","Dean Henderson","ENG","G","1.90","85","12-03-97","Whitehaven","Manchester U","Sheffield 
+United",54.5474199,-3.5885335
+"2","George Baldock","ENG","D","1.75","67","26-01-93","Buckingham","MK Dons","Sheffield 
+United",37.5558826,-78.5547172
+"3","Enda Stevens","IRL","D","1.83","78","09-07-90","Dublin","Portsmouth","Sheffield 
+United",53.3497645,-6.2602732
+"4","John Fleck","SCO","M","1.75","72","24-08-91","Glasgow","Coventry C","Sheffield 
+United",55.8609825,-4.2488787
+"5","Jack O'Connell","ENG","D","1.91","85","29-03-94","Liverpool","Brentford","Sheffield 
+United",53.407154,-2.991665
+"6","Chris Basham","ENG","M","1.80","80","20-07-88","Hebburn","Blackpool","Sheffield 
+United",54.9726376,-1.5173449
+"7","John Lundstram","ENG","M","1.81","74","18-02-94","Liverpool","Oxford U","Sheffield 
+United",53.407154,-2.991665
+"8","Luke Freeman","ENG","M","1.83","64","22-03-92","Dartford","QPR","Sheffield 
+United",51.4443059,0.21807
+"9","Oliver McBurnie","SCO","F","1.88","66","04-06-96","Leeds","Swansea C","Sheffield 
+United",53.7974185,-1.5437941
+"10","Billy Sharp","ENG","F","1.75","70","05-02-86","Sheffield","Leeds U","Sheffield 
+United",53.3806626,-1.4702278
+"12","John Egan","IRL","D","1.85","75","20-10-92","Cork","Brentford","Sheffield 
+United",51.8979282,-8.4705806
+"13","Jake Eastwood","ENG","G","1.90","70","03-10-96","Sheffield","None","Sheffield 
+United",53.3806626,-1.4702278
+"15","Phil Jagielka","ENG","D","1.83","83","17-08-82","Sale","Everton","Sheffield 
+United",44.980656,8.809348
+"16","Oliver Norwood","NIR","M","1.80","76","12-04-91","Burnley","Brighton & HA","Sheffield 
+United",53.7907262,-2.2439196
+"17","David McGoldrick","IRL","F","1.85","75","29-11-87","Nottingham","Ipswich T","Sheffield 
+United",52.9534193,-1.1496461
+"18","Kieron Freeman","WAL","D","1.78","79","21-03-92","Bestwood","Derby Co","Sheffield 
+United",50.4514826,30.5144987
+"19","Jack Robinson","ENG","D","1.80","67","01-09-93","Warrington","Nottingham F","Sheffield 
+United",53.4018582,-2.5680223597163
+"21","Michael Verrips","NED","G","1.95","85","03-12-96","Velp","Mechelen","Sheffield 
+United",51.9994663,5.97884944568664
+"22","Lys Mousset","FRA","F","1.84","80","08-02-96","Le Havre","Bournemouth","Sheffield 
+United",49.4938975,0.1079732
+"23","Ben Osborn","ENG","M","1.76","75","05-08-94","Derby","Nottingham F","Sheffield 
+United",52.9212617,-1.4761491
+"24","Leon Clarke","ENG","F","1.88","90","10-02-85","Birmingham","Bury","Sheffield 
+United",52.4796992,-1.9026911
+"25","Simon Moore","ENG","G","1.91","83","19-05-90","Sandown","Cardiff C","Sheffield 
+United",50.6613306,-1.15034650545465
+"26","Jack Rodwell","ENG","D","1.88","80","11-03-91","Birkdale","Blackburn R","Sheffield 
+United",53.627021,-3.0282342
+"27","Muhamed Bešic","BIH","M","1.80","80","10-09-92","Berlin","Everton","Sheffield 
+United",52.5170365,13.3888599
+"29","Panagiotis Retsos","GRE","D","1.84","76","09-08-98","Johannesburg","Bayer Leverkusen","Sheffield 
+United",-26.205,28.049722
+"30","Richairo Živkovic","NED","F","1.87","73","05-09-96","Assen","Changchun Yatai","Sheffield 
+United",52.99037165,6.55337777064233
+"32","Sander Berge","NOR","M","1.90","88","18-02-98","Bærum","KRC Genk","Sheffield 
+United",59.9289639,10.4997108185783
+"1","Alex McCarthy","ENG","G","1.93","79","03-12-89","Guildford","Crystal Palace","Southampton",51.2352672,-0.5653624
+"4","Jannik Vestergaard","DEN","D","1.97","96","03-08-92","Copenhagen","B Mönchengladbach","Southampton",55.6867243,12.5700724
+"5","Jack Stephens","ENG","D","1.85","75","27-01-94","Torpoint","Plymouth Arg","Southampton",50.3757288,-4.1991204
+"7","Shane Long","IRL","F","1.78","70","22-01-87","Kilkenny","WBA","Southampton",52.6510216,-7.2484948
+"9","Danny Ings","ENG","F","1.78","73","16-03-92","Winchester","Liverpool","Southampton",51.0612766,-1.3131692
+"10","Che Adams","ENG","F","1.78","66","13-07-96","Leicester","Birmingham C","Southampton",52.6361398,-1.1330789
+"12","Moussa Djénépo","MLI","M","1.77","65","15-06-98","Bamako","Standard Liège","Southampton",12.649319,-8.000337
+"14","Oriol Romeu","ESP","M","1.83","83","24-09-91","Ulldecona","Chelsea","Southampton",40.5967567,0.4475376
+"16","James Ward-Prowse","ENG","M","1.73","66","01-11-94","Southampton","None","Southampton",50.9025349,-1.404189
+"17","Stuart Armstrong","SCO","M","1.83","75","30-03-92","Inverness","Celtic","Southampton",57.4790124,-4.225739
+"19","Sofiane Boufal","MAR","M","1.70","60","17-09-93","Paris","Lille","Southampton",48.8566969,2.3514616
+"20","Michael Obafemi","IRL","F","","","06-07-00","","Leyton Orient","Southampton",NA,NA
+"21","Ryan Bertrand","ENG","D","1.79","85","05-08-89","Southwark","Chelsea","Southampton",51.5029222,-0.103458
+"22","Nathan Redmond","ENG","M","1.73","69","06-03-94","Birmingham","Norwich C","Southampton",52.4796992,-1.9026911
+"23","Pierre-Emile Højbjerg","DEN","M","1.85","84","05-08-95","Copenhagen","Bayern Munich","Southampton",55.6867243,12.5700724
+"24","Kyle Walker-Peters","ENG","D","1.73","62","13-04-97","Edmonton","Tottenham H","Southampton",53.535411,-113.507996
+"27","Will Smallbone","IRL","M","","","21-02-00","","None","Southampton",NA,NA
+"28","Angus Gunn","ENG","G","1.96","77","22-01-96","Bolton","Manchester C","Southampton",53.5782863,-2.4300367
+"29","Jake Vokins","ENG","D","","","17-03-00","Oxford","None","Southampton",51.7520131,-1.2578499
+"35","Jan Bednarek","POL","D","1.89","77","12-04-96","Slupca","Lech Poznan","Southampton",52.2872924,17.8713612
+"38","Kevin Danso","AUT","D","1.90","75","19-09-98","Voitsberg","Augsburg","Southampton",47.0614766,15.0623287237005
+"40","Dan N'Lundulu","ENG","F","","","05-02-99","","Chelsea","Southampton",NA,NA
+"41","Harry Lewis","ENG","G","1.91","77","20-12-97","Shrewsbury","Shrewsbury T","Southampton",52.707755,-2.7540658
+"43","Yan Valery","FRA","D","","","22-02-99","Champigny-sur-Marne","Rennes","Southampton",48.8137759,2.5107384
+"45","Sam McQueen","ENG","M","1.81","70","06-02-95","Southampton","None","Southampton",50.9025349,-1.404189
+"46","Marcus Barnes","ENG","F","1.85","72","01-12-96","Reading","Wolverhampton W","Southampton",51.45149525,-0.983634249936538
+"47","Will Ferry","ENG","F","","","07-12-00","","Bury","Southampton",NA,NA
+"48","Kornelius Hansen","NOR","F","","","06-05-01","","Fram Larvik","Southampton",NA,NA
+"50","Aaron O'Driscoll","IRL","M","","","04-04-99","Dublin","Manchester C","Southampton",53.3497645,-6.2602732
+"51","Tyreke Johnson","ENG","M","","","03-11-98","","Swindon T","Southampton",NA,NA
+"52","Nathan Tella","ENG","M","","","05-07-99","Lambeth","Arsenal","Southampton",51.5013012,-0.117287
+"53","Harlem Hale","ENG","F","","","04-02-00","","Chelsea","Southampton",NA,NA
+"55","Alex Cull","ENG","G","","","02-06-00","","None","Southampton",NA,NA
+"56","Jack Bycroft","ENG","G","","","21-09-01","","None","Southampton",NA,NA
+"57","Tommy Scott","ENG","G","1.88","78","13-09-99","","Yeovil T","Southampton",NA,NA
+"58","Dare Olufunwa","ENG","D","","","29-07-01","","None","Southampton",NA,NA
+"60","Kameron Ledwidge","IRL","D","","","07-04-01","Dublin","St Kevin's Boys","Southampton",53.3497645,-6.2602732
+"62","Allan Tchaptchet","FRA","D","","","21-12-01","","Entente SSG","Southampton",NA,NA
+"63","Sean Brennan","IRL","M","","","05-0701","Blanchardstown","Belvedere","Southampton",53.3868998,-6.3775408
+"64","Alex Jankewitz","SUI","M","1.79","70","25-12-01","Vevey","Servette","Southampton",46.4602978,6.8418655
+"65","Caleb Watts","AUS","M","","","16-01-01","","QPR","Southampton",NA,NA
+"66","Enzo Robise","FRA","F","","","22-05-01","","Reims","Southampton",NA,NA
+"67","Christian Norton","ENG","D","","","21-05-01","","None","Southampton",NA,NA
+"68","Jack Turner","ENG","M","","","07-09-02","","None","Southampton",NA,NA
+"69","David Agbontohoma","ENG","D","","","30-09-01","","Arsenal","Southampton",NA,NA
+"70","Oliver Wright","ENG","G","","","25-10-02","","None","Southampton",NA,NA
+"71","Pascal Kpohomouh","ENG","D","","","24-09-01","","Manchester C","Southampton",NA,NA
+"72","Kgagelo Chauke","ENG","D","","","08-01-03","","None","Southampton",NA,NA
+"73","Ramello Mitchell","ENG","M","","","01-01-03","","Birmingham C","Southampton",NA,NA
+"74","Lucas Defise","BEL","M","","","19-10-01","","Chelsea","Southampton",NA,NA
+"75","Marco Rus","ROU","F","","","","","Yeovil T","Southampton",NA,NA
+"76","Séamas Keogh","IRL","M","","","28-02-02","","Sligo R","Southampton",NA,NA
+"77","James Morris","ENG","D","","","23-11-01","","None","Southampton",NA,NA
+"78","Sam Bellis","ENG","M","","","30-12-02","","Manchester C","Southampton",NA,NA
+"79","Kazeem Olaigbe","BEL","F","","","02-01-03","","Anderlecht","Southampton",NA,NA
+"1","Hugo Lloris","FRA","G","1.88","82","26-12-86","Nice","Lyon","Tottenham 
+Hotspur",43.7009358,7.2683912
+"4","Toby Alderweireld","BEL","D","1.87","91","02-03-89","Wilrijk","Atlético Madrid","Tottenham 
+Hotspur",51.1638451,4.38763096104551
+"5","Jan Vertonghen","BEL","D","1.89","88","24-04-87","Sint-Niklaas","Ajax","Tottenham 
+Hotspur",51.1646685,4.1395124
+"6","Davinson Sánchez","COL","D","1.87","83","12-06-96","Caloto","Ajax","Tottenham 
+Hotspur",3.04497365,-76.3685084856608
+"7","Son Heung-Min","KOR","F","1.83","77","08-07-92","Chuncheon","Bayer Leverkusen","Tottenham 
+Hotspur",37.8810569,127.7297641
+"8","Harry Winks","ENG","M","1.76","74","02-02-96","Hemel Hempstead","None","Tottenham 
+Hotspur",51.7511784,-0.472528
+"10","Harry Kane","ENG","F","1.88","86","28-07-93","Walthamstow","None","Tottenham 
+Hotspur",51.5844701,-0.0188186
+"11","Erik Lamela","ARG","M","1.81","80","25-03-92","Florida","Roma","Tottenham 
+Hotspur",27.7567667,-81.4639835
+"13","Michel Vorm","NED","G","1.84","84","20-10-83","Nieuwegein","Swansea C","Tottenham 
+Hotspur",52.0298704,5.09293337891924
+"15","Eric Dier","ENG","M","1.88","90","15-01-94","Cheltenham","Sporting CP","Tottenham 
+Hotspur",51.8995685,-2.0711559
+"17","Moussa Sissoko","FRA","M","1.87","91","16-08-89","Le Blanc Mesnil","Newcastle U","Tottenham 
+Hotspur",48.9385489,2.4631476
+"18","Giovani Lo Celso","ARG","M","1.70","68","09-04-96","Rosario","Betis","Tottenham 
+Hotspur",-32.9595004,-60.6615415
+"19","Ryan Sessegnon","ENG","M","1.78","71","18-05-00","Roehampton","Fulham","Tottenham 
+Hotspur",51.4498773,-0.2412672
+"20","Dele Alli","ENG","M","1.88","80","11-04-96","Milton Keynes","MK Dons","Tottenham 
+Hotspur",52.0429797,-0.7589607
+"21","Juan Foyth","ARG","D","1.79","69","12-01-98","La Plata","Estudiantes (LP)","Tottenham 
+Hotspur",-34.9206797,-57.9537638
+"22","Paulo Gazzaniga","ARG","G","1.96","90","02-01-92","Murphy","Southampton","Tottenham 
+Hotspur",33.0151208,-96.6130478
+"23","Steven Bergwijn","NED","F","1.78","74","08-10-97","Amsterdam","PSV Eindhoven","Tottenham 
+Hotspur",52.3745403,4.89797550561798
+"24","Serge Aurier","CIV","D","1.75","75","24-12-92","Abidjan","Paris St-Germain","Tottenham 
+Hotspur",5.320357,-4.016107
+"27","Lucas","BRA","M","1.72","66","13-08-92","São Paulo","Paris St-Germain","Tottenham 
+Hotspur",-23.5506507,-46.6333824
+"28","Tanguy NDombèlé","FRA","M","1.76","68","28-12-96","Longjumeau","Lyon","Tottenham 
+Hotspur",48.6943793,2.2953297
+"29","Oliver Skipp","ENG","M","1.75","70","16-09-00","Hatfield","None","Tottenham 
+Hotspur",51.7634675,-0.2258741
+"30","Gedson Fernandes","STP","M","1.81","69","09-01-99","São Tomé","Benfica","Tottenham 
+Hotspur",0.3389242,6.7313031
+"33","Ben Davies","WAL","D","1.82","76","24-04-93","Neath","Swansea C","Tottenham 
+Hotspur",51.6628422,-3.8039117
+"39","Japhet Tanganga","ENG","D","1.84","73","31-03-99","Hackney","None","Tottenham 
+Hotspur",51.5432402,-0.0493621
+"41","Alfie Whiteman","ENG","G","1.90","77","02-10-98","Tottenham","None","Tottenham 
+Hotspur",51.5976955,-0.0672892
+"44","Jamie Bowden","ENG","M","1.75","64","09-07-01","Edmonton","None","Tottenham 
+Hotspur",53.535411,-113.507996
+"48","Jonathan Dinzeyi","ENG","D","1.83","83","13-10-99","Islington","None","Tottenham 
+Hotspur",51.5384287,-0.0999051
+"52","Troy Parrott","IRL","F","1.75","72","04-02-02","Dublin","Belvedere","Tottenham 
+Hotspur",53.3497645,-6.2602732
+"53","Harvey White","ENG","M","1.71","60","19-09-01","Maidstone","None","Tottenham 
+Hotspur",51.2748258,0.5231646
+"55","Jonathan De Bie","BEL","G","1.96","91","25-05-00","Uccle","Mechelen","Tottenham 
+Hotspur",50.8035441,4.3338445
+"57","Tariq Hinds","ENG","D","1.81","70","15-06-00","Redbridge","None","Tottenham 
+Hotspur",51.5763203,0.0454097
+"58","Brooklyn Lyons-Foster","ENG","D","1.81","70","01-12-00","Archway","None","Tottenham 
+Hotspur",51.5654371,-0.1349977
+"60","Dilan Markanday","ENG","F","1.78","64","20-08-01","Barnet","None","Tottenham 
+Hotspur",51.65309,-0.2002261
+"61","Phoenix Patterson","SCO","M","1.78","67","01-09-00","High Wycombe","None","Tottenham 
+Hotspur",51.627422,-0.7484153
+"63","J'Neil Bennett","ENG","F","1.75","63","07-12-01","Islington","QPR","Tottenham 
+Hotspur",51.5384287,-0.0999051
+"64","Malachi Walcott","ENG","D","1.87","74","11-03-02","Edmonton","None","Tottenham 
+Hotspur",53.535411,-113.507996
+"66","Rodel Richards","ENG","F","1.74","66","05-09-00","Lewisham","Arsenal","Tottenham 
+Hotspur",51.4624325,-0.0101331
+"67","Rayan Clarke","ENG","M","1.79","70","05-04-01","Edmonton","None","Tottenham 
+Hotspur",53.535411,-113.507996
+"68","Elliot Thorpe","WAL","M","1.76","64","09-11-00","Hinchingbrooke","None","Tottenham 
+Hotspur",52.3335633,-0.2077627
+"71","Jubril Okedina","ENG","D","1.83","70","26-10-00","Woolwich","None","Tottenham 
+Hotspur",51.4826696,0.0623335
+"72","Jeremie Mukendi","ENG","F","","","12-09-00","","None","Tottenham 
+Hotspur",NA,NA
+"73","Josh Oluwayemi","ENG","G","1.83","70","13-03-01","Waltham Forest","None","Tottenham 
+Hotspur",42.3756401,-71.2358004
+"74","Maurizio Pochettino","ESP","F","","","30-03-01","Barcelona","Southampton","Tottenham 
+Hotspur",41.3828939,2.1774322
+"75","Maxwell Statham","ENG","D","","","06-09-00","Southend","None","Tottenham 
+Hotspur",-37.5708233,140.1196982
+"76","Maxi Tainio","FIN","M","","","24-05-01","Auxerre","HJK Helsinki","Tottenham 
+Hotspur",47.7961287,3.570579
+"77","Dennis Cirkin","IRL","D","","","06-04-02","Dublin","None","Tottenham 
+Hotspur",53.3497645,-6.2602732
+"78","Kion Etete","ENG","F","1.85","70","28-11-01","Derby","Notts Co","Tottenham 
+Hotspur",52.9212617,-1.4761491
+"79","Kacper Kurylowicz","ENG","G","","","02-09-01","Luton","None","Tottenham 
+Hotspur",51.89107295,-0.423030407620178
+"80","Rafferty Pedder","ENG","M","","","06-04-02","Maidstone","None","Tottenham 
+Hotspur",51.2748258,0.5231646
+"83","Dermi Lusala","ENG","D","","","16-01-03","Edmonton","None","Tottenham 
+Hotspur",53.535411,-113.507996
+"84","Enock Asante","GHA","F","","","25-11-01","Akuapim-Mampong","None","Tottenham 
+Hotspur",NA,NA
+"85","Kallum Cesay","ENG","M","","","04-09-02","Newham","West Ham U","Tottenham 
+Hotspur",51.52999955,0.0293179602938221
+"86","Marqes Muir","ENG","D","","","21-09-02","Lambeth","None","Tottenham 
+Hotspur",51.5013012,-0.117287
+"87","Max Robson","ENG","M","","","17-10-02","Haywards Heath","None","Tottenham 
+Hotspur",50.9999616,-0.1049747
+"88","Thimothee Lo-Tutala","FRA","G","","","13-02-03","Paris","Brentford","Tottenham 
+Hotspur",48.8566969,2.3514616
+"1","Heurelho Gomes","BRA","G","1.97","95","15-02-81","João Pinheiro","Tottenham H","Watford",-17.742777,-46.175278
+"2","Daryl Janmaat","NED","D","1.85","80","22-07-89","Leidschendam","Newcastle U","Watford",52.0958935,4.43252967505979
+"4","Craig Dawson","ENG","D","1.88","85","06-05-90","Rochdale","WBA","Watford",53.6153659,-2.1557561
+"6","Adrian Mariappa","JAM","D","1.80","78","03-10-86","Harrow","Crystal Palace","Watford",51.5967688,-0.33727515543507
+"7","Gerard Deulofeu","ESP","F","1.77","73","13-03-94","Riudarenes","Barcelona","Watford",41.8218536,2.7163817
+"8","Tom Cleverley","ENG","M","1.75","67","12-08-89","Basingstoke","Everton","Watford",51.262826,-1.0861976
+"9","Troy Deeney","ENG","F","1.85","101","29-06-88","Birmingham","Walsall","Watford",52.4796992,-1.9026911
+"10","Danny Welbeck","ENG","F","1.85","73","26-11-90","Manchester","Arsenal","Watford",53.4794892,-2.2451148
+"11","Adam Masina","ITA","D","1.91","87","02-01-94","Khouribga","Bologna","Watford",32.885508,-6.909238
+"14","Nathaniel Chalobah","ENG","M","1.87","80","12-12-94","Freetown","Chelsea","Watford",8.479004,-13.26795
+"15","Craig Cathcart","NIR","D","1.90","83","06-02-89","Belfast","Blackpool","Watford",54.5964411,-5.9302761
+"16","Abdoulaye Doucouré","FRA","M","1.84","76","01-01-93","Meulan-en-Yvelines","Rennes","Watford",49.0049712,1.9100835
+"17","João Pedro","BRA","F","1.82","70","26-09-01","Ribeirão Preto","Fluminense","Watford",-21.178333,-47.8066671
+"18","Andre Gray","ENG","F","1.78","83","26-06-91","Wolverhampton","Burnley","Watford",52.5847651,-2.127567
+"19","Will Hughes","ENG","M","1.85","74","17-04-95","Weybridge","Derby Co","Watford",51.3727175,-0.4549297
+"20","Domingos Quina","POR","M","1.79","65","18-11-99","Bissau","West Ham U","Watford",11.861324,-15.583055
+"21","Kiko Femenía","ESP","M","1.74","61","02-02-91","Sanet y Negrals","Alavés","Watford",38.8195425,-0.0348133
+"22","Isaac Success","NGA","F","1.82","90","07-01-96","Benin City","Granada","Watford",6.3330586,5.6221058
+"23","Ismaïla Sarr","SEN","F","1.78","68","25-02-98","Saint-Louis","Rennes","Watford",38.6268039,-90.1994097
+"24","Tom Dele-Bashiru","NGA","M","","","17-09-99","Manchester","Manchester C","Watford",53.4794892,-2.2451148
+"25","José Holebas","GRE","D","1.85","81","27-06-84","Aschaffenburg","Roma","Watford",49.9740542,9.1493636
+"26","Ben Foster","ENG","G","1.93","90","03-04-83","Leamington","WBA","Watford",52.2913394,-1.536404
+"27","Christian Kabasele","BEL","D","1.88","86","24-02-91","Lubumbashi","KRC Genk","Watford",-11.6642316,27.4826264
+"29","Étienne Capoue","FRA","M","1.90","87","11-07-88","Niort","Tottenham H","Watford",46.3239455,-0.4645212
+"33","Ignacio Pussetto","ARG","F","1.80","74","21-12-95","Cañada Rosquín","Udinese","Watford",-32.0544559,-61.6018824
+"35","Daniel Bachmann","AUT","G","1.91","81","09-07-94","Vienna","Stoke C","Watford",48.2083537,16.3725042
+"37","Roberto Pereyra","ARG","M","1.82","77","07-01-91","San Miguel de Tucumán","Juventus","Watford",-26.8303703,-65.2038133
+"40","Sam Dalby","ENG","F","1.91","78","17-01-00","Leytonstone","Leeds U","Watford",51.5710783,0.0064237
+"41","Mason Barrett","ENG","D","1.90","79","24-09-99","Redbridge","West Ham U","Watford",51.5763203,0.0454097
+"42","Callum Whelan","ENG","M","1.76","71","24-09-98","Barnsley","Manchester U","Watford",53.5527719,-1.4827755
+"44","Joseph Hungbo","ENG","M","","","15-01-00","Lambeth","Crystal Palace","Watford",51.5013012,-0.117287
+"45","Jamal Balogun","ENG","D","","","18-01-00","","Reading","Watford",NA,NA
+"46","Henry Wise","ENG","M","","","01-01-00","","Derby Co","Watford",NA,NA
+"47","Adam Parkes","ENG","G","","","30-11-99","","Southampton","Watford",NA,NA
+"51","Bayli Spencer-Adams","ENG","D","","","26-06-01","","Arsenal","Watford",NA,NA
+"53","Kaylen Hinds","ENG","F","1.85","68","28-01-98","Brent","Wolfsburg","Watford",32.9373463,-87.1647184
+"58","Jayden Bennetts","ENG","M","","","26-06-01","","None","Watford",NA,NA
+"72","Andi Janjeva","KVX","D","","","11-10-02","","None","Watford",NA,NA
+"1","Lukasz Fabianski","POL","G","1.90","83","18-04-85","Kostrzyn nad Odra","Swansea C","West Ham 
+United",52.5898737,14.6536335
+"3","Aaron Cresswell","ENG","D","1.70","66","15-12-89","Liverpool","Ipswich T","West Ham 
+United",53.407154,-2.991665
+"4","Fabián Balbuena","PAR","D","1.88","82","23-08-91","Ciudad del Este","Corinthians","West Ham 
+United",-25.5169015,-54.6168645
+"5","Pablo Zabaleta","ARG","D","1.76","74","16-01-85","Capital Federal","Manchester C","West Ham 
+United",-34.6075682,-58.4370894
+"7","Andriy Yarmolenko","UKR","F","1.87","76","23-10-89","Kyiv","Borussia Dortmund","West Ham 
+United",50.4500336,30.5241361
+"8","Felipe Anderson","BRA","M","1.75","70","15-04-93","Brasília","Lazio","West Ham 
+United",-10.3333333,-53.2
+"10","Manuel Lanzini","ARG","M","1.67","59","15-02-93","Ituzaingó","Al-Jazira","West Ham 
+United",-34.6583293,-58.6671441
+"11","Robert Snodgrass","SCO","M","1.82","82","07-09-87","Glasgow","Hull C","West Ham 
+United",55.8609825,-4.2488787
+"15","Carlos Sánchez","COL","M","1.82","82","06-02-86","Quibdó","Fiorentina","West Ham 
+United",5.6845709,-76.6540463
+"16","Mark Noble","ENG","M","1.80","70","08-05-87","West Ham","None","West Ham 
+United",51.5280966,0.0045685
+"17","Jarrod Bowen","ENG","F","1.74","70","20-12-96","Leominster","Hull C","West Ham 
+United",42.5192095,-71.7678956
+"18","Pablo Fornals","ESP","M","1.78","67","22-02-96","Castellón de la Plana","Villarreal","West Ham 
+United",39.9860347,-0.0377354
+"19","Jack Wilshere","ENG","M","1.70","65","01-01-92","Stevenage","Arsenal","West Ham 
+United",51.9035099,-0.2013368
+"20","Gonçalo Cardoso","POR","D","1.89","80","21-10-00","Marco de Canaveses","Boavista","West Ham 
+United",41.1616546,-8.12779201865893
+"21","Angelo Ogbonna","ITA","D","1.91","86","23-05-88","Cassino","Juventus","West Ham 
+United",41.4925576,13.8305297
+"22","Sébastien Haller","FRA","F","1.87","75","22-06-94","Ris-Orangis","Eintracht Frankfurt","West Ham 
+United",48.6538754,2.4151151
+"23","Issa Diop","FRA","D","1.93","84","09-01-97","Toulouse","Toulouse","West Ham 
+United",43.6044622,1.4442469
+"24","Ryan Fredericks","ENG","D","1.73","72","10-10-92","Potters Bar","Fulham","West Ham 
+United",51.702588,-0.1955649
+"25","David Martin","ENG","G","1.86","86","22-01-86","Romford","Millwall","West Ham 
+United",51.5760462,0.1822646
+"26","Arthur Masuaku","COD","D","1.79","70","07-11-93","Lille","Olympiakos","West Ham 
+United",50.6365654,3.0635282
+"27","Albian Ajeti","SUI","F","1.82","75","26-02-97","Basel","Basel","West Ham 
+United",47.5581077,7.5878261
+"28","Tomáš Soucek","CZE","M","1.90","84","27-02-95","Havlíckuv Brod","Slavia Prague","West Ham 
+United",49.607079,15.5794883
+"30","Michail Antonio","ENG","F","1.80","82","28-03-90","Wandsworth","Nottingham F","West Ham 
+United",51.4570271,-0.1932607
+"32","Xande Silva","POR","F","1.77","60","16-03-97","Lisbon","Vitória Guimarães","West Ham 
+United",38.7077507,-9.1365919
+"35","Darren Randolph","IRL","G","1.88","98","12-05-87","Dublin","Middlesbrough","West Ham 
+United",53.3497645,-6.2602732
+"36","Mesaque Dju","POR","F","1.78","66","18-03-99","Bissau","Benfica","West Ham 
+United",11.861324,-15.583055
+"39","Alfie Lewis","ENG","M","1.69","64","28-09-99","Redbridge","None","West Ham 
+United",51.5763203,0.0454097
+"40","Oladapo Afolayan","ENG","F","1.82","73","11-09-97","Westminster","Solihull Moors","West Ham 
+United",39.8366528,-105.0372046
+"41","Declan Rice","ENG","M","1.85","80","14-01-99","Kingston upon Thames","None","West Ham 
+United",51.4096275,-0.3062621
+"44","Bernardo Rosa","BRA","M","1.71","61","20-09-00","","None","West Ham 
+United",NA,NA
+"46","Tunji Akinola","ENG","D","1.87","73","21-11-98","","None","West Ham 
+United",NA,NA
+"47","Krisztián Hegyi","HUN","G","1.93","85","24-09-02","Budapest","Haladás","West Ham 
+United",47.4983815,19.0404707
+"49","Joseph Anang","ENG","G","1.83","72","08-06-00","","Wa All Stars","West Ham 
+United",NA,NA
+"52","Jeremy Ngakia","ENG","D","1.84","71","07-09-00","Lewisham","None","West Ham 
+United",51.4624325,-0.0101331
+"53","Ben Johnson","ENG","M","1.75","67","24-01-00","","None","West Ham 
+United",NA,NA
+"55","Sean Adarkwa","ENG","F","1.83","73","11-10-00","Hackney","None","West Ham 
+United",51.5432402,-0.0493621
+"56","Emmanuel Longelo","ENG","F","1.84","70","27-12-00","","None","West Ham 
+United",NA,NA
+"57","Louie Watson","IRL","M","","","07-06-01","","None","West Ham 
+United",NA,NA
+"58","Kai Corbett","ENG","M","","","08-10-02","","None","West Ham 
+United",NA,NA
+"59","Reece Hannam","ENG","D","1.86","74","19-09-00","Enfield","None","West Ham 
+United",51.6520851,-0.0810175
+"61","Kamarai Simon-Swyer","ENG","M","","","04-12-02","","None","West Ham 
+United",NA,NA
+"62","Sam Caiger","ENG","D","","","30-04-02","","None","West Ham 
+United",NA,NA
+"63","Joshua Roach","ENG","G","","","04-03-03","","None","West Ham 
+United",NA,NA
+"64","Joshua Okotcha","ENG","D","1.77","65","29-12-01","Westminster","None","West Ham 
+United",39.8366528,-105.0372046
+"65","Jake Giddings","ENG","M","","","07-11-01","","None","West Ham 
+United",NA,NA
+"66","Keenan Appiah-Forson","ENG","M","","","16-10-01","","None","West Ham 
+United",NA,NA
+"67","Veron Parkes","ENG","F","1.84","68","28-09-01","Camden","Crystal Palace","West Ham 
+United",39.9448402,-75.1198911
+"68","Will Greenidge","ENG","D","","","15-05-02","","None","West Ham 
+United",NA,NA
+"69","Sebastian Nebyla","SVK","M","1.88","74","25-01-02","","Spartak Trnava","West Ham 
+United",NA,NA
+"71","Iyiola Adebayo","ENG","M","","","07-09-02","","None","West Ham 
+United",NA,NA
+"72","Daniel Chesters","ENG","F","1.79","65","04-04-02","Hitchin","None","West Ham 
+United",51.9464129,-0.2791646
+"73","Daniel Jinadu","ENG","G","1.86","69","21-06-02","","Chelsea","West Ham 
+United",NA,NA
+"74","Amadou Diallo","ENG","F","","","15-02-03","","None","West Ham 
+United",NA,NA
+"75","Jamal Baptiste","ENG","D","","","11-11-03","","None","West Ham 
+United",NA,NA
+"76","Mich'el Parker","ENG","D","","","22-10-98","Waltham Forest","Millwall","West Ham 
+United",42.3756401,-71.2358004
+"77","Ademipo Odubeko","IRL","F","","","21-10-02","","Manchester U","West Ham 
+United",NA,NA
+"78","Harrison Ashby","ENG","D","","","14-11-01","","None","West Ham 
+United",NA,NA
+"79","Samuel Nsumbu","ENG","D","","","30-04-02","","None","West Ham 
+United",NA,NA
+"2","Matt Doherty","IRL","D","1.82","80","16-01-92","Dublin","Bohemians","Wolverhampton 
+Wanderers",53.3497645,-6.2602732
+"6","Bruno Jordão","POR","M","1.80","73","12-10-98","Marinha Grande","Lazio","Wolverhampton 
+Wanderers",39.78962145,-8.96172648098064
+"7","Pedro Neto","POR","M","1.72","62","09-03-00","Viana do Castelo","Lazio","Wolverhampton 
+Wanderers",41.8803257,-8.52325529355434
+"8","Rubén Neves","POR","M","1.80","80","13-03-97","Mozelos","FC Porto","Wolverhampton 
+Wanderers",40.9995263,-8.5579985
+"9","Raúl Jiménez","MEX","F","1.90","76","05-05-91","Tepeji","Benfica","Wolverhampton 
+Wanderers",19.89368265,-99.3487181526625
+"10","Daniel Podence","POR","M","1.60","58","21-10-95","Oeiras","Olympiakos","Wolverhampton 
+Wanderers",38.7124971,-9.27130038240727
+"11","Rui Patrício","POR","G","1.88","84","15-02-88","Marrazes","Sporting CP","Wolverhampton 
+Wanderers",39.7724576,-8.80483876336749
+"15","Willy Boly","FRA","D","1.85","81","03-02-91","Melun","FC Porto","Wolverhampton 
+Wanderers",48.539927,2.6608169
+"16","Conor Coady","ENG","M","1.85","75","25-02-93","Liverpool","Huddersfield T","Wolverhampton 
+Wanderers",53.407154,-2.991665
+"17","Morgan Gibbs-White","ENG","M","1.78","60","27-01-00","Stafford","None","Wolverhampton 
+Wanderers",52.8063157,-2.1163818
+"18","Diogo Jota","POR","F","1.78","70","04-12-96","Massarelos","Atlético Madrid","Wolverhampton 
+Wanderers",41.1496779,-8.63193593513507
+"19","Jonny","ESP","D","1.75","70","03-03-94","Vigo","Atlético Madrid","Wolverhampton 
+Wanderers",42.2376602,-8.7247205
+"21","John Ruddy","ENG","G","1.96","97","24-10-86","St Ives","Norwich C","Wolverhampton 
+Wanderers",50.2148928,-5.4795574
+"26","Taylor Perry","ENG","M","1.78","67","15-07-01","Stourbridge","None","Wolverhampton 
+Wanderers",52.4577615,-2.1474345
+"27","Romain Saïss","MAR","M","1.90","76","26-03-90","Bourg-de-Péage","Angers","Wolverhampton 
+Wanderers",45.0354375,5.0520015
+"28","João Moutinho","POR","M","1.70","61","08-09-86","Portimão","Monaco","Wolverhampton 
+Wanderers",37.19420955,-8.58557739516834
+"29","Rúben Vinagre","POR","D","1.74","64","09-04-99","Charneca de Caparica","Monaco","Wolverhampton 
+Wanderers",38.59883325,-9.18821723671288
+"30","Leonardo Campana","ECU","F","1.87","80","07-07-00","Guayaquil","Barcelona [ECU]","Wolverhampton 
+Wanderers",-2.1899066,-79.887726
+"32","Leander Dendoncker","BEL","M","1.88","79","15-04-95","Passendale","Anderlecht","Wolverhampton 
+Wanderers",50.89907595,3.00555586042373
+"37","Adama Traoré","ESP","F","1.78","76","25-01-96","L'Hospitalet de Llobregat","Middlesbrough","Wolverhampton 
+Wanderers",41.3598601,2.0997927
+"39","Terry Taylor","SCO","M","1.83","71","29-06-01","Aberdeen","Aberdeen","Wolverhampton 
+Wanderers",57.1482429,-2.0928095
+"40","Renat Dadashov","AZE","F","1.86","81","17-05-99","Rüdesheim am Rhein","Estoril","Wolverhampton 
+Wanderers",49.9816097,7.9310198
+"49","Max Kilman","ENG","D","1.86","80","23-05-97","Chelsea","Maidenhead U","Wolverhampton 
+Wanderers",51.4875417,-0.1682205
+"50","Hong Wan","ENG","M","","","17-08-00","","Yeovil T","Wolverhampton 
+Wanderers",NA,NA
+"51","Boubacar Hanne","POR","M","","","26-02-99","Paços de Ferreira","Paços de Ferreira","Wolverhampton 
+Wanderers",41.2896264,-8.3783981952397
+"52","Ed Francis","ENG","D","1.82","75","11-09-99","Stockport","Manchester C","Wolverhampton 
+Wanderers",53.407901,-2.160243
+"53","Raphaël Nya","FRA","D","","","16-06-00","","Paris St-Germain","Wolverhampton 
+Wanderers",NA,NA
+"54","Owen Otasowie","USA","M","1.83","82","20-04-01","New York","None","Wolverhampton 
+Wanderers",40.7127281,-74.0060152
+"55","Callum Thompson","IRL","F","1.77","66","20-04-01","","St Joseph's Boys","Wolverhampton 
+Wanderers",NA,NA
+"57","Meritan Shabani","GER","M","1.78","78","15-03-99","Munich","Bayern Munich","Wolverhampton 
+Wanderers",48.1371079,11.5753822
+"58","Austin Samuels","ENG","F","1.75","75","20-11-00","Wolverhampton","None","Wolverhampton 
+Wanderers",52.5847651,-2.127567
+"59","Oskar Buur","DEN","D","1.78","65","31-03-98","Skanderborg","Brabrand","Wolverhampton 
+Wanderers",56.0351868,9.9317878
+"60","Tsun Dai","HKG","M","1.75","75","25-07-99","Hong Kong","Oxford U","Wolverhampton 
+Wanderers",22.2793278,114.1628131
+"61","James Pardington","ENG","G","","","20-07-00","","None","Wolverhampton 
+Wanderers",NA,NA
+"62","Andreas Søndergaard","DEN","G","1.88","76","17-01-01","","Odense","Wolverhampton 
+Wanderers",NA,NA
+"63","Cyriaque Mayounga","CTA","D","1.84","80","04-10-00","Lyon","Lyon","Wolverhampton 
+Wanderers",45.7578137,4.8320114
+"64","Jediael Yeboah Abbey","ENG","M","","","14-01-02","","None","Wolverhampton 
+Wanderers",NA,NA
+"65","Michael Agboola","ENG","M","","","12-08-01","Newham","Dagenham & Redbridge","Wolverhampton 
+Wanderers",51.52999955,0.0293179602938221
+"66","Flávio Cristóvão","POR","M","1.85","80","23-05-97","","Desportivo das Aves","Wolverhampton 
+Wanderers",NA,NA
+"67","Jackson Smith","ENG","G","","","14-10-01","","None","Wolverhampton 
+Wanderers",NA,NA
+"68","Luke Cundle","ENG","M","1.83","68","26-04-02","Warrington","None","Wolverhampton 
+Wanderers",53.4018582,-2.5680223597163
+"69","Todd Parker","ENG","M","1.86","69","26-04-02","Stourbridge","None","Wolverhampton 
+Wanderers",52.4577615,-2.1474345
+"71","He Zhenyu","CHN","M","1.87","73","09-10-00","Shenyang","Notts Co","Wolverhampton 
+Wanderers",41.8041094,123.4276363
+"73","Dániel Csóka","HUN","D","1.88","78","04-04-00","Zalaegerszeg","Zalaegerszeg","Wolverhampton 
+Wanderers",46.8415803,16.8456316
+"74","Ming-yang Yang","SUI","M","1.72","63","11-07-95","Basel","Winterthur","Wolverhampton 
+Wanderers",47.5581077,7.5878261
+"75","Christian Marques","SUI","D","","","15-01-03","Uster","Grasshoppers","Wolverhampton 
+Wanderers",47.3512065,8.7179221
+"76","Lewis Richards","ENG","D","1.81","67","15-10-01","","None","Wolverhampton 
+Wanderers",NA,NA
+"77","Chem Campbell","WAL","M","","","30-12-02","","None","Wolverhampton 
+Wanderers",NA,NA
+"78","John Kitolano","NOR","D","1.70","65","18-10-99","","Odd","Wolverhampton 
+Wanderers",NA,NA

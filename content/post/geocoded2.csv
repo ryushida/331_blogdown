@@ -1,0 +1,970 @@
+"Number","Name","Nat","Pos","Height","Weight","Date of Birth","Birth Place","Previous Club","Team","League","lat","long"
+"1","Andreas Luthe","GER","G","1.94","90","10-03-87","Velbert","Bochum","Augsburg","Germany",51.3406713,7.0439912
+"2","Stephan Lichtsteiner","SUI","D","1.82","75","16-01-84","Adligenswil","Arsenal","Augsburg","Germany",47.070535,8.368244
+"3","","","","","","","","","Augsburg","Germany",NA,NA
+"4","Felix Götze","GER","M","1.88","78","11-02-98","Memmingen","Bayern Munich","Augsburg","Germany",47.9867696,10.181319
+"5","Marek Suchý","CZE","D","1.82","76","29-03-88","Prague","Basel","Augsburg","Germany",50.0874654,14.4212535
+"6","Jeffrey Gouweleeuw","NED","D","1.87","73","10-07-91","Heemskerk","AZ Alkmaar","Augsburg","Germany",52.51011775,4.63506088707317
+"7","Florian Niederlechner","GER","F","1.87","84","24-10-90","Ebersberg","Freiburg","Augsburg","Germany",48.0765786,11.9647521
+"8","Rani Khedira","GER","M","1.85","78","27-01-94","Stuttgart","RB Leipzig","Augsburg","Germany",48.7784485,9.1800132
+"9","Sergio Córdova","VEN","F","1.88","78","09-08-97","Calabozo","Caracas","Augsburg","Germany",-5.0579113,-78.8226342
+"10","Daniel Baier","GER","M","1.75","73","18-05-84","Cologne","Wolfsburg","Augsburg","Germany",50.938361,6.959974
+"11","","","","","","","","","Augsburg","Germany",NA,NA
+"12","","","","","","","","","Augsburg","Germany",NA,NA
+"13","Fabian Giefer","GER","G","1.96","86","17-05-90","Adenau","Schalke","Augsburg","Germany",50.3823283,6.9304002
+"14","Jan Morávek","CZE","M","1.79","71","01-11-89","Prague","Schalke","Augsburg","Germany",50.0874654,14.4212535
+"15","Jozo Stanic","CRO","D","1.84","78","06-04-99","Augsburg","None","Augsburg","Germany",48.3668041,10.8986971
+"16","Ruben Vargas","SUI","M","1.74","64","05-08-98","Adligenswil","Luzern","Augsburg","Germany",47.070535,8.368244
+"17","Noah-Joel Sarenren-Bazee","GER","M","1.82","70","21-08-96","Celle","Hannover 96","Augsburg","Germany",52.624056,10.081052
+"18","Tin Jedvaj","CRO","D","1.88","78","28-11-95","Zagreb","Bayer Leverkusen","Augsburg","Germany",45.813177,15.977048
+"19","Felix Uduokhai","GER","D","1.92","78","09-09-97","Annaberg-Buchholz","Wolfsburg","Augsburg","Germany",50.5788781,13.0106108
+"20","Julian Schieber","GER","F","1.86","83","13-02-89","Backnang","Hertha Berlin","Augsburg","Germany",48.9466799,9.4311225
+"21","Tomáš Koubek","CZE","G","1.97","99","26-08-92","Hradec Králové","Rennes","Augsburg","Germany",50.2094963,15.832719
+"22","Iago","BRA","D","1.81","68","23-03-97","Monte Azul Paulista","Internacional","Augsburg","Germany",-20.90649,-48.638717
+"23","Marco Richter","GER","M","1.76","74","24-11-97","Friedberg","None","Augsburg","Germany",48.3549199,10.9838928
+"24","Fredrik Jensen","FIN","M","1.83","80","09-09-97","Porvoo","FC Twente","Augsburg","Germany",60.3953913,25.6604862
+"25","Carlos Gruezo","ECU","M","1.71","67","19-04-95","Santo Domingo","FC Dallas","Augsburg","Germany",18.4801972,-69.942111
+"26","Simon Asta","GER","D","1.78","75","25-01-01","Augsburg","None","Augsburg","Germany",48.3668041,10.8986971
+"27","Alfreð Finnbogason","ISL","F","1.84","78","01-02-89","Reykjavík","Real Sociedad","Augsburg","Germany",64.145981,-21.9422367
+"28","André Hahn","GER","M","1.85","75","13-08-90","Otterndorf","Hamburg","Augsburg","Germany",53.808132,8.899715
+"29","Eduard Löwen","GER","M","1.88","91","28-01-97","Idar-Oberstein","Hertha Berlin","Augsburg","Germany",49.7106197,7.313321
+"30","Kilian Jakob","GER","D","1.80","69","25-01-98","Bad Neuenahr-Ahrweiler","1860 Munich","Augsburg","Germany",50.5444551,7.1186671
+"31","Philipp Max","GER","D","1.78","74","30-09-93","Viersen","Karlsruhe","Augsburg","Germany",51.2562118,6.3905476
+"32","Raphael Framberger","GER","D","1.79","73","06-09-95","Augsburg","None","Augsburg","Germany",48.3668041,10.8986971
+"33","Felix Schwarzholz","GER","M","1.77","68","24-09-99","Augsburg","None","Augsburg","Germany",48.3668041,10.8986971
+"34","Georg Teigl","AUT","M","1.78","74","09-02-91","Vienna","RB Leipzig","Augsburg","Germany",48.2083537,16.3725042
+"35","Cheon Seong-Hoon","KOR","F","1.90","82","21-09-00","Anyang","Incheon U","Augsburg","Germany",36.1023552,114.33633
+"36","Reece Oxford","ENG","D","1.90","71","16-12-98","Edmonton","West Ham U","Augsburg","Germany",53.535411,-113.507996
+"37","Maurice Malone","GER","F","1.84","86","17-08-00","Augsburg","None","Augsburg","Germany",48.3668041,10.8986971
+"38","","","","","","","","","Augsburg","Germany",NA,NA
+"39","Benjamin Leneis","GER","G","1.95","92","08-03-99","Munich","None","Augsburg","Germany",48.1371079,11.5753822
+"40","","","","","","","","","Augsburg","Germany",NA,NA
+"43","Stefano Russo","GER","M","1.83","81","29-06-00","Ludwigshafen am Rhein","1899 Hoffenheim","Augsburg","Germany",49.4704113,8.4381568
+"1","Lukáš Hrádecký","FIN","G","1.87","67","24-11-89","Bratislava","Eintracht Frankfurt","Bayer 
+Leverkusen","Germany",48.1516988,17.1093063
+"2","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"3","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"4","Jonathan Tah","GER","D","1.92","90","11-02-96","Hamburg","Hamburg","Bayer 
+Leverkusen","Germany",53.5437641,10.0099133
+"5","Sven Bender","GER","D","1.85","72","27-04-89","Rosenheim","Borussia Dortmund","Bayer 
+Leverkusen","Germany",47.8539273,12.127262
+"6","Aleksandar Dragovic","AUT","D","1.84","76","06-03-91","Vienna","Dynamo Kyiv","Bayer 
+Leverkusen","Germany",48.2083537,16.3725042
+"7","Paulinho","BRA","F","1.74","75","15-07-00","Rio de Janeiro","Vasco da Gama","Bayer 
+Leverkusen","Germany",-22.9110137,-43.2093727
+"8","Lars Bender","GER","M","1.84","77","27-04-89","Rosenheim","1860 Munich","Bayer 
+Leverkusen","Germany",47.8539273,12.127262
+"9","Leon Bailey","JAM","F","1.81","70","09-08-97","Kingston","KRC Genk","Bayer 
+Leverkusen","Germany",17.9712148,-76.7928128
+"10","Kerem Demirbay","GER","M","1.85","80","03-07-93","Gelsenkirchen","1899 Hoffenheim","Bayer 
+Leverkusen","Germany",51.5110321,7.0960124
+"11","Nadiem Amiri","GER","M","1.78","69","27-10-96","Ludwigshafen am Rhein","1899 Hoffenheim","Bayer 
+Leverkusen","Germany",49.4704113,8.4381568
+"12","Edmond Tapsoba","BFA","D","1.90","80","02-02-99","Ouagadougou","Vitória Guimarães","Bayer 
+Leverkusen","Germany",12.368148,-1.527085
+"13","Lucas Alario","ARG","F","1.80","60","08-10-92","Tostado","River Plate","Bayer 
+Leverkusen","Germany",-29.2323991,-61.7710504
+"14","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"15","Julian Baumgartlinger","AUT","M","1.81","80","02-01-88","Salzburg","Mainz","Bayer 
+Leverkusen","Germany",47.7981346,13.0464806
+"16","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"17","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"18","Wendell","BRA","D","1.76","66","20-07-93","Fortaleza","Grêmio","Bayer 
+Leverkusen","Germany",-3.7304512,-38.5217989
+"19","Moussa Diaby","FRA","M","1.70","65","07-07-99","Paris","Paris St-Germain","Bayer 
+Leverkusen","Germany",48.8566969,2.3514616
+"20","Charles Aránguiz","CHI","M","1.72","67","17-04-89","Santiago","Internacional","Bayer 
+Leverkusen","Germany",9.8694792,-83.7980749
+"21","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"22","Daley Sinkgraven","NED","M","1.79","66","04-07-95","Assen","Ajax","Bayer 
+Leverkusen","Germany",52.99037165,6.55337777064233
+"23","Mitchell Weiser","GER","D","1.76","70","21-04-94","Troisdorf","Hertha Berlin","Bayer 
+Leverkusen","Germany",50.8153071,7.1593271
+"24","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"25","Exequiel Palacios","ARG","M","1.77","66","05-10-98","Famaillá","River Plate","Bayer 
+Leverkusen","Germany",-27.0542637,-65.4019205
+"26","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"27","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"28","Ramazan Özcan","AUT","G","1.86","84","28-06-84","Hohenems","Ingolstadt","Bayer 
+Leverkusen","Germany",47.3639973,9.689271
+"29","Kai Havertz","GER","M","1.87","75","11-06-99","Aachen","Alemannia Aachen","Bayer 
+Leverkusen","Germany",50.776351,6.083862
+"30","Adrian Stanilewicz","POL","M","1.81","70","22-02-00","Solingen","None","Bayer 
+Leverkusen","Germany",51.1712468,7.0838996
+"31","Kevin Volland","GER","F","1.79","75","30-07-92","Marktoberdorf","1899 Hoffenheim","Bayer 
+Leverkusen","Germany",47.7750654,10.6170847
+"32","Ayman Azhil","MAR","M","1.71","60","10-04-01","Düsseldorf","None","Bayer 
+Leverkusen","Germany",51.2254018,6.7763137
+"33","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"34","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"35","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"36","Niklas Lomb","GER","G","1.88","84","28-07-93","Cologne","None","Bayer 
+Leverkusen","Germany",50.938361,6.959974
+"37","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"38","Karim Bellarabi","GER","M","1.83","72","08-04-90","Berlin","Eintracht Braunschweig","Bayer 
+Leverkusen","Germany",52.5170365,13.3888599
+"39","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"40","","","","","","","","","Bayer 
+Leverkusen","Germany",NA,NA
+"1","Manuel Neuer","GER","G","1.92","90","27-03-86","Gelsenkirchen","Schalke","Bayern Munich","Germany",51.5110321,7.0960124
+"2","Álvaro Odriozola","ESP","D","1.75","66","14-12-95","San Sebastián","Real Madrid","Bayern Munich","Germany",43.3224219,-1.9838889
+"3","","","","","","","","","Bayern Munich","Germany",NA,NA
+"4","Niklas Süle","GER","D","1.94","91","03-09-95","Frankfurt am Main","1899 Hoffenheim","Bayern Munich","Germany",50.1106444,8.6820917
+"5","Benjamin Pavard","FRA","D","1.82","67","28-03-96","Maubeuge","Stuttgart","Bayern Munich","Germany",50.27964,3.9674154
+"6","Thiago Alcántara","ESP","M","1.65","60","11-04-91","Bari","Barcelona","Bayern Munich","Germany",41.1257843,16.8620293
+"7","","","","","","","","","Bayern Munich","Germany",NA,NA
+"8","Javi Martínez","ESP","D","1.90","81","02-09-88","Lizarra","Athletic Bilbao","Bayern Munich","Germany",42.672094,-2.0314834
+"9","Robert Lewandowski","POL","F","1.81","79","21-08-88","Warsaw","Borussia Dortmund","Bayern Munich","Germany",52.2319581,21.0067249
+"10","Philippe Coutinho","BRA","M","1.71","71","12-06-92","Rio de Janeiro","Barcelona","Bayern Munich","Germany",-22.9110137,-43.2093727
+"11","Mickaël Cuisance","FRA","M","1.81","74","16-08-99","Strasbourg","B Mönchengladbach","Bayern Munich","Germany",48.584614,7.7507127
+"12","","","","","","","","","Bayern Munich","Germany",NA,NA
+"13","","","","","","","","","Bayern Munich","Germany",NA,NA
+"14","Ivan Perišic","CRO","F","1.86","79","02-02-89","Split","Internazionale","Bayern Munich","Germany",43.5116383,16.4399659
+"15","Jann-Fiete Arp","GER","F","1.84","78","06-01-00","Bad Segeberg","Hamburg","Bayern Munich","Germany",53.9368198,10.30415
+"16","Leon Dajaku","GER","M","1.80","72","12-04-01","Waibingen","Stuttgart","Bayern Munich","Germany",NA,NA
+"17","Jérôme Boateng","GER","D","1.92","90","03-09-88","Berlin","Manchester C","Bayern Munich","Germany",52.5170365,13.3888599
+"18","Leon Goretzka","GER","M","1.89","76","06-02-95","Bochum","Schalke","Bayern Munich","Germany",51.4818111,7.2196635
+"19","Alphonso Davies","CAN","M","1.78","69","02-11-00","Montovia","Vancouver Whitecaps","Bayern Munich","Germany",NA,NA
+"20","","","","","","","","","Bayern Munich","Germany",NA,NA
+"21","Lucas Hernández","FRA","D","1.84","76","14-02-96","Marseille","Atlético Madrid","Bayern Munich","Germany",43.2961743,5.3699525
+"22","Serge Gnabry","GER","M","1.73","73","14-07-95","Stuttgart","Werder Bremen","Bayern Munich","Germany",48.7784485,9.1800132
+"23","","","","","","","","","Bayern Munich","Germany",NA,NA
+"24","Corentin Tolisso","FRA","M","1.65","54","03-08-94","Tarare","Lyon","Bayern Munich","Germany",45.8942555,4.4371374
+"25","Thomas Müller","GER","F","1.86","74","13-09-89","Weilheim in Oberbayern","None","Bayern Munich","Germany",47.8395072,11.1416355
+"26","Sven Ulreich","GER","G","1.92","84","03-08-88","Schorndorf","Stuttgart","Bayern Munich","Germany",48.8055169,9.5272665
+"27","David Alaba","AUT","D","1.75","70","24-06-92","Vienna","Austria Vienna (A)","Bayern Munich","Germany",48.2083537,16.3725042
+"28","Sarpreet Singh","NZL","M","1.72","65","20-02-99","Auckland","Wellington Phoenix","Bayern Munich","Germany",-36.852095,174.7631803
+"29","Kingsley Coman","FRA","M","1.78","71","13-06-96","Paris","Juventus","Bayern Munich","Germany",48.8566969,2.3514616
+"30","","","","","","","","","Bayern Munich","Germany",NA,NA
+"31","","","","","","","","","Bayern Munich","Germany",NA,NA
+"32","Joshua Kimmich","GER","D","1.76","68","08-02-95","Rottweil","Stuttgart","Bayern Munich","Germany",48.165531,8.6251283
+"33","Lars Lukas Mai","GER","D","1.90","80","31-03-00","Dresden","Dynamo Dresden","Bayern Munich","Germany",51.0493286,13.7381437
+"34","Oliver Batista Meier","GER","M","1.80","67","16-02-01","Kaiserslautern","Kaiserslautern","Bayern Munich","Germany",49.4432174,7.7689951
+"35","Joshua Zirkzee","NED","F","1.93","84","22-05-01","Schiedam","Feyenoord","Bayern Munich","Germany",51.9300454,4.38645105261573
+"36","Christian Früchtl","GER","G","1.93","71","28-01-00","Bischofsmais","None","Bayern Munich","Germany",48.9186153,13.080915
+"37","Paul Will","GER","M","1.85","77","01-03-99","Biedenkopf","Kaiserslautern","Bayern Munich","Germany",50.9158122,8.5270214
+"38","Kwasi Okyere Wriedt","GHA","F","1.88","80","10-07-94","Hamburg","Osnabrück","Bayern Munich","Germany",53.5437641,10.0099133
+"39","Ron Thorben Hoffmann","GER","G","1.92","84","04-04-99","Rostock","RB Leipzig","Bayern Munich","Germany",54.0924445,12.1286127
+"40","","","","","","","","","Bayern Munich","Germany",NA,NA
+"1","Roman Bürki","SUI","G","1.85","83","14-11-90","Münsingen","Freiburg","Borussia 
+Dortmund","Germany",46.8739775,7.5631943
+"2","Dan-Axel Zagadou","FRA","D","1.95","87","03-06-99","Créteil","Paris St-Germain","Borussia 
+Dortmund","Germany",48.7771486,2.4530731
+"3","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"4","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"5","Achraf Hakimi","MAR","D","1.80","69","04-11-98","Madrid","Real Madrid","Borussia 
+Dortmund","Germany",40.4167047,-3.7035825
+"6","Thomas Delaney","DEN","M","1.82","71","03-09-91","Frederiksberg","Werder Bremen","Borussia 
+Dortmund","Germany",55.678016,12.5326186
+"7","Jadon Sancho","ENG","M","1.78","73","25-03-00","Lambeth","Manchester C","Borussia 
+Dortmund","Germany",51.5013012,-0.117287
+"8","Mahmoud Dahoud","GER","M","1.76","76","01-01-96","Amuda","B Mönchengladbach","Borussia 
+Dortmund","Germany",37.1033727,40.9296228
+"9","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"10","Mario Götze","GER","M","1.76","64","03-06-92","Memmingen","Bayern Munich","Borussia 
+Dortmund","Germany",47.9867696,10.181319
+"11","Marco Reus","GER","M","1.80","75","31-05-89","Dortmund","B Mönchengladbach","Borussia 
+Dortmund","Germany",51.5142273,7.4652789
+"12","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"13","Raphaël Guerreiro","POR","D","1.70","67","22-12-93","Le Blanc-Mesnil","Lorient","Borussia 
+Dortmund","Germany",48.9385489,2.4631476
+"14","Nico Schulz","GER","D","1.80","78","01-04-93","Berlin","1899 Hoffenheim","Borussia 
+Dortmund","Germany",52.5170365,13.3888599
+"15","Mats Hummels","GER","D","1.92","90","16-12-88","Bensberg","Bayern Munich","Borussia 
+Dortmund","Germany",50.9662418,7.1614433
+"16","Manuel Akanji","SUI","D","1.87","85","19-07-95","Winterthur","Basel","Borussia 
+Dortmund","Germany",47.4991723,8.7291498
+"17","Erling Håland","NOR","F","1.91","87","21-07-00","Leeds","Red Bull Salzburg","Borussia 
+Dortmund","Germany",53.7974185,-1.5437941
+"18","Leonardo Balerdi","ARG","D","1.85","85","26-01-99","Villa Mercedes","Boca Juniors","Borussia 
+Dortmund","Germany",-33.6745795,-65.4617562
+"19","Julian Brandt","GER","M","1.83","80","02-05-96","Bremen","Bayer Leverkusen","Borussia 
+Dortmund","Germany",53.0758196,8.8071646
+"20","Jonas Hupe","GER","G","2.00","93","01-12-99","","Werder Bremen","Borussia 
+Dortmund","Germany",NA,NA
+"21","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"22","Mateu Morey","ESP","D","1.72","69","02-03-00","Palma de Mallorca","Barcelona B","Borussia 
+Dortmund","Germany",39.5695818,2.6500745
+"23","Thorgan Hazard","BEL","M","1.74","69","29-03-93","La Louvière","B Mönchengladbach","Borussia 
+Dortmund","Germany",50.479487,4.1852682
+"24","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"25","Luca Unbehaun","GER","G","1.86","82","27-02-01","Bochum","Bochum","Borussia 
+Dortmund","Germany",51.4818111,7.2196635
+"26","Lukasz Piszczek","POL","D","1.84","73","03-06-85","Czechowice- Dziedzice","Hertha Berlin","Borussia 
+Dortmund","Germany",49.9112146,19.007564
+"27","Emre Can","GER","M","1.84","82","12-01-94","Frankfurt am Main","Juventus","Borussia 
+Dortmund","Germany",50.1106444,8.6820917
+"28","Axel Witsel","BEL","M","1.86","73","12-01-89","Liège","Tianjin Quanjian","Borussia 
+Dortmund","Germany",50.6451381,5.5734203
+"29","Marcel Schmelzer","GER","D","1.81","74","22-01-88","Magdeburg","Magdeburg","Borussia 
+Dortmund","Germany",52.1315889,11.6399609
+"30","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"31","Patrick Osterhage","GER","M","1.84","75","01-02-00","Marklohe","Werder Bremen","Borussia 
+Dortmund","Germany",52.6690306,9.1568113
+"32","Giovanni Reyna","USA","M","1.83","74","13-11-02","Sunderland","New York C","Borussia 
+Dortmund","Germany",54.9058512,-1.3828727
+"33","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"34","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"35","Marwin Hitz","SUI","G","1.92","89","18-09-87","St. Gallen","Augsburg","Borussia 
+Dortmund","Germany",47.4250593,9.3765878
+"36","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"37","Tobias Raschl","GER","M","1.77","75","21-02-00","Düsseldorf","Fortuna Düsseldorf","Borussia 
+Dortmund","Germany",51.2254018,6.7763137
+"38","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"39","","","","","","","","","Borussia 
+Dortmund","Germany",NA,NA
+"40","Eric Oelschlägel","GER","G","1.93","87","20-09-95","Hoyerswerda","Werder Bremen","Borussia 
+Dortmund","Germany",51.4333103,14.250083
+"1","Yann Sommer","SUI","G","1.83","77","17-12-88","Morges","Basel","Borussia 
+Mönchengladbach","Germany",46.5093268,6.498317
+"2","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"3","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"4","Mamadou Doucouré","FRA","D","1.82","75","21-05-98","Dakar","Paris St-Germain","Borussia 
+Mönchengladbach","Germany",14.693425,-17.447938
+"5","Tobias Strobl","GER","M","1.86","72","12-05-90","Munich","1899 Hoffenheim","Borussia 
+Mönchengladbach","Germany",48.1371079,11.5753822
+"6","Christoph Kramer","GER","M","1.90","73","19-02-91","Solingen","Bayer Leverkusen","Borussia 
+Mönchengladbach","Germany",51.1712468,7.0838996
+"7","Patrick Herrmann","GER","F","1.79","69","12-02-91","Saarbrücken","Saarbrücken","Borussia 
+Mönchengladbach","Germany",49.234362,6.996379
+"8","Denis Zakaria","SUI","M","1.91","76","20-11-96","Kinshasa","Young Boys","Borussia 
+Mönchengladbach","Germany",-4.3217055,15.3125974
+"9","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"10","Marcus Thuram","FRA","F","1.88","80","06-08-97","Parma","Guingamp","Borussia 
+Mönchengladbach","Germany",44.8013678,10.3280833
+"11","Raffael","BRA","F","1.74","69","28-03-85","Fortaleza","Dynamo Kyiv","Borussia 
+Mönchengladbach","Germany",-3.7304512,-38.5217989
+"12","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"13","Lars Stindl","GER","M","1.80","73","26-08-88","Waghäusel","Hannover 96","Borussia 
+Mönchengladbach","Germany",49.2308301,8.5337304
+"14","Alassane Pléa","FRA","F","1.80","72","10-03-93","Lille","Nice","Borussia 
+Mönchengladbach","Germany",50.6365654,3.0635282
+"15","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"16","Ibrahima Traoré","GUI","F","1.72","62","21-04-88","Villepinte","Stuttgart","Borussia 
+Mönchengladbach","Germany",43.2814917,2.0855714
+"17","Oscar Wendt","SWE","D","1.81","83","24-10-85","Gothenburg","FC København","Borussia 
+Mönchengladbach","Germany",57.7072326,11.9670171
+"18","Stefan Lainer","AUT","D","1.75","70","27-08-92","Salzburg","Red Bull Salzburg","Borussia 
+Mönchengladbach","Germany",47.7981346,13.0464806
+"19","Fabian Johnson","USA","M","1.83","70","11-12-87","Munich","1899 Hoffenheim","Borussia 
+Mönchengladbach","Germany",48.1371079,11.5753822
+"20","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"21","Tobias Sippel","GER","G","1.80","79","22-03-88","Bad Dürkheim","Kaiserslautern","Borussia 
+Mönchengladbach","Germany",49.4632944,8.1705063
+"22","László Bénes","SVK","M","1.73","60","09-09-97","Dunajská Streda","MSK Žilina","Borussia 
+Mönchengladbach","Germany",48.0159082,17.6231965313076
+"23","Jonas Hofmann","GER","M","1.76","65","14-07-92","Heidelberg","Borussia Dortmund","Borussia 
+Mönchengladbach","Germany",49.4093582,8.694724
+"24","Tony Jantschke","GER","D","1.77","69","07-04-90","Hoyerswerda","None","Borussia 
+Mönchengladbach","Germany",51.4333103,14.250083
+"25","Ramy Bensebaini","ALG","D","1.86","75","16-04-95","Constantine","Rennes","Borussia 
+Mönchengladbach","Germany",36.364519,6.60826
+"26","Torben Müsel","GER","M","1.85","76","25-07-99","Grünstadt","Kaiserslautern","Borussia 
+Mönchengladbach","Germany",49.5655288,8.163722
+"27","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"28","Matthias Ginter","GER","D","1.87","82","19-01-94","March","Borussia Dortmund","Borussia 
+Mönchengladbach","Germany",48.0578573,7.7790038
+"29","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"30","Nico Elvedi","SUI","D","1.88","74","30-09-96","Zürich","Zürich","Borussia 
+Mönchengladbach","Germany",47.3723941,8.5423328
+"31","Max Grün","GER","G","1.91","85","05-04-87","Karlstadt am Main","Darmstadt","Borussia 
+Mönchengladbach","Germany",49.9616823,9.7655121
+"32","Florian Neuhaus","GER","M","1.79","64","16-03-97","Landsberg","1860 Munich","Borussia 
+Mönchengladbach","Germany",48.0514973,10.8737728
+"33","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"34","Conor Noß","GER","M","1.81","69","01-01-01","Düsseldorf","None","Borussia 
+Mönchengladbach","Germany",51.2254018,6.7763137
+"35","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"36","Breel Embolo","SUI","F","1.84","71","14-02-97","Yaoundé","Schalke","Borussia 
+Mönchengladbach","Germany",3.8689867,11.5213344
+"37","Keanan Bennetts","ENG","F","1.83","73","09-03-99","Hendon","Tottenham H","Borussia 
+Mönchengladbach","Germany",51.5897442,-0.22162
+"38","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"39","Aaron Herzog","GER","M","1.77","70","30-01-98","Cologne","None","Borussia 
+Mönchengladbach","Germany",50.938361,6.959974
+"40","","","","","","","","","Borussia 
+Mönchengladbach","Germany",NA,NA
+"1","Kevin Trapp","GER","G","1.89","83","08-07-90","Merzig","Paris St-Germain","Eintracht Frankfurt","Germany",49.4427023,6.6374902
+"2","Evan Ndicka","FRA","D","1.90","80","20-08-99","Paris","Auxerre","Eintracht Frankfurt","Germany",48.8566969,2.3514616
+"3","Stefan Ilsanker","AUT","M","1.86","74","18-05-89","Hallein","RB Leipzig","Eintracht Frankfurt","Germany",47.6821521,13.0956313
+"4","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"5","Gelson Fernandes","SUI","M","1.83","70","02-09-86","Praia","Rennes","Eintracht Frankfurt","Germany",14.9160169,-23.5096132
+"6","Jonathan de Guzmán","NED","M","1.75","70","13-09-87","Scarborough [CAN]","Napoli","Eintracht Frankfurt","Germany",NA,NA
+"7","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"8","Djibril Sow","SUI","M","1.79","70","06-02-97","Zürich","Young Boys","Eintracht Frankfurt","Germany",47.3723941,8.5423328
+"9","Bas Dost","NED","F","1.92","78","31-05-89","Deventer","Sporting CP","Eintracht Frankfurt","Germany",52.2532272,6.1584725
+"10","Filip Kostic","SRB","M","1.80","68","01-11-92","Kragujevac","Hamburg","Eintracht Frankfurt","Germany",44.0125745,20.91877
+"11","Mijat Gacinovic","BIH","M","1.75","66","08-02-95","Novi Sad","Vojvodina","Eintracht Frankfurt","Germany",45.2551338,19.8451756
+"12","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"13","Martin Hinteregger","AUT","D","1.84","73","07-09-92","Feldkirchen","Augsburg","Eintracht Frankfurt","Germany",48.1475774,11.7299205
+"14","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"15","Daichi Kamada","JPN","M","1.80","72","05-08-96","Ehime","Sagan Tosu","Eintracht Frankfurt","Germany",33.6013646,132.8185275
+"16","Lucas Torró","ESP","M","1.88","79","19-07-94","Concentaina","Real Madrid","Eintracht Frankfurt","Germany",39.2340395,-0.2521435
+"17","Sebastian Rode","GER","M","1.79","67","11-10-90","Frankfurt am Main","Borussia Dortmund","Eintracht Frankfurt","Germany",50.1106444,8.6820917
+"18","Almamy Touré","MLI","D","1.82","72","28-04-96","Bamako","Monaco","Eintracht Frankfurt","Germany",12.649319,-8.000337
+"19","David Abraham","ARG","D","1.88","85","16-07-86","Chabás","1899 Hoffenheim","Eintracht Frankfurt","Germany",-33.2456886,-61.3588841
+"20","Makoto Hasebe","JPN","M","1.77","65","18-01-84","Shizuoka","Nürnberg","Eintracht Frankfurt","Germany",34.9332488,138.0955398
+"21","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"22","Timmy Chandler","USA","D","1.86","83","29-03-90","Frankfurt am Main","Nürnberg","Eintracht Frankfurt","Germany",50.1106444,8.6820917
+"23","Marco Russ","GER","D","1.90","75","04-08-85","Großauheim","Wolfsburg","Eintracht Frankfurt","Germany",50.1036298,8.97453728696965
+"24","Danny da Costa","GER","D","1.75","70","13-07-93","Neuss","Bayer Leverkusen","Eintracht Frankfurt","Germany",51.1981778,6.6916476
+"25","Eric Durm","GER","D","1.83","73","12-05-92","Pirmasens","Huddersfield T","Eintracht Frankfurt","Germany",49.1996961,7.6087847
+"26","Nils Stendera","GER","M","1.77","68","30-09-00","Kassel","Hessen Kassel","Eintracht Frankfurt","Germany",51.3154546,9.4924096
+"27","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"28","Dominik Kohr","GER","M","1.83","75","31-01-94","Trier","Bayer Leverkusen","Eintracht Frankfurt","Germany",49.7596208,6.6441878
+"29","Felix Wiedwald","GER","G","1.90","82","15-03-90","Thedinghausen","Leeds U","Eintracht Frankfurt","Germany",52.9624246,9.0209139
+"30","Sahverdi Çetin","GER","M","1.74","70","28-09-00","Mainz","Darmstadt","Eintracht Frankfurt","Germany",50.0012314,8.2762513
+"31","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"32","Frederik Rønnow","DEN","G","1.88","76","04-08-92","Horsens","Brøndby","Eintracht Frankfurt","Germany",55.8611696,9.8444774
+"33","André Silva","POR","F","1.85","75","06-11-95","Baguim do Monte","Milan","Eintracht Frankfurt","Germany",41.1874734,-8.5377585
+"34","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"35","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"36","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"37","Jan Zimmermann","GER","G","1.90","85","19-04-85","Offenbach","1860 Munich","Eintracht Frankfurt","Germany",50.1055002,8.7610698
+"38","Patrick Finger","GER","M","1.66","61","01-01-01","Riedstadt","Darmstadt","Eintracht Frankfurt","Germany",49.8425212,8.4829447
+"39","Gonçalo Paciência","POR","F","1.84","78","01-08-94","Porto","FC Porto","Eintracht Frankfurt","Germany",41.1494512,-8.6107884
+"40","","","","","","","","","Eintracht Frankfurt","Germany",NA,NA
+"42","Marijan Cavar","BIH","M","1.84","72","02-02-98","Prozor-Rama","Zrinjski Mostar","Eintracht Frankfurt","Germany",43.8230831,17.6076793
+"1","Michael Rensing","GER","G","1.88","86","14-05-84","Lingen (Ems)","Bayer Leverkusen","Fortuna 
+Düsseldorf","Germany",52.5224659,7.316584
+"2","","","","","","","","","Fortuna 
+Düsseldorf","Germany",NA,NA
+"3","Andre Hoffmann","GER","D","1.88","79","28-02-93","Essen","Hannover 96","Fortuna 
+Düsseldorf","Germany",51.4582235,7.0158171
+"4","Kasim Adams","GHA","D","1.90","83","22-06-95","Accra","1899 Hoffenheim","Fortuna 
+Düsseldorf","Germany",5.5600141,-0.2057437
+"5","Kaan Ayhan","TUR","D","1.78","68","10-11-94","Gelsenkirchen","Schalke","Fortuna 
+Düsseldorf","Germany",51.5110321,7.0960124
+"6","Alfredo Morales","USA","M","1.83","74","12-05-90","Berlin","Ingolstadt","Fortuna 
+Düsseldorf","Germany",52.5170365,13.3888599
+"7","Oliver Fink","GER","M","1.87","79","06-06-82","Hirschau","Unterhaching","Fortuna 
+Düsseldorf","Germany",49.5445912,11.9464314
+"8","Aymen Barkok","MAR","M","1.88","78","21-05-98","Frankfurt am Main","Eintracht Frankfurt","Fortuna 
+Düsseldorf","Germany",50.1106444,8.6820917
+"9","Dawid Kownacki","POL","F","1.87","75","14-03-97","Gorzów Wielkopolski","Sampdoria","Fortuna 
+Düsseldorf","Germany",52.7309926,15.2400451
+"10","Valon Berisha","KVX","M","1.75","81","07-02-93","Malmö","Lazio","Fortuna 
+Düsseldorf","Germany",55.6052931,13.0001566
+"11","Kenan Karaman","TUR","F","1.89","78","05-03-94","Stuttgart","Hannover 96","Fortuna 
+Düsseldorf","Germany",48.7784485,9.1800132
+"12","Maduka Okoye","GER","G","1.97","90","28-08-99","Düsseldorf","Bayer Leverkusen","Fortuna 
+Düsseldorf","Germany",51.2254018,6.7763137
+"13","Adam Bodzek","GER","D","1.85","77","07-09-85","Zabrze","Duisburg","Fortuna 
+Düsseldorf","Germany",50.3086154,18.7863749
+"14","Kelvin Ofori","GHA","F","1.72","64","27-07-01","","Right to Dream","Fortuna 
+Düsseldorf","Germany",NA,NA
+"15","Erik Thommy","GER","M","1.74","64","20-08-94","Ulm","Stuttgart","Fortuna 
+Düsseldorf","Germany",48.3974003,9.9934336
+"16","","","","","","","","","Fortuna 
+Düsseldorf","Germany",NA,NA
+"17","","","","","","","","","Fortuna 
+Düsseldorf","Germany",NA,NA
+"18","Thomas Pledl","GER","M","1.74","65","23-05-94","Bischofsmais","Ingolstadt","Fortuna 
+Düsseldorf","Germany",48.9186153,13.080915
+"19","Mathias Zanka Jørgensen","DEN","D","1.91","79","23-04-90","Copenhagen","Fenerbahçe","Fortuna 
+Düsseldorf","Germany",55.6867243,12.5700724
+"20","Steven Skrzybski","GER","F","1.73","64","18-11-92","Berlin","Schalke","Fortuna 
+Düsseldorf","Germany",52.5170365,13.3888599
+"21","","","","","","","","","Fortuna 
+Düsseldorf","Germany",NA,NA
+"22","Kevin Stöger","AUT","M","1.75","70","27-08-93","Steyr","Bochum","Fortuna 
+Düsseldorf","Germany",48.0390046,14.4191276
+"23","Niko Gießelmann","GER","D","1.81","73","26-09-91","Hannover","Greuther Fürth","Fortuna 
+Düsseldorf","Germany",52.3744779,9.7385532
+"24","Zack Steffen","USA","G","1.90","86","02-04-95","Coatesville","Manchester C","Fortuna 
+Düsseldorf","Germany",39.9831616,-75.8238355
+"25","Matthias Zimmermann","GER","D","1.74","63","16-06-92","Pforzheim","Stuttgart","Fortuna 
+Düsseldorf","Germany",48.8908846,8.7029532
+"26","Diego Contento","ITA","D","1.76","70","01-05-90","Munich","Bordeaux","Fortuna 
+Düsseldorf","Germany",48.1371079,11.5753822
+"27","Nana Ampomah","GHA","F","1.75","68","02-01-96","Tema","Waasland-Beveren","Fortuna 
+Düsseldorf","Germany",5.69869215,0.040351070313932
+"28","Rouwen Hennings","GER","F","1.82","84","28-08-87","Bad Oldesloe","Burnley","Fortuna 
+Düsseldorf","Germany",53.8096562,10.3733692
+"29","Markus Suttner","AUT","D","1.79","71","16-04-87","Hollabrunn","Brighton & HA","Fortuna 
+Düsseldorf","Germany",48.67036975,16.0706367759323
+"30","Raphael Wolf","GER","G","1.90","86","06-06-88","Munich","Werder Bremen","Fortuna 
+Düsseldorf","Germany",48.1371079,11.5753822
+"31","Marcel Sobottka","GER","M","1.83","73","25-04-94","Gelsenkirchen","Schalke","Fortuna 
+Düsseldorf","Germany",51.5110321,7.0960124
+"32","Robin Bormuth","GER","D","1.84","75","19-09-95","Groß-Rohrheim","Darmstadt","Fortuna 
+Düsseldorf","Germany",49.7172193,8.4730404
+"33","Florian Kastenmeier","GER","G","1.92","84","28-06-97","Regensburg","Stuttgart","Fortuna 
+Düsseldorf","Germany",49.0195333,12.0974869
+"34","","","","","","","","","Fortuna 
+Düsseldorf","Germany",NA,NA
+"35","Michel Stöcker","GER","D","1.83","74","14-04-99","Cologne","Köln","Fortuna 
+Düsseldorf","Germany",50.938361,6.959974
+"36","Shinta Appelkamp","GER","M","1.75","70","01-11-00","Tokyo","Mitsubishi Yowa","Fortuna 
+Düsseldorf","Germany",35.6828387,139.7594549
+"37","Bernard Tekpetey","GHA","F","1.72","65","03-09-97","Accra","Schalke","Fortuna 
+Düsseldorf","Germany",5.5600141,-0.2057437
+"38","Tim Wiesner","GER","G","1.92","71","21-11-96","Dortmund","RW Essen","Fortuna 
+Düsseldorf","Germany",51.5142273,7.4652789
+"39","Jean Zimmer","GER","D","1.71","68","06-12-93","Bad Dürkheim","Stuttgart","Fortuna 
+Düsseldorf","Germany",49.4632944,8.1705063
+"40","Johannes Bühler","GER","M","1.81","75","26-07-97","Alsfeld","1899 Hoffenheim","Fortuna 
+Düsseldorf","Germany",50.7523545,9.268355
+"1","Alexander Schwolow","GER","G","1.89","83","02-06-92","Wiesbaden","Wehen-Wiesbaden","SC Freiburg","Germany",50.0820384,8.2416556
+"2","","","","","","","","","SC Freiburg","Germany",NA,NA
+"3","Philipp Lienhart","AUT","D","1.85","78","11-07-96","Lilienfeld","Real Madrid B","SC Freiburg","Germany",47.91778565,15.5675669596284
+"4","Nico Schlotterbeck","GER","D","1.91","86","01-12-99","Waiblingen","Karlsruhe","SC Freiburg","Germany",48.8425793,9.3305129
+"5","Manuel Gulde","GER","D","1.83","73","12-02-91","Mannheim","Karlsruhe","SC Freiburg","Germany",49.489591,8.467236
+"6","Amir Abrashi","ALB","M","1.72","70","27-03-90","Bischofszell","Grasshoppers","SC Freiburg","Germany",47.49675925,9.20010370529915
+"7","Jonathan Schmid","FRA","M","1.77","69","26-06-90","Strasbourg","Augsburg","SC Freiburg","Germany",48.584614,7.7507127
+"8","Mike Frantz","GER","M","1.81","76","14-10-86","Saarbrücken","Nürnberg","SC Freiburg","Germany",49.234362,6.996379
+"9","Lucas Höler","GER","F","1.84","79","10-07-94","Achim","Sandhausen","SC Freiburg","Germany",53.0068811,9.0425504
+"10","","","","","","","","","SC Freiburg","Germany",NA,NA
+"11","Luca Waldschmift","GER","F","1.77","70","19-05-96","Siegen","Hamburg","SC Freiburg","Germany",50.8749804,8.0227233
+"12","","","","","","","","","SC Freiburg","Germany",NA,NA
+"13","","","","","","","","","SC Freiburg","Germany",NA,NA
+"14","","","","","","","","","SC Freiburg","Germany",NA,NA
+"15","","","","","","","","","SC Freiburg","Germany",NA,NA
+"16","Yoric Ravet","FRA","M","1.77","72","09-12-89","Echirolles","Young Boys","SC Freiburg","Germany",45.1437,5.71927
+"17","Lukas Kübler","GER","D","1.83","73","30-08-92","Bonn","Sandhausen","SC Freiburg","Germany",50.735851,7.10066
+"18","Nils Petersen","GER","F","1.86","80","06-12-88","Wernigerode","Werder Bremen","SC Freiburg","Germany",51.8344172,10.7862526
+"19","Janik Haberer","GER","M","1.87","71","02-04-94","Wangen im Allgäu","1899 Hoffenheim","SC Freiburg","Germany",47.6856552,9.8342247
+"20","","","","","","","","","SC Freiburg","Germany",NA,NA
+"21","Brandon Borrello","AUS","M","1.78","79","25-07-95","Adelaide","Kaiserslautern","SC Freiburg","Germany",-34.9281805,138.5999312
+"22","Roland Sallai","HUN","M","1.80","69","22-05-97","Székesfehérvár","APOEL","SC Freiburg","Germany",47.1910169,18.410811
+"23","Dominique Heintz","GER","D","1.90","85","15-08-93","Neustadt an der Weinstraße","Köln","SC Freiburg","Germany",49.3484885,8.1160605406958
+"24","Gian-Luca Itter","GER","D","1.85","72","05-01-99","Gießen","Wolfsburg","SC Freiburg","Germany",50.5862066,8.6742306
+"25","Robin Koch","GER","D","1.90","82","17-07-96","Kaiserslautern","Kaiserslautern","SC Freiburg","Germany",49.4432174,7.7689951
+"26","Mark Flekken","NED","G","1.95","86","13-06-93","Kerkrade","Duisburg","SC Freiburg","Germany",50.8654924,6.0632022
+"27","Nicolas Höfler","GER","M","1.81","78","09-03-90","Überlingen","Pfullendorf","SC Freiburg","Germany",47.7667246,9.1666488
+"28","Kwon Chang-Hoon","KOR","M","1.74","66","30-06-94","Seoul","Dijon","SC Freiburg","Germany",37.5666791,126.9782914
+"29","","","","","","","","","SC Freiburg","Germany",NA,NA
+"30","Christian Günter","GER","D","1.84","81","28-02-93","Villingen","None","SC Freiburg","Germany",48.0578147,8.4652872
+"31","","","","","","","","","SC Freiburg","Germany",NA,NA
+"32","Vincenzo Grifo","ITA","M","1.80","75","07-04-93","Pforzheim","1899 Hoffenheim","SC Freiburg","Germany",48.8908846,8.7029532
+"33","","","","","","","","","SC Freiburg","Germany",NA,NA
+"34","Lino Tempelmann","GER","M","1.74","75","02-02-99","Munich","1860 Munich","SC Freiburg","Germany",48.1371079,11.5753822
+"35","","","","","","","","","SC Freiburg","Germany",NA,NA
+"36","Yannik Keitel","GER","M","1.84","81","15-02-00","Breisach","None","SC Freiburg","Germany",48.026872,7.5894944
+"37","","","","","","","","","SC Freiburg","Germany",NA,NA
+"38","Florian Kath","GER","M","1.85","78","21-10-94","Balingen","Balingen","SC Freiburg","Germany",48.2737512,8.8557862
+"39","Fabian Rüdlin","GER","M","1.76","71","13-01-97","Müllheim","None","SC Freiburg","Germany",47.8099613,7.6257276
+"40","Niclas Thiede","GER","G","1.87","75","14-04-99","Hagen","Bochum","SC Freiburg","Germany",51.3582945,7.473296
+"1","Thomas Kraft","GER","G","1.85","78","22-07-88","Kirchen (Sieg)","Bayern Munich","Hertha Berlin","Germany",50.808223,7.8797292
+"2","Peter Pekarik","SVK","D","1.76","69","30-10-86","Žilina","Wolfsburg","Hertha Berlin","Germany",49.22055575,18.7260535114405
+"3","Per Ciljan Skjelbreid","NOR","M","1.75","62","16-06-87","Trondheim","Hamburg","Hertha Berlin","Germany",63.4305658,10.3951929
+"4","Karim Rekik","NED","D","1.83","76","02-12-94","Den Haag","Marseille","Hertha Berlin","Germany",52.07494555,4.26968022053645
+"5","Niklas Stark","GER","D","1.88","80","14-04-95","Neustadt an der Aisch","Nürnberg","Hertha Berlin","Germany",49.5819105,10.6077372
+"6","Vladimír Darida","CZE","M","1.70","60","08-08-90","Plzen","Freiburg","Hertha Berlin","Germany",49.7477415,13.3775249
+"7","Krzysztof Piatek","POL","F","1.83","76","01-07-95","Dzierzoniów","Milan","Hertha Berlin","Germany",50.7283543,16.6506207
+"8","Salomon Kalou","CIV","M","1.84","77","05-08-85","Oumé","Lille","Hertha Berlin","Germany",35.803601,139.238128
+"9","Alexander Esswein","GER","M","1.81","76","25-03-90","Worms","Augsburg","Hertha Berlin","Germany",49.6302618,8.3620898
+"10","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"11","Matthew Leckie","AUS","M","1.80","79","04-02-91","Melbourne","Ingolstadt","Hertha Berlin","Germany",-37.8142176,144.9631608
+"12","Dennis Smarsch","GER","G","1.95","96","14-01-99","Berlin","None","Hertha Berlin","Germany",52.5170365,13.3888599
+"13","Lukas Klünter","GER","D","1.84","73","26-05-96","Euskirchen","Köln","Hertha Berlin","Germany",50.555941,6.64417579015562
+"14","Pascal Köpke","GER","F","1.75","76","03-09-95","Hanau","Erzgebirge Aue","Hertha Berlin","Germany",50.1335542,8.9168179
+"15","Marko Grujic","SRB","M","1.91","82","13-04-96","Belgrade","Liverpool","Hertha Berlin","Germany",44.8178131,20.4568974
+"16","Javairô Dilrosun","NED","M","1.75","67","22-06-98","Amsterdam","Manchester C","Hertha Berlin","Germany",52.3745403,4.89797550561798
+"17","Maximilian Mittelstädt","GER","D","1.78","65","18-03-97","Berlin","None","Hertha Berlin","Germany",52.5170365,13.3888599
+"18","Santiago Ascacibar","ARG","M","1.68","69","25-02-97","La Plata","Stuttgart","Hertha Berlin","Germany",-34.9206797,-57.9537638
+"19","Vedad Ibiševic","BIH","F","1.88","80","06-08-84","Vlasenica","Stuttgart","Hertha Berlin","Germany",44.1822575,18.9405987
+"20","Dedryck Boyata","BEL","D","1.88","84","08-09-90","Uccle","Celtic","Hertha Berlin","Germany",50.8035441,4.3338445
+"21","Marvin Plattenhardt","GER","D","1.79","73","26-01-92","Filderstadt","Nürnberg","Hertha Berlin","Germany",48.6616311,9.2236805
+"22","Rune Almenning Jarstein","NOR","G","1.90","82","29-09-84","Skien","Viking","Hertha Berlin","Germany",59.2662883,9.53113544753747
+"23","Arne Maier","GER","M","1.83","79","08-01-99","Ludwigsfelde","None","Hertha Berlin","Germany",52.3016096,13.2610163
+"24","Pál Dárdai","HUN","F","1.79","65","24-04-99","Berlin","None","Hertha Berlin","Germany",52.5170365,13.3888599
+"25","Jordan Torunarigha","GER","D","1.89","77","07-08-97","Chemnitz","Chemnitzer FC","Hertha Berlin","Germany",50.8322608,12.9252977
+"26","Matheus Cunha","BRA","F","1.84","75","27-05-99","João Pessoa","RB Leipzig","Hertha Berlin","Germany",-7.1215981,-34.882028
+"27","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"28","Dodi Lukebakio","BEL","M","1.87","77","24-09-97","Asse","Watford","Hertha Berlin","Germany",50.9094333,4.2015646
+"29","Florian Baak","GER","D","1.85","75","18-03-99","Berlin","None","Hertha Berlin","Germany",52.5170365,13.3888599
+"30","Marius Wolf","GER","F","1.87","73","27-05-95","Coburg","Borussia Dortmund","Hertha Berlin","Germany",50.258112,10.964463
+"31","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"32","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"33","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"34","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"35","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"36","Muhammed Kiprit","TUR","F","1.84","77","09-07-99","Berlin","TeBe Berlin","Hertha Berlin","Germany",52.5170365,13.3888599
+"37","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"38","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"39","Julian Albrecht","GER","M","1.80","77","31-08-01","Rostock","Hansa Rostock","Hertha Berlin","Germany",54.0924445,12.1286127
+"40","","","","","","","","","Hertha Berlin","Germany",NA,NA
+"1","Oliver Baumann","GER","G","1.87","72","02-06-90","Breisach","Freiburg","TSG 1899 
+Hoffenheim","Germany",48.026872,7.5894944
+"2","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"3","Pavel Kaderábek","CZE","D","1.77","69","25-04-92","Prague","Sparta Prague","TSG 1899 
+Hoffenheim","Germany",50.0874654,14.4212535
+"4","Ermin Bicakcic","BIH","D","1.85","81","24-01-90","Zvornik","Eintracht Braunschweig","TSG 1899 
+Hoffenheim","Germany",44.3855164,19.102934
+"5","Kostas Stafylidis","GRE","D","1.76","74","02-12-93","Koufalia","Augsburg","TSG 1899 
+Hoffenheim","Germany",40.7786437,22.5775615
+"6","Håvard Nordtveit","NOR","D","1.88","83","21-06-90","Vats","West Ham U","TSG 1899 
+Hoffenheim","Germany",47.7782873,19.1278294
+"7","Jacob Bruun Larsen","DEN","F","1.83","74","19-09-98","Lyngby","Borussia Dortmund","TSG 1899 
+Hoffenheim","Germany",55.7718649,12.5051413
+"8","Dennis Geiger","GER","M","1.72","65","10-06-98","Mosbach","None","TSG 1899 
+Hoffenheim","Germany",49.3527796,9.1455235
+"9","Ihlas Bebou","TOG","F","1.83","72","23-04-94","Sokodé","Hannover 96","TSG 1899 
+Hoffenheim","Germany",8.9833194,1.1438149
+"10","Munas Dabbur","ISR","F","1.81","74","14-05-92","Nazareth","Sevilla","TSG 1899 
+Hoffenheim","Germany",32.7066301,35.3048161
+"11","Florian Grillitsch","AUT","M","1.87","73","07-08-95","Neunkirchen","Werder Bremen","TSG 1899 
+Hoffenheim","Germany",49.3533493,6.5564888
+"12","Philipp Pentke","GER","G","1.91","90","01-05-85","Freiberg","Jahn Regensburg","TSG 1899 
+Hoffenheim","Germany",50.9169415,13.3428889
+"13","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"14","Christoph Baumgartner","AUT","M","1.78","68","01-08-99","Horn","SKN St. Pölten","TSG 1899 
+Hoffenheim","Germany",50.0444634,7.5425933
+"15","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"16","Sebastian Rudy","GER","M","1.79","73","28-02-90","Villingen- Schwenningen","Schalke","TSG 1899 
+Hoffenheim","Germany",48.0632739,8.494588
+"17","Steven Zuber","SUI","M","1.77","68","17-08-91","Winterthur","CSKA Moscow","TSG 1899 
+Hoffenheim","Germany",47.4991723,8.7291498
+"18","Diadie Samassékou","MLI","M","1.77","68","11-01-96","Bamako","Red Bull Salzburg","TSG 1899 
+Hoffenheim","Germany",12.649319,-8.000337
+"19","Ishak Belfodil","ALG","F","1.91","86","12-01-92","Mostaganem","Standard Liège","TSG 1899 
+Hoffenheim","Germany",36.0026915,0.368595694678402
+"20","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"21","Benjamin Hübner","GER","D","1.93","76","04-07-89","Wiesbaden","Ingolstadt","TSG 1899 
+Hoffenheim","Germany",50.0820384,8.2416556
+"22","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"23","Sargis Adamyan","ARM","F","1.84","77","23-05-93","Yerevan","Jahn Regensburg","TSG 1899 
+Hoffenheim","Germany",40.1776121,44.5125849
+"24","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"25","Kevin Akpoguma","GER","D","1.90","65","19-04-95","Neustadt an der Weinstraße","Karlsruhe","TSG 1899 
+Hoffenheim","Germany",49.3484885,8.1160605406958
+"26","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"27","Andrej Kramaric","CRO","F","1.77","70","19-06-91","Zagreb","Leicester C","TSG 1899 
+Hoffenheim","Germany",45.813177,15.977048
+"28","Michael Esser","GER","G","1.98","99","22-11-87","Castrop-Rauxel","Hannover 96","TSG 1899 
+Hoffenheim","Germany",51.5646195,7.3106175
+"29","Robert Skov","DEN","F","1.85","78","20-05-96","Silkeborg","FC København","TSG 1899 
+Hoffenheim","Germany",56.169453,9.5495141
+"30","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"31","Lucas Ribeiro","BRA","D","1.90","80","19-01-99","Salvador","Vitória","TSG 1899 
+Hoffenheim","Germany",13.8000382,-88.9140683
+"32","Melayro Bogarde","NED","D","1.82","72","28-05-02","Rotterdam","Feyenoord","TSG 1899 
+Hoffenheim","Germany",51.9228958,4.4631727
+"33","Alexander Stolz","GER","G","1.89","85","13-10-83","Pforzheim","Karlsruhe","TSG 1899 
+Hoffenheim","Germany",48.8908846,8.7029532
+"34","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"35","Maximilian Beier","GER","F","1.83","64","17-10-02","Brandenburg an der Havel","Energie Cottbus","TSG 1899 
+Hoffenheim","Germany",52.4108261,12.5497933
+"36","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"37","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"38","Stefan Posch","AUT","D","1.88","76","14-05-97","Judenburg","Admira Wacker Mödling","TSG 1899 
+Hoffenheim","Germany",47.1694082,14.6601079
+"39","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"40","","","","","","","","","TSG 1899 
+Hoffenheim","Germany",NA,NA
+"41","Ilay Elmkies","ISR","M","1.72","65","10-03-00","Nahariya","None","TSG 1899 
+Hoffenheim","Germany",33.006306,35.0945579
+"1","Timo Horn","GER","G","1.90","92","12-05-93","Cologne","None","1.FC Köln","Germany",50.938361,6.959974
+"2","Benno Schmitz","GER","D","1.82","75","17-11-94","Munich","RB Leipzig","1.FC Köln","Germany",48.1371079,11.5753822
+"3","","","","","","","","","1.FC Köln","Germany",NA,NA
+"4","","","","","","","","","1.FC Köln","Germany",NA,NA
+"5","Rafael Czichos","GER","D","1.88","86","14-05-90","Jeddah","Holstein Kiel","1.FC Köln","Germany",21.5810088,39.1653612
+"6","Marco Höger","GER","M","1.86","74","16-09-89","Cologne","Schalke","1.FC Köln","Germany",50.938361,6.959974
+"7","Marcel Risse","GER","M","1.83","78","17-12-89","Cologne","Mainz","1.FC Köln","Germany",50.938361,6.959974
+"8","Birger Verstraete","BEL","M","1.71","61","16-04-94","Ostend","KAA Gent","1.FC Köln","Germany",51.2258565,2.919496
+"9","Simon Terodde","GER","F","1.92","82","02-03-88","Bocholt","Stuttgart","1.FC Köln","Germany",51.8382715,6.6148669
+"10","","","","","","","","","1.FC Köln","Germany",NA,NA
+"11","Kingsley Schindler","GER","M","1.83","77","12-07-93","Hamburg","Holstein Kiel","1.FC Köln","Germany",53.5437641,10.0099133
+"12","","","","","","","","","1.FC Köln","Germany",NA,NA
+"13","","","","","","","","","1.FC Köln","Germany",NA,NA
+"14","Jonas Hector","GER","M","1.85","73","27-05-90","Saarbrücken","Auersmacher","1.FC Köln","Germany",49.234362,6.996379
+"15","Jhon Córdoba","COL","F","1.86","85","10-05-93","Istmina","Mainz","1.FC Köln","Germany",4.8293148,-76.9012956257156
+"16","","","","","","","","","1.FC Köln","Germany",NA,NA
+"17","Christian Clemens","GER","M","1.80","70","04-08-91","Cologne","Mainz","1.FC Köln","Germany",50.938361,6.959974
+"18","Thomas Kessler","GER","G","1.97","92","20-01-86","Cologne","None","1.FC Köln","Germany",50.938361,6.959974
+"19","Kingsley Ehizibue","NED","D","1.87","82","25-05-95","Munich","PEC Zwolle","1.FC Köln","Germany",48.1371079,11.5753822
+"20","Elvis Rexhbecaj","GER","M","1.82","73","01-11-97","Gjonaj","Wolfsburg","1.FC Köln","Germany",42.2534549,20.621635
+"21","","","","","","","","","1.FC Köln","Germany",NA,NA
+"22","Jorge Meré","ESP","D","1.82","77","17-04-97","Oviedo","Sporting Gijón","1.FC Köln","Germany",43.3533424,-5.87951433952683
+"23","Mark Uth","GER","F","1.85","68","24-08-91","Cologne","Schalke","1.FC Köln","Germany",50.938361,6.959974
+"24","Dominick Drexler","GER","M","1.83","70","26-05-90","Bonn","FC Midtjylland","1.FC Köln","Germany",50.735851,7.10066
+"25","","","","","","","","","1.FC Köln","Germany",NA,NA
+"26","","","","","","","","","1.FC Köln","Germany",NA,NA
+"27","Anthony Modeste","FRA","F","1.86","73","14-04-88","Cannes","Tianjin Quanjian","1.FC Köln","Germany",43.5515198,7.0134418
+"28","Ellyes Skhiri","TUN","M","1.85","69","10-05-95","Lunel","Montpellier","1.FC Köln","Germany",43.6745265,4.1348062
+"29","Jan Thielmann","GER","F","1.78","66","26-05-02","Föhren","Eintracht Trier","1.FC Köln","Germany",49.8593089,6.7678265
+"30","Florian Kainz","AUT","M","1.74","67","24-10-92","Graz","Werder Bremen","1.FC Köln","Germany",47.0708678,15.4382786
+"31","Brady Scott","USA","G","1.80","73","30-06-99","Petaluma","De Anza Force","1.FC Köln","Germany",38.295411,-122.613693502033
+"32","Julian Krahl","GER","G","1.94","90","22-01-00","Forst (Lausitz)","RB Leipzig","1.FC Köln","Germany",51.7376448,14.6121865158943
+"33","Sebastiaan Bornauw","BEL","D","1.90","81","22-03-99","Wemmel","Anderlecht","1.FC Köln","Germany",50.9087716,4.3034586
+"34","Noah Katterbach","GER","D","1.80","73","13-04-01","Simmerath","None","1.FC Köln","Germany",50.6072499,6.3005267
+"35","","","","","","","","","1.FC Köln","Germany",NA,NA
+"36","Niklas Hauptmann","GER","M","1.76","63","27-06-96","Cologne","Dynamo Dresden","1.FC Köln","Germany",50.938361,6.959974
+"37","Toni Leistner","GER","D","1.90","85","19-08-90","Dresden","QPR","1.FC Köln","Germany",51.0493286,13.7381437
+"38","Ismail Jakobs","GER","D","1.83","75","17-08-99","Cologne","None","1.FC Köln","Germany",50.938361,6.959974
+"39","","","","","","","","","1.FC Köln","Germany",NA,NA
+"40","","","","","","","","","1.FC Köln","Germany",NA,NA
+"1","Péter Gulácsi","HUN","G","1.90","83","06-05-90","Budapest","Red Bull Salzburg","RB Leipzig","Germany",47.4983815,19.0404707
+"2","","","","","","","","","RB Leipzig","Germany",NA,NA
+"3","Angeliño","ESP","D","1.76","68","04-01-97","Coristanco","Manchester C","RB Leipzig","Germany",43.1570617,-8.7639059
+"4","Willi Orban","GER","D","1.85","80","03-11-92","Kaiserslautern","Kaiserslautern","RB Leipzig","Germany",49.4432174,7.7689951
+"5","Dayot Upamecano","FRA","D","1.88","84","27-10-98","Evreux","Red Bull Salzburg","RB Leipzig","Germany",49.0268903,1.1510164
+"6","Ibrahima Konaté","FRA","D","1.93","84","25-05-99","Paris","Sochaux","RB Leipzig","Germany",48.8566969,2.3514616
+"7","Marcel Sabitzer","AUT","M","1.76","70","17-03-94","Graz","Rapid Vienna","RB Leipzig","Germany",47.0708678,15.4382786
+"8","Amadou Haidara","MLI","M","1.75","67","31-01-98","Bamako","Red Bull Salzburg","RB Leipzig","Germany",12.649319,-8.000337
+"9","Yussuf Poulsen","DEN","F","1.93","78","15-06-94","Copenhagen","Lyngby","RB Leipzig","Germany",55.6867243,12.5700724
+"10","Emil Forsberg","SWE","F","1.79","78","23-10-91","Sundsvall","Malmö FF","RB Leipzig","Germany",62.3907552,17.3071024
+"11","Timo Werner","GER","F","1.80","75","06-03-96","Stuttgart","Stuttgart","RB Leipzig","Germany",48.7784485,9.1800132
+"12","","","","","","","","","RB Leipzig","Germany",NA,NA
+"13","","","","","","","","","RB Leipzig","Germany",NA,NA
+"14","Tyler Adams","USA","M","1.75","68","14-02-99","Wappingers Falls","New York Red Bulls","RB Leipzig","Germany",41.5965635,-73.9112103
+"15","","","","","","","","","RB Leipzig","Germany",NA,NA
+"16","Lukas Klostermann","GER","D","1.85","80","03-06-96","Gevelsberg","Bochum","RB Leipzig","Germany",51.3207417,7.3404792
+"17","Ademola Lookman","ENG","F","1.74","78","20-10-97","Wandsworth","Everton","RB Leipzig","Germany",51.4570271,-0.1932607
+"18","Christopher Nkunku","FRA","M","1.75","70","14-11-97","Lagny-sur-Marne","Paris St-Germain","RB Leipzig","Germany",48.8773018,2.7056056
+"19","Hannes Wolf","AUT","M","1.79","66","16-04-99","Graz","Red Bull Salzburg","RB Leipzig","Germany",47.0708678,15.4382786
+"20","","","","","","","","","RB Leipzig","Germany",NA,NA
+"21","Patrik Schick","CZE","F","1.86","73","24-01-96","Prague","Roma","RB Leipzig","Germany",50.0874654,14.4212535
+"22","Nordi Mukiele","FRA","D","1.85","74","01-11-97","Montreuil","Montpellier","RB Leipzig","Germany",50.4638918,1.7631125
+"23","Marcel Halstenberg","GER","D","1.86","82","27-09-91","Laatzen","St Pauli","RB Leipzig","Germany",52.3077423,9.8132829
+"24","","","","","","","","","RB Leipzig","Germany",NA,NA
+"25","Dani Olmo","ESP","M","1.79","72","07-05-98","Terrassa","Dinamo Zagreb","RB Leipzig","Germany",41.5629885,2.0102442
+"26","Ethan Ampadu","WAL","D","1.82","72","14-09-00","Exeter","Chelsea","RB Leipzig","Germany",50.725562,-3.5269108
+"27","Konrad Laimer","AUT","M","1.79","68","27-05-97","Salzburg","Red Bull Salzburg","RB Leipzig","Germany",47.7981346,13.0464806
+"28","Yvon Mvogo","SUI","G","1.86","84","06-06-94","Fribourg","Young Boys","RB Leipzig","Germany",46.6789116,7.1027113
+"29","","","","","","","","","RB Leipzig","Germany",NA,NA
+"30","","","","","","","","","RB Leipzig","Germany",NA,NA
+"31","","","","","","","","","RB Leipzig","Germany",NA,NA
+"32","Tim Schreiber","GER","G","1.91","83","24-04-02","Freital","None","RB Leipzig","Germany",51.016265,13.6530329
+"33","Philipp Tschauner","GER","G","1.96","89","03-11-85","Schwabach","Hannover 96","RB Leipzig","Germany",49.3346915,11.0294139178305
+"34","","","","","","","","","RB Leipzig","Germany",NA,NA
+"35","","","","","","","","","RB Leipzig","Germany",NA,NA
+"36","","","","","","","","","RB Leipzig","Germany",NA,NA
+"37","","","","","","","","","RB Leipzig","Germany",NA,NA
+"38","","","","","","","","","RB Leipzig","Germany",NA,NA
+"39","","","","","","","","","RB Leipzig","Germany",NA,NA
+"40","","","","","","","","","RB Leipzig","Germany",NA,NA
+"44","Kevin Kampl","SVN","M","1.80","63","09-10-90","Solingen","Bayer Leverkusen","RB Leipzig","Germany",51.1712468,7.0838996
+"53","Tom Krauß","GER","M","1.82","75","22-06-01","Leipzig","None","RB Leipzig","Germany",51.3406321,12.3747329
+"1","Florian Müller","GER","G","1.92","85","13-11-97","Saarlouis","Saarbrücken","1.FSV Mainz 05","Germany",49.3164661,6.749846
+"2","Ronaël Pierre-Gabriel","FRA","D","1.77","76","13-08-98","Paris","Monaco","1.FSV Mainz 05","Germany",48.8566969,2.3514616
+"3","Aarón","ESP","D","1.80","72","22-04-97","Montmeló","Espanyol","1.FSV Mainz 05","Germany",41.5515189,2.2480812
+"4","Jerry St. Juste","NED","D","1.85","71","19-10-96","Groningen","Feyenoord","1.FSV Mainz 05","Germany",53.2217925,6.55824533479853
+"5","Jean-Paul Boëtius","NED","M","1.82","74","22-03-94","Rotterdam","Feyenoord","1.FSV Mainz 05","Germany",51.9228958,4.4631727
+"6","Danny Latza","GER","M","1.79","75","07-12-89","Gelsenkirchen","Bochum","1.FSV Mainz 05","Germany",51.5110321,7.0960124
+"7","Robin Quaison","SWE","F","1.83","76","09-10-93","Stockholm","Palermo","1.FSV Mainz 05","Germany",59.3251172,18.0710935
+"8","Levin Öztunali","GER","M","1.76","70","15-03-96","Hamburg","Bayer Leverkusen","1.FSV Mainz 05","Germany",53.5437641,10.0099133
+"9","Jean-Philippe Mateta","FRA","F","1.92","84","28-06-97","Clamart","Lyon","1.FSV Mainz 05","Germany",48.800368,2.2630292
+"10","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"11","Ji Dong-Won","KOR","F","1.87","78","28-05-91","Jeju","Augsburg","1.FSV Mainz 05","Germany",33.3939924,126.5626653
+"12","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"13","Jeffrey Bruma","NED","D","1.86","83","13-11-91","Rotterdam","Wolfsburg","1.FSV Mainz 05","Germany",51.9228958,4.4631727
+"14","Pierre Kunde","CMR","M","1.80","86","26-07-95","Limbé","Atlético Madrid B","1.FSV Mainz 05","Germany",19.7064096,-72.4029292
+"15","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"16","Stefan Bell","GER","D","1.92","86","24-08-91","Andernach","None","1.FSV Mainz 05","Germany",50.4391924,7.4023145
+"17","Jonathan Meier","GER","D","1.81","75","11-11-99","Munich","Bayern Munich","1.FSV Mainz 05","Germany",48.1371079,11.5753822
+"18","Daniel Brosinski","GER","D","1.78","65","17-07-88","Karlsruhe","Greuther Fürth","1.FSV Mainz 05","Germany",49.0068705,8.4034195
+"19","Moussa Niakhaté","FRA","D","1.75","75","08-03-96","Roubaix","Metz","1.FSV Mainz 05","Germany",50.6915893,3.1741734
+"20","Edimilson Fernandes","SUI","M","1.90","70","15-04-96","Sion","West Ham U","1.FSV Mainz 05","Germany",43.73903,0.00822
+"21","Karim Onisiwo","AUT","F","1.88","76","17-03-92","Vienna","Mattersburg","1.FSV Mainz 05","Germany",48.2083537,16.3725042
+"22","Taiwo Awoniyi","NGA","F","1.78","71","12-08-97","Ilorin","Liverpool","1.FSV Mainz 05","Germany",8.4963657,4.5480484
+"23","Phillipp Mwene","AUT","D","1.70","66","29-01-94","Vienna","Kaiserslautern","1.FSV Mainz 05","Germany",48.2083537,16.3725042
+"24","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"25","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"26","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"27","Robin Zentner","GER","G","1.93","96","28-10-94","Rüdesheim","None","1.FSV Mainz 05","Germany",49.8452302,7.80434027169173
+"28","Ádám Szalai","HUN","F","1.93","80","09-12-87","Budapest","1899 Hoffenheim","1.FSV Mainz 05","Germany",47.4983815,19.0404707
+"29","Jonathan Burkardt","GER","F","1.80","74","11-07-00","Darmstadt","None","1.FSV Mainz 05","Germany",49.872775,8.651177
+"30","Cyrill Akono","GER","F","1.90","75","29-02-00","Münster","Preußen Münster","1.FSV Mainz 05","Germany",51.9625101,7.6251879
+"31","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"32","Niklas Kölle","GER","D","1.81","77","17-11-99","Wolfsburg","Wolfsburg","1.FSV Mainz 05","Germany",52.4205588,10.7861682
+"33","Omer Hanin","ISR","G","1.91","82","14-05-98","Rishon LeZion","Hapoel Hadera","1.FSV Mainz 05","Germany",31.9635712,34.8101149
+"34","Ridle Baku","GER","M","1.76","72","08-04-98","Mainz","None","1.FSV Mainz 05","Germany",50.0012314,8.2762513
+"35","Leandro Barreiro","LUX","M","1.70","65","03-01-00","Erpeldange","Erpeldange","1.FSV Mainz 05","Germany",49.9781688,5.9477465
+"36","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"37","Finn Dahmen","GER","G","1.86","80","27-03-98","Wiesbaden","None","1.FSV Mainz 05","Germany",50.0820384,8.2416556
+"38","Erkan Eyibil","GER","M","1.75","72","15-06-01","","Baunatal","1.FSV Mainz 05","Germany",NA,NA
+"39","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"40","","","","","","","","","1.FSV Mainz 05","Germany",NA,NA
+"42","Alexander Hack","GER","D","1.93","82","08-09-93","Memmingen","Unterhaching","1.FSV Mainz 05","Germany",47.9867696,10.181319
+"1","","","","","","","","","SC Paderborn","Germany",NA,NA
+"2","Uwe Hünemeier","GER","D","1.88","79","09-01-86","Rietberg","Brighton & HA","SC Paderborn","Germany",51.8074106,8.4286614
+"3","","","","","","","","","SC Paderborn","Germany",NA,NA
+"4","Jan-Luca Rumpf","GER","D","1.92","85","08-07-99","Wiesbaden","Sportfreunde Siegen","SC Paderborn","Germany",50.0820384,8.2416556
+"5","Christian Strohdiek","GER","D","1.92","85","22-01-88","Paderborn","Fortuna Düsseldorf","SC Paderborn","Germany",51.71895955,8.76486977817756
+"6","Samúel Fridjónsson","ISL","M","1.86","76","22-02-96","Reykjanesbær","Vålerenga","SC Paderborn","Germany",63.9832697,-22.5561494
+"7","Marlon Ritter","GER","M","1.70","65","15-10-94","Essen","Fortuna Düsseldorf","SC Paderborn","Germany",51.4582235,7.0158171
+"8","Klaus Gjasula","GER","M","1.92","84","14-12-89","Tirana","Hallescher FC","SC Paderborn","Germany",41.3268733,19.8187913
+"9","Kai Pröger","GER","M","1.77","73","15-05-92","Wilhelmshaven","RW Essen","SC Paderborn","Germany",53.5278793,8.106301
+"10","","","","","","","","","SC Paderborn","Germany",NA,NA
+"11","Sven Michel","GER","F","1.78","75","15-07-90","Freudenberg","Energie Cottbus","SC Paderborn","Germany",50.8983662,7.8773745
+"12","Dominik Bilogrevic","CRO","M","1.90","74","02-01-99","Gummersbach","Bayer Leverkusen","SC Paderborn","Germany",51.0277658,7.5630545
+"13","Sebastian Schonlau","GER","D","1.85","78","05-08-94","Warburg","Warburg","SC Paderborn","Germany",51.4886533,9.1488385
+"14","Adrian Oeynhausen","GER","M","1.72","68","18-01-02","Bad Driburg","Borussia Dortmund","SC Paderborn","Germany",51.7366427,9.0175012
+"15","Luca Kilian","GER","D","1.90","88","01-09-99","Witten","Borussia Dortmund","SC Paderborn","Germany",51.4370171,7.335124
+"16","","","","","","","","","SC Paderborn","Germany",NA,NA
+"17","Leopold Zingerle","GER","G","1.85","82","10-04-94","Munich","Magdeburg","SC Paderborn","Germany",48.1371079,11.5753822
+"18","Dennis Srbeny","GER","F","1.90","83","05-05-94","Berlin","Norwich C","SC Paderborn","Germany",52.5170365,13.3888599
+"19","Abdelhamid Sabiri","GER","M","1.83","80","28-11-96","Goulmima","Huddersfield T","SC Paderborn","Germany",31.6837678,-4.94836703687636
+"20","Laurent Jans","LUX","D","1.78","73","05-08-92","Luxembourg","Metz","SC Paderborn","Germany",49.8158683,6.1296751
+"21","Jannik Huth","GER","G","1.85","80","15-04-94","Bingen","Mainz","SC Paderborn","Germany",49.9667,7.9
+"22","Christopher Antwi-Adjej","GER","M","1.73","69","07-02-94","Hagen","Sprockhövel","SC Paderborn","Germany",51.3582945,7.473296
+"23","","","","","","","","","SC Paderborn","Germany",NA,NA
+"24","Rifet Kapic","BIH","M","1.82","76","03-07-95","Cazin","Grasshoppers","SC Paderborn","Germany",44.9663757,15.9418198
+"25","Mohamed Dräger","TUN","D","1.80","74","25-06-96","Freiburg im Breisgau","Freiburg","SC Paderborn","Germany",47.9960901,7.8494005
+"26","Antony Evans","ENG","M","1.86","68","23-09-98","Fazakerley","Everton","SC Paderborn","Germany",53.4560921,-2.9296711
+"27","","","","","","","","","SC Paderborn","Germany",NA,NA
+"28","","","","","","","","","SC Paderborn","Germany",NA,NA
+"29","Jamilu Collins","NGA","D","1.83","69","05-08-94","Kaduna","Rijeka","SC Paderborn","Germany",10.3825318,7.8533226
+"30","Streli Mamba","GER","F","1.77","75","17-06-94","Göppingen","Energie Cottbus","SC Paderborn","Germany",48.7031377,9.6541116
+"31","Ben Zolinski","GER","F","1.81","78","03-05-92","Berlin","Neustrelitz","SC Paderborn","Germany",52.5170365,13.3888599
+"32","Dennis Jastrzembski","GER","F","1.76","77","20-02-00","Rendsburg","Hertha Berlin","SC Paderborn","Germany",54.3046701,9.6645115
+"33","","","","","","","","","SC Paderborn","Germany",NA,NA
+"34","Leon Brüggemeier","GER","G","1.92","84","23-08-97","Salzkotten","Hertha Berlin II","SC Paderborn","Germany",51.6624739,8.6174592193653
+"35","","","","","","","","","SC Paderborn","Germany",NA,NA
+"36","","","","","","","","","SC Paderborn","Germany",NA,NA
+"37","","","","","","","","","SC Paderborn","Germany",NA,NA
+"38","Gerrit Holtmann","GER","D","1.83","73","25-03-95","Bremen","Mainz","SC Paderborn","Germany",53.0758196,8.8071646
+"39","Sebastian Vasiliadis","GER","M","1.77","73","04-10-97","Auenwald","Aalen","SC Paderborn","Germany",48.9346322,9.5017575
+"40","","","","","","","","","SC Paderborn","Germany",NA,NA
+"1","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"2","Weston McKennie","USA","M","1.78","75","28-08-98","Little Elm","FC Dallas","FC Schalke 04","Germany",33.1626194,-96.9375051
+"3","Juan Miranda","ESP","D","1.85","78","19-01-00","Olivares","Barcelona B","FC Schalke 04","Germany",37.4167096,-6.1564286
+"4","Ozan Kabak","TUR","D","1.86","75","25-03-00","Ankara","Stuttgart","FC Schalke 04","Germany",39.9207774,32.854067
+"5","Matija Nastasic","SRB","D","1.87","79","28-03-93","Belgrade","Manchester C","FC Schalke 04","Germany",44.8178131,20.4568974
+"6","Omar Mascarell","ESP","M","1.81","71","02-02-93","Santa Cruz de Tenerife","Real Madrid","FC Schalke 04","Germany",28.469648,-16.2540884
+"7","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"8","Suat Serdar","GER","M","1.83","71","11-04-97","Bingen","Mainz","FC Schalke 04","Germany",49.9667,7.9
+"9","Benito Raman","BEL","F","1.72","67","07-11-94","Gent","Fortuna Düsseldorf","FC Schalke 04","Germany",51.0538286,3.7250121
+"10","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"11","Michael Gregoritsch","AUT","M","1.90","74","18-04-94","Graz","Augsburg","FC Schalke 04","Germany",47.0708678,15.4382786
+"12","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"13","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"14","Rabbi Matondo","WAL","F","1.75","66","09-09-00","Liverpool","Manchester C","FC Schalke 04","Germany",53.407154,-2.991665
+"15","Ahmed Kutucu","TUR","F","1.81","76","01-03-00","Gelsenkirchen","None","FC Schalke 04","Germany",51.5110321,7.0960124
+"16","Nassim Boujellab","MAR","M","1.81","68","20-06-99","Hohenlimburg","None","FC Schalke 04","Germany",51.34741385,7.56908479917061
+"17","Benjamin Stambouli","FRA","D","1.80","75","13-08-90","Marseille","Paris St-Germain","FC Schalke 04","Germany",43.2961743,5.3699525
+"18","Daniel Caligiuri","GER","M","1.82","79","15-01-88","Villingen-Schwenningen","Wolfsburg","FC Schalke 04","Germany",48.0632739,8.494588
+"19","Guido Burgstaller","AUT","F","1.87","76","29-04-89","Villach","Nürnberg","FC Schalke 04","Germany",46.6167284,13.8500268
+"20","Jonjoe Kenny","ENG","D","1.76","67","15-03-97","Kirkdale","Everton","FC Schalke 04","Germany",53.4325496,-2.9815399
+"21","Jean-Clair Todibo","FRA","D","1.90","81","30-12-99","Cayenne","Barcelona","FC Schalke 04","Germany",4.9371143,-52.3258307
+"22","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"23","Markus Schubert","GER","G","1.84","81","12-06-98","Freiberg","Dynamo Dresden","FC Schalke 04","Germany",50.9169415,13.3428889
+"24","Bastian Oczipka","GER","D","1.84","81","12-01-89","Bergisch Gladbach","Eintracht Frankfurt","FC Schalke 04","Germany",50.9929303,7.1277379
+"25","Amine Harit","MAR","M","1.79","66","18-06-97","Pontoise","Nantes","FC Schalke 04","Germany",49.0508845,2.1008067
+"26","Salif Sané","SEN","D","1.94","78","25-08-90","Lormont","Hannover 96","FC Schalke 04","Germany",44.8791708,-0.5216683
+"27","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"28","Alessandro Schöpf","AUT","M","1.71","61","07-02-94","Umhausen","Nürnberg","FC Schalke 04","Germany",47.1337768,10.9426824282112
+"29","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"30","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"31","Timo Becker","GER","D","1.90","81","25-03-97","Herten","RW Essen","FC Schalke 04","Germany",51.5942009,7.1368071
+"32","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"33","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"34","Michael Langer","AUT","G","1.94","92","06-01-85","Bregenz","IFK Norrköping","FC Schalke 04","Germany",47.5025779,9.7472924
+"35","Alexander Nübel","GER","G","1.93","84","30-09-96","Paderborn","Paderborn","FC Schalke 04","Germany",51.71895955,8.76486977817756
+"36","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"37","Levant Mercan","GER","M","1.76","69","10-12-00","Recklinghausen","RW Essen","FC Schalke 04","Germany",51.6143815,7.1978546
+"38","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"39","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"40","","","","","","","","","FC Schalke 04","Germany",NA,NA
+"1","Rafal Gikiewicz","POL","G","1.90","82","26-10-87","Olsztyn","Freiburg"," 1.FC Union 
+Berlin","Germany",53.7766839,20.476507
+"2","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"3","Neven Subotic","SRB","D","1.93","88","10-12-88","Banja Luka","St-Etienne"," 1.FC Union 
+Berlin","Germany",44.7741181,17.1961532
+"4","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"5","Marvin Friedrich","GER","D","1.90","74","13-12-95","Kassel","Augsburg"," 1.FC Union 
+Berlin","Germany",51.3154546,9.4924096
+"6","Julian Ryerson","NOR","M","1.83","82","17-11-97","Lyngdal","Viking"," 1.FC Union 
+Berlin","Germany",58.1516995,7.0523045432054
+"7","Akaki Gogia","GER","M","1.77","73","18-01-92","Rustavi","Dynamo Dresden"," 1.FC Union 
+Berlin","Germany",41.54309,45.0112804
+"8","Joshua Mees","GER","M","1.80","70","15-04-96","Lebach","1899 Hoffenheim"," 1.FC Union 
+Berlin","Germany",49.4132377,6.9091348
+"9","Sebastian Polter","GER","F","1.92","87","01-04-91","Wilhelmshaven","QPR"," 1.FC Union 
+Berlin","Germany",53.5278793,8.106301
+"10","Sebastian Andersson","SWE","F","1.90","85","15-07-91","Ängelholm","Kaiserslautern"," 1.FC Union 
+Berlin","Germany",56.2429224,12.8619375
+"11","Anthony Ujah","NGA","F","1.83","82","20-11-90","Tudun Wada","Mainz"," 1.FC Union 
+Berlin","Germany",11.084913,7.719092
+"12","Jakob Busk","DEN","G","1.89","78","12-09-93","Copenhagen","FC København"," 1.FC Union 
+Berlin","Germany",55.6867243,12.5700724
+"13","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"14","Ken Reichel","GER","D","1.84","84","19-12-86","Berlin","Eintracht Braunschweig"," 1.FC Union 
+Berlin","Germany",52.5170365,13.3888599
+"15","Marius Bülter","GER","F","1.88","85","29-03-93","Ibbenbüren","Magdeburg"," 1.FC Union 
+Berlin","Germany",52.2774772,7.7151417
+"16","Laurenz Dehl","GER","M","1.79","76","12-12-01","Berlin","None"," 1.FC Union 
+Berlin","Germany",52.5170365,13.3888599
+"17","Florian Flecker","AUT","M","1.73","68","29-10-95","Voitsberg","Hartberg"," 1.FC Union 
+Berlin","Germany",47.0614766,15.0623287237005
+"18","Yunus Malli","TUR","M","1.79","74","24-02-92","Kassel","Wolfsburg"," 1.FC Union 
+Berlin","Germany",51.3154546,9.4924096
+"19","Florian Hübner","GER","D","1.90","76","01-03-91","Wiesbaden","Hannover 96"," 1.FC Union 
+Berlin","Germany",50.0820384,8.2416556
+"20","Suleiman Abdullahi","NGA","F","1.85","86","10-12-96","Kaduna","Eintracht Braunschweig"," 1.FC Union 
+Berlin","Germany",10.3825318,7.8533226
+"21","Grischa Prömel","GER","M","1.82","75","09-01-95","Stuttgart","Karlsruhe"," 1.FC Union 
+Berlin","Germany",48.7784485,9.1800132
+"22","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"23","Felix Kroos","GER","M","1.84","74","12-03-91","Greifswald","Werder Bremen"," 1.FC Union 
+Berlin","Germany",54.095791,13.3815238
+"24","Manuel Schmiedebach","GER","M","1.70","70","05-12-88","Berlin","Hannover 96"," 1.FC Union 
+Berlin","Germany",52.5170365,13.3888599
+"25","Christopher Lenz","GER","D","1.80","75","22-09-94","Berlin","B Mönchengladbach II"," 1.FC Union 
+Berlin","Germany",52.5170365,13.3888599
+"26","Julius Kade","GER","M","1.67","48","20-05-99","Berlin","Hertha Berlin"," 1.FC Union 
+Berlin","Germany",52.5170365,13.3888599
+"27","Sheraldo Becker","NED","F","1.80","72","09-02-95","Amsterdam","ADO Den Haag"," 1.FC Union 
+Berlin","Germany",52.3745403,4.89797550561798
+"28","Christopher Trimmel","AUT","D","1.89","80","24-02-87","Oberpullendorf","Rapid Vienna"," 1.FC Union 
+Berlin","Germany",47.504516,16.4944302599851
+"29","Michael Parensen","GER","M","1.80","78","24-06-86","Cologne","Köln"," 1.FC Union 
+Berlin","Germany",50.938361,6.959974
+"30","Robert Andrich","GER","M","1.85","78","22-09-94","Potsdam","Heidenheim"," 1.FC Union 
+Berlin","Germany",52.4009309,13.0591397
+"31","Keven Schlotterbeck","GER","D","1.89","84","28-04-97","Weinstadt","Freiburg"," 1.FC Union 
+Berlin","Germany",48.8085568,9.3774813
+"32","Marcus Ingvartsen","DEN","F","1.86","82","04-01-96","Farum","KRC Genk"," 1.FC Union 
+Berlin","Germany",55.8101232,12.3702505
+"33","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"34","Christian Gentner","GER","M","1.89","80","14-08-85","Nürtingen","Stuttgart"," 1.FC Union 
+Berlin","Germany",48.6265854,9.3365463
+"35","Moritz Nicolas","GER","G","1.93","87","21-10-97","Gladbeck","B Mönchengladbach"," 1.FC Union 
+Berlin","Germany",51.5718665,6.9877343
+"36","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"37","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"38","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"39","","","","","","","",""," 1.FC Union 
+Berlin","Germany",NA,NA
+"40","Maurice Opfermann-Arcones","GER","M","1.72","68","16-06-00","Berlin","None"," 1.FC Union 
+Berlin","Germany",52.5170365,13.3888599
+"1","Jirí Pavlenka","CZE","G","1.96","81","14-04-92","Hlucín","Slavia Prague","Werder Bremen","Germany",49.8982209,18.1919194
+"2","","","","","","","","","Werder Bremen","Germany",NA,NA
+"3","Kevin Vogt","GER","D","1.94","80","23-09-91","Bochum","1899 Hoffenheim","Werder Bremen","Germany",51.4818111,7.2196635
+"4","Michael Lang","SUI","D","1.85","79","08-02-91","Egnach","B Mönchengladbach","Werder Bremen","Germany",47.5432155,9.3814541
+"5","Ludwig Augustinsson","SWE","D","1.81","75","21-04-94","Stockholm","FC København","Werder Bremen","Germany",59.3251172,18.0710935
+"6","Kevin Möhwald","GER","M","1.83","74","03-07-93","Erfurt","Nürnberg","Werder Bremen","Germany",50.9777974,11.0287364
+"7","Milot Rashica","KVX","M","1.78","70","28-06-96","Vushtrri","Vitesse","Werder Bremen","Germany",42.8215443,20.9658574
+"8","Yuya Osako","JPN","F","1.82","70","18-05-90","Kagoshima","Köln","Werder Bremen","Germany",31.521587,130.5474077
+"9","Davie Selke","GER","F","1.92","75","20-01-95","Schorndorf","Hertha Berlin","Werder Bremen","Germany",48.8055169,9.5272665
+"10","Leonardo Bittencourt","GER","M","1.71","60","19-12-93","Leipzig","1899 Hoffenheim","Werder Bremen","Germany",51.3406321,12.3747329
+"11","Niclas Füllkrug","GER","F","1.88","78","09-02-93","Hannover","Hannover 96","Werder Bremen","Germany",52.3744779,9.7385532
+"12","","","","","","","","","Werder Bremen","Germany",NA,NA
+"13","Miloš Veljkovic","SRB","D","1.73","69","26-09-95","Basel","Tottenham H","Werder Bremen","Germany",47.5581077,7.5878261
+"14","Claudio Pizarro","PER","F","1.84","79","03-10-78","Lima","Köln","Werder Bremen","Germany",-12.0621065,-77.0365256
+"15","Sebastian Langkamp","GER","D","1.90","85","15-01-88","Speyer","Hertha Berlin","Werder Bremen","Germany",49.3165553,8.433615
+"16","","","","","","","","","Werder Bremen","Germany",NA,NA
+"17","Nuri Sahin","TUR","M","1.80","73","05-09-88","Lüdenscheid","Borussia Dortmund","Werder Bremen","Germany",51.218116,7.6395513
+"18","Niklas Moisander","FIN","D","1.83","77","29-09-85","Turku","Sampdoria","Werder Bremen","Germany",60.4517531,22.2670522
+"19","Josh Sargent","USA","F","1.85","79","20-02-00","O'Fallon","St. Louis Scott Gallagher","Werder Bremen","Germany",38.7910374,-90.7039107
+"20","","","","","","","","","Werder Bremen","Germany",NA,NA
+"21","Ömer Toprak","TUR","D","1.86","81","21-07-89","Ravensburg","Borussia Dortmund","Werder Bremen","Germany",47.7811014,9.612468
+"22","Fin Bartels","GER","M","1.75","65","07-02-87","Kiel","St Pauli","Werder Bremen","Germany",54.3227085,10.135555
+"23","Theodor Gebre Selassie","CZE","D","1.82","70","24-12-86","Trebíc","Slovan Liberec","Werder Bremen","Germany",49.2151907,15.8816091
+"24","Johannes Eggestein","GER","F","1.83","74","08-05-98","Hannover","Havelse","Werder Bremen","Germany",52.3744779,9.7385532
+"25","","","","","","","","","Werder Bremen","Germany",NA,NA
+"26","Simon Straudi","ITA","M","1.76","73","27-01-99","Bruneck","Südtirol","Werder Bremen","Germany",46.7963194,11.9355121
+"27","Stefanos Kapino","GRE","G","1.96","85","18-03-94","Piraeus","Nottingham F","Werder Bremen","Germany",37.9431594,23.6470593
+"28","Ilia Gruev","BUL","M","1.85","72","06-05-00","Sofia","None","Werder Bremen","Germany",-15.2538402,48.2562163
+"29","Luc Ihorst","GER","F","1.90","81","07-03-00","Damme","None","Werder Bremen","Germany",51.2553021,3.2920911130762
+"30","Davy Klaassen","NED","M","1.85","76","21-02-93","Hilversum","Everton","Werder Bremen","Germany",52.23158695,5.17349360239234
+"31","David Philipp","GER","M","1.80","75","10-04-00","Hamburg","None","Werder Bremen","Germany",53.5437641,10.0099133
+"32","Marco Friedl","AUT","D","1.87","71","16-03-98","Kirchbichl","Bayern Munich","Werder Bremen","Germany",47.51380975,12.0911035201581
+"33","","","","","","","","","Werder Bremen","Germany",NA,NA
+"34","","","","","","","","","Werder Bremen","Germany",NA,NA
+"35","Maximilian Eggestein","GER","M","1.81","75","08-12-96","Hannover","Havelse","Werder Bremen","Germany",52.3744779,9.7385532
+"36","Christian Groß","GER","D","1.82","75","08-02-89","Bremen","Osnabrück","Werder Bremen","Germany",53.0758196,8.8071646
+"37","Niklas Wiemann","GER","D","1.90","84","23-02-99","Detmold","Schalke","Werder Bremen","Germany",51.936284,8.8791526
+"38","","","","","","","","","Werder Bremen","Germany",NA,NA
+"39","Benjamin Goller","GER","M","1.80","65","01-01-99","Reutlingen","Schalke","Werder Bremen","Germany",48.4919508,9.2114144
+"40","Luca Plogmann","GER","G","1.88","80","10-03-00","Bremen","None","Werder Bremen","Germany",53.0758196,8.8071646
+"41","Nick Woltemade","GER","F","1.98","75","14-02-02","Bremen","None","Werder Bremen","Germany",53.0758196,8.8071646
+"44","Philipp Bargfrede","GER","M","1.74","71","03-03-89","Zeven","None","Werder Bremen","Germany",53.299291,9.280382
+"1","Koen Casteels","BEL","G","1.96","83","25-06-92","Bonheiden","1899 Hoffenheim","VfL Wolfsburg","Germany",51.0253242,4.5483885
+"2","William","BRA","D","1.76","68","03-04-95","Pelotas","Internacional","VfL Wolfsburg","Germany",-31.7699736,-52.3410161
+"3","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"4","Ignacio Camacho","ESP","M","1.81","68","04-05-90","Zaragoza","Málaga","VfL Wolfsburg","Germany",41.6521342,-0.8809428
+"5","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"6","Paulo Otávio","BRA","D","1.73","68","23-11-94","Ourinhos","Ingolstadt","VfL Wolfsburg","Germany",-22.9777918,-49.868204
+"7","Josip Brekalo","CRO","M","1.80","72","23-06-98","Zagreb","Dinamo Zagreb","VfL Wolfsburg","Germany",45.813177,15.977048
+"8","Renato Steffen","SUI","M","1.70","65","03-11-91","Aarau","Basel","VfL Wolfsburg","Germany",47.3927146,8.0444448
+"9","Wout Weghorst","NED","F","1.97","82","07-08-92","Borne","AZ Alkmaar","VfL Wolfsburg","Germany",44.6152037,4.0152953
+"10","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"11","Felix Klaus","GER","M","1.79","72","13-09-92","Osnabrück","Hannover 96","VfL Wolfsburg","Germany",52.266837,8.049741
+"12","Pavao Pervan","AUT","G","1.94","92","13-11-87","Livno","LASK Linz","VfL Wolfsburg","Germany",43.8259136,17.0042416
+"13","Yannick Gerhardt","GER","D","1.84","79","13-03-94","Würselen","Köln","VfL Wolfsburg","Germany",50.8178682,6.1341108
+"14","Admir Mehmedi","SUI","M","1.83","77","16-03-91","Gostivar","Bayer Leverkusen","VfL Wolfsburg","Germany",41.7942579,20.9081193
+"15","Jérôme Roussillon","FRA","D","1.75","75","06-01-93","Sarcelles","Montpellier","VfL Wolfsburg","Germany",48.9960813,2.3796245
+"16","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"17","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"18","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"19","Kevin Mbabu","SUI","D","1.84","80","19-04-95","Chêne-Bougeries","Young Boys","VfL Wolfsburg","Germany",46.1963639,6.1854072
+"20","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"21","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"22","Marin Pongracic","CRO","D","1.89","85","11-09-97","Landshut","Red Bull Salzburg","VfL Wolfsburg","Germany",48.536217,12.1516551
+"23","Josuha Guilavogui","FRA","M","1.87","78","19-09-90","Ollioules","Wolfsburg","VfL Wolfsburg","Germany",43.1397205,5.8483538
+"24","Xaver Schlager","AUT","M","1.74","73","28-09-97","Linz","Red Bull Salzburg","VfL Wolfsburg","Germany",48.3059078,14.286198
+"25","John Brooks","USA","D","1.93","78","28-01-93","Berlin","Hertha Berlin","VfL Wolfsburg","Germany",52.5170365,13.3888599
+"26","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"27","Maximilian Arnold","GER","M","1.83","78","27-05-94","Riesa","Dynamo Dresden","VfL Wolfsburg","Germany",51.3038241,13.308828
+"28","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"29","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"30","Niklas Klinger","GER","G","1.86","80","13-10-95","Wolfsburg","None","VfL Wolfsburg","Germany",52.4205588,10.7861682
+"31","Robin Knoche","GER","D","1.72","67","22-05-92","Braunschweig","None","VfL Wolfsburg","Germany",52.2646577,10.5236066
+"32","Marcel Tisserand","COD","D","1.84","70","10-01-93","Meaux","Ingolstadt","VfL Wolfsburg","Germany",48.9582708,2.8773541
+"33","Daniel Ginczek","GER","F","1.90","78","13-04-91","Arnsberg","Stuttgart","VfL Wolfsburg","Germany",51.4002384,8.0605908
+"34","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"35","Lino Kasten","GER","G","1.88","90","17-01-01","Berlin","None","VfL Wolfsburg","Germany",52.5170365,13.3888599
+"36","Phillip Menzel","GER","G","1.91","83","18-08-98","Kiel","Holstein Kiel","VfL Wolfsburg","Germany",54.3227085,10.135555
+"37","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"38","Ismail Azzaoui","BEL","M","1.77","65","06-01-98","Brussels","Tottenham H","VfL Wolfsburg","Germany",50.8436709,4.36743669338796
+"39","","","","","","","","","VfL Wolfsburg","Germany",NA,NA
+"40","João Victor","BRA","M","1.78","68","27-03-94","São José dos Campos","LASK Linz","VfL Wolfsburg","Germany",-23.1805011,-45.8872969

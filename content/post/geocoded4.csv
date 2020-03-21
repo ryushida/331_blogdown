@@ -1,0 +1,915 @@
+"Number","Name","Nat","Pos","Height","Weight","Date.of.Birth","Birth.Place","Previous.Club","Team","League","lat","long"
+1,"Fernando Pacheco","ESP","G",1.87,81,"18-05-92","Badajoz","Real Madrid","Alavés","Spain",38.8780585,-6.9702048
+2,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+3,"Rubén Duarte","ESP","D",1.72,68,"18-10-95","Almería","Espanyol","Alavés","Spain",36.8414197,-2.4628135
+4,"Rodrigo Ely","BRA","D",1.88,82,"03-11-93","Lajeado","Milan","Alavés","Spain",-29.4671522,-51.9624046
+5,"Víctor Laguardia","ESP","D",1.85,75,"05-11-89","Zaragoza","Zaragoza","Alavés","Spain",41.6521342,-0.8809428
+6,"Lisandro Magallán","ARG","D",1.84,77,"27-09-93","La Plata","Ajax","Alavés","Spain",-34.9206797,-57.9537638
+7,"Lucas","ESP","F",1.8,82,"10-09-88","La Coruña","West Ham U","Alavés","Spain",43.3712091,-8.3958768
+8,"Tomás Pina","ESP","M",1.84,75,"14-10-87","Villarta de San Juan","Club Brugge","Alavés","Spain",39.2383954,-3.4235166
+9,"Joselu","ESP","F",1.91,79,"27-03-90","Stuttgart","Newcastle U","Alavés","Spain",48.7784485,9.1800132
+10,"Víctor Camarasa","ESP","M",1.83,76,"28-05-94","Meliana","Betis","Alavés","Spain",39.528475,-0.3488606
+11,"Luis Rioja","ESP","M",1.73,65,"16-10-93","Seville","Almería","Alavés","Spain",37.3886303,-5.9953403
+12,"Rafa Navarro","ESP","D",1.73,61,"23-02-94","Valencina de la Concepción","Betis","Alavés","Spain",37.4175713,-6.0738363
+13,"Roberto","ESP","G",1.92,93,"10-02-86","Fuenlabrada","West Ham U","Alavés","Spain",40.282476,-3.7923422
+14,"Burgui","ESP","F",1.84,71,"29-10-93","Burguillos del Cerro","Real Madrid B","Alavés","Spain",38.3798701,-6.5907481
+15,"Ljubomir Fejsa","SRB","M",1.85,78,"14-08-88","Belgrade","Benfica","Alavés","Spain",44.8178131,20.4568974
+16,"Edgar","ESP","M",1.85,80,"30-04-90","Arafo","Cruz Azul","Alavés","Spain",28.3404454,-16.4173287
+17,"Adrián Marín","ESP","D",1.81,73,"09-01-97","Torre-Pacheco","Villarreal","Alavés","Spain",37.743133,-0.9539015
+18,"Aleix Vidal","ESP","M",1.77,70,"21-08-89","Puigpelat","Sevilla","Alavés","Spain",41.2798081,1.2970011
+19,"Manu García","ESP","M",1.82,74,"26-04-86","Vitoria-Gasteiz","Logroñés","Alavés","Spain",42.8465088,-2.6724025
+20,"Pere Pons","ESP","M",1.77,70,"20-02-93","Sant Martí Vell","Girona","Alavés","Spain",42.0196093,2.9311901
+21,"Martín Aguirregabiria","ESP","D",1.78,69,"10-05-96","Vitoria-Gasteiz","Alavés B","Alavés","Spain",42.8465088,-2.6724025
+22,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+23,"Ximo","ESP","D",1.76,75,"23-01-90","Guadahortuna","Las Palmas","Alavés","Spain",37.5565391,-3.4008094
+24,"Oliver Burke","SCO","M",1.74,75,"07-04-97","Melton Mowbray","WBA","Alavés","Spain",52.7649964,-0.887587
+25,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+26,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+27,"Alberto Rodríguez","ESP","D",1.85,72,"10-09-97","Fuenlabrada","Atlético Madrid B","Alavés","Spain",40.282476,-3.7923422
+28,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+29,"Borja Sainz","ESP","M",1.78,75,"01-02-01","Leioa","Alavés B","Alavés","Spain",43.3271048,-2.9846079
+30,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+31,"Aritz Castro","ESP","G",1.79,85,"20-05-98","Vitoria-Gasteiz","Alavés B","Alavés","Spain",42.8465088,-2.6724025
+32,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+33,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+34,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+35,"Ismael Gutiérrez","ESP","M",1.77,71,"07-08-00","Los Palacios y Villafranca","Betis B","Alavés","Spain",37.1582119,-5.9244567
+36,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+37,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+38,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+39,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+40,"","","",NA,NA,"","","","Alavés","Spain",NA,NA
+1,"Unai Simón","ESP","G",1.9,86,"11-06-97","Vitoria-Gasteiz","Athletic Bilbao B","Athletic 
+Bilbao","Spain",42.8465088,-2.6724025
+2,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+3,"Unai Núñez","ESP","D",1.86,81,"30-01-97","Portugalete","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.3191292,-3.0199529
+4,"Íñigo Martínez","ESP","D",1.82,79,"17-05-91","Ondarroa","Real Sociedad","Athletic 
+Bilbao","Spain",43.3207293,-2.4207497
+5,"Yeray","ESP","D",1.83,78,"24-01-95","Barakaldo","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.29548,-2.9900933
+6,"Mikel San José","ESP","M",1.87,79,"30-05-89","Pamplona","Liverpool","Athletic 
+Bilbao","Spain",42.8184538,-1.6442556
+7,"Beñat","ESP","M",1.77,76,"19-02-87","Igorre","Betis","Athletic 
+Bilbao","Spain",43.1642445,-2.7783435
+8,"Unai López","ESP","M",1.69,64,"30-10-95","Errenteria","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.3125271,-1.8986133
+9,"Iñaki Williams","ESP","F",1.86,76,"15-06-94","Bilbao","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+10,"Iker Muniain","ESP","F",1.69,64,"19-12-92","Pamplona","Athletic Bilbao B","Athletic 
+Bilbao","Spain",42.8184538,-1.6442556
+11,"Íñigo Córdoba","ESP","F",1.8,74,"13-03-97","Bilbao","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+12,"Gaizka Larrazabal","ESP","F",1.8,81,"17-12-97","Bilbao","Zamudio","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+13,"Iago Herrerín","ESP","G",1.87,92,"25-01-88","Bilbao","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+14,"Dani García","ESP","M",1.8,75,"24-05-90","Zumarraga","Eibar","Athletic 
+Bilbao","Spain",43.0859968,-2.3140925
+15,"Íñigo Lekue","ESP","D",1.8,73,"04-05-93","Bilbao","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+16,"Mikel Vesga","ESP","M",1.91,84,"08-04-93","Vitoria-Gasteiz","Alavés B","Athletic 
+Bilbao","Spain",42.8465088,-2.6724025
+17,"Yuri Berchiche","ESP","D",1.8,78,"10-02-90","Zarautz","Paris St-Germain","Athletic 
+Bilbao","Spain",43.2834873,-2.1723467
+18,"Óscar de Marcos","ESP","D",1.82,78,"14-04-89","Laguardia","Alavés","Athletic 
+Bilbao","Spain",42.5535011,-2.5850848
+19,"Ibai Gómez","ESP","F",1.79,73,"11-11-89","Bilbao","Alavés","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+20,"Aritz Aduriz","ESP","F",1.82,78,"11-02-81","San Sebastián","Valencia","Athletic 
+Bilbao","Spain",43.3224219,-1.9838889
+21,"Ander Capa","ESP","D",1.73,70,"08-02-92","Portugalete","Eibar","Athletic 
+Bilbao","Spain",43.3191292,-3.0199529
+22,"Raúl García","ESP","M",1.84,84,"11-07-86","Pamplona","Atlético Madrid","Athletic 
+Bilbao","Spain",42.8184538,-1.6442556
+23,"Kenan Kodro","BIH","F",1.9,77,"19-08-93","San Sebastián","FC København","Athletic 
+Bilbao","Spain",43.3224219,-1.9838889
+24,"Mikel Balenziaga","ESP","D",1.77,75,"29-02-88","Zumárraga","Valladolid","Athletic 
+Bilbao","Spain",43.0859968,-2.3140925
+25,"Asier Villalibre","ESP","F",1.83,82,"30-09-97","Guernica","Basconia","Athletic 
+Bilbao","Spain",43.3143628,-2.6778511
+26,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+27,"Unai Vencedor","ESP","M",1.76,71,"15-11-00","Bilbao","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+28,"Jon Sillero","ESP","D",1.76,79,"24-05-98","Durango","Athletic Bilbao B","Athletic 
+Bilbao","Spain",24.833333,-104.833333
+29,"Daniel Vivian","ESP","D",1.83,83,"05-07-99","Vitoria-Gasteiz","Athletic Bilbao B","Athletic 
+Bilbao","Spain",42.8465088,-2.6724025
+30,"Gorka Guruzeta","ESP","F",1.88,73,"12-09-96","San Sebastián","Athletic Bilbao B","Athletic 
+Bilbao","Spain",43.3224219,-1.9838889
+31,"Jokin Ezkieta","ESP","G",1.94,78,"17-08-96","Pamplona","Barcelona B","Athletic 
+Bilbao","Spain",42.8184538,-1.6442556
+32,"Jesús Areso","ESP","D",1.82,81,"02-07-99","Cascante","Osasuna B","Athletic 
+Bilbao","Spain",41.9993288,-1.6786611
+33,"Jon Rojo","ESP","D",1.79,70,"22-12-96","Bilbao","Deusto","Athletic 
+Bilbao","Spain",43.2630051,-2.9349915
+34,"Oihan Sancet","ESP","M",1.88,74,"25-04-00","Iruñea","Athletic Bilbao B","Athletic 
+Bilbao","Spain",42.8184538,-1.6442556
+35,"Ander Iru","ESP","G",1.88,74,"22-08-98","Igorre","Basconia","Athletic 
+Bilbao","Spain",43.1642445,-2.7783435
+36,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+37,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+38,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+39,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+40,"","","",NA,NA,"","","","Athletic 
+Bilbao","Spain",NA,NA
+1,"Antonio Adán","ESP","G",1.91,88,"13-05-87","Madrid","Betis","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+2,"José Giménez","URU","D",1.85,77,"20-01-95","Toledo","Danubio","
+Atlético Madrid","Spain",39.8560679,-4.0239568
+3,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+4,"Santiago Arias","COL","D",1.7,67,"13-01-92","Medellín","PSV Eindhoven","
+Atlético Madrid","Spain",6.2443382,-75.573553
+5,"Thomas Partey","GHA","M",1.85,76,"13-06-93","Odumase Krobo","Atlético Madrid B","
+Atlético Madrid","Spain",6.1518553,0.0189577713143872
+6,"Koke","ESP","M",1.77,73,"08-01-92","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+7,"João Félix","POR","F",1.8,62,"10-11-99","Viseu","Benfica","
+Atlético Madrid","Spain",40.6574713,-7.9138664
+8,"Saúl Ñiguez","ESP","M",1.84,76,"21-11-94","Elche","Atlético Madrid B","
+Atlético Madrid","Spain",38.2653181,-0.6988488
+9,"Álvaro Morata","ESP","F",1.89,85,"23-10-92","Madrid","Chelsea","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+10,"Ángel Correa","ARG","F",1.72,67,"09-03-95","Rosario","San Lorenzo","
+Atlético Madrid","Spain",-32.9595004,-60.6615415
+11,"Thomas Lemar","FRA","M",1.7,58,"12-11-95","Baie-Mahault","Monaco","
+Atlético Madrid","Spain",16.2679458,-61.5870766
+12,"Renan Lodi","BRA","D",1.78,74,"08-04-98","Serrano","Athletico Paranaense","
+Atlético Madrid","Spain",40.4253869,-3.6869007
+13,"Jan Oblak","SVN","G",1.89,84,"07-01-93","Škofja Loka","Benfica","
+Atlético Madrid","Spain",46.165274,14.3067474
+14,"Marcos Llorente","ESP","M",1.84,73,"30-01-95","Madrid","Real Madrid","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+15,"Stefan Savic","MNE","D",1.87,80,"08-01-91","Mojkovac","Fiorentina","
+Atlético Madrid","Spain",42.9598028,19.5835552
+16,"Héctor Herrera","MEX","M",1.82,70,"19-04-90","Tijuana","FC Porto","
+Atlético Madrid","Spain",32.5010188,-116.9646629
+17,"Ivan Šaponjic","SRB","F",1.92,84,"02-08-97","Nova Varoš","Benfica","
+Atlético Madrid","Spain",43.4597045,19.8154494
+18,"Felipe","BRA","D",1.85,77,"16-05-89","Mogi das Cruzes","FC Porto","
+Atlético Madrid","Spain",-23.5234284,-46.1926671
+19,"Diego Costa","ESP","F",1.86,87,"07-10-88","Lagarto","Chelsea","
+Atlético Madrid","Spain",-10.9141791,-37.6715308
+20,"Vitolo","ESP","M",1.84,81,"02-11-89","Las Palmas","Sevilla","
+Atlético Madrid","Spain",28.128874,-15.4349448
+21,"Yannick Ferreira Carrasco","BEL","M",1.81,73,"04-09-93","Elsene","Dalian Professional","
+Atlético Madrid","Spain",50.8331141,4.3668279
+22,"Mario Hermoso","ESP","D",1.84,74,"18-06-95","Madrid","Espanyol","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+23,"Kieran Trippier","ENG","D",1.78,71,"19-09-90","Bury","Tottenham H","
+Atlético Madrid","Spain",49.3132772,2.3439338
+24,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+25,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+26,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+27,"Diego Conde","ESP","G",1.88,85,"20-10-98","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+28,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+29,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+30,"Andrés Solano","COL","D",1.76,72,"24-02-98","Santa Marta","Atlético Madrid B","
+Atlético Madrid","Spain",17.0920157,-88.6118965
+31,"","","",NA,NA,"","","","
+Atlético Madrid","Spain",NA,NA
+32,"Rodrigo Riquelme","ESP","M",1.74,69,"02-04-00","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+33,"Carlos Isaac","ESP","D",1.84,78,"30-04-98","Navalmoral de la Mata","Atlético Madrid B","
+Atlético Madrid","Spain",39.8928306,-5.5401199
+34,"Sergio Camello","ESP","F",1.77,69,"10-02-01","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+35,"Manu Sánchez","ESP","D",1.79,70,"24-08-00","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+36,"Mikel Carro","ESP","M",1.88,79,"25-01-99","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+37,"Alex Dos Santos","ESP","G",1.85,79,"15-01-99","Xinguara","Atlético Madrid B","
+Atlético Madrid","Spain",-7.0998514,-49.9416632
+38,"Toni Moya","ESP","M",1.8,75,"20-03-98","Mérida","Atlético Madrid B","
+Atlético Madrid","Spain",38.9174665,-6.3443977
+39,"Óscar Clemente","ESP","M",NA,NA,"26-03-99","Santa Cruz de Tenerife","Atlético Madrid B","
+Atlético Madrid","Spain",28.469648,-16.2540884
+40,"Darío Poveda","ESP","F",1.85,75,"13-03-97","San Vicente del Raspeig","Villarreal B","
+Atlético Madrid","Spain",38.3964248,-0.5250339
+41,"José Carlos Aliaga","ESP","D",NA,NA,"18-01-99","Sant Vicent del Raspeig","Atlético Madrid B","
+Atlético Madrid","Spain",38.3964248,-0.5250339
+42,"Ricard Sánchez","ESP","D",1.75,70,"22-02-00","Sant Jaume dels Domenys","Atlético Madrid B","
+Atlético Madrid","Spain",41.2988526,1.5601007
+43,"Adrián Ferreras","ESP","M",NA,NA,"10-04-00","Valladolid","Atlético Madrid B","
+Atlético Madrid","Spain",41.6521328,-4.728562
+44,"Alberto Salido","ESP","F",NA,NA,"19-01-00","Palma de Mallorca","Atlético Madrid B","
+Atlético Madrid","Spain",39.5695818,2.6500745
+45,"Fernando Medrano","ESP","D",NA,NA,"26-03-00","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+46,"Marco Moreno","ESP","D",NA,NA,"20-02-01","Las Palmas","Atlético Madrid B","
+Atlético Madrid","Spain",28.128874,-15.4349448
+47,"Óscar Castro","ESP","M",NA,NA,"20-06-01","Santa Cruz de Tenerife","Atlético Madrid B","
+Atlético Madrid","Spain",28.469648,-16.2540884
+48,"Germán Valera","ESP","F",1.7,68,"16-03-02","Murcia","Atlético Madrid B","
+Atlético Madrid","Spain",37.9923795,-1.1305431
+51,"José Saldaña","ESP","G",NA,NA,"09-05-01","Almería","Atlético Madrid B","
+Atlético Madrid","Spain",36.8414197,-2.4628135
+52,"Álex Fernández","ESP","G",NA,NA,"04-12-01","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+53,"Javier Hyjek","POL","M",NA,NA,"12-01-01","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+55,"Iker Recio","ESP","D",NA,NA,"17-06-01","Talavera de la Reina","Atlético Madrid B","
+Atlético Madrid","Spain",39.9603798,-4.8311717
+56,"Iván Montoro","ESP","M",NA,NA,"26-02-01","Alcorcón","Atlético Madrid B","
+Atlético Madrid","Spain",40.3492998,-3.8284295
+57,"Gonzalo Camello","ESP","D",NA,NA,"10-02-01","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+60,"Diego Lorenzo","ESP","F",NA,NA,"07-02-02","Madrid","Atlético Madrid B","
+Atlético Madrid","Spain",40.4167047,-3.7035825
+1,"Marc-André ter Stegen","GER","G",1.87,85,"30-04-92","Mönchengladbach","B Mönchengladbach","Barcelona","Spain",51.1946983,6.4353641
+2,"Nélson Semedo","POR","D",1.77,67,"16-11-93","Lisbon","Benfica","Barcelona","Spain",38.7077507,-9.1365919
+3,"Gerard Piqué","ESP","D",1.94,85,"02-02-87","Barcelona","Manchester U","Barcelona","Spain",41.3828939,2.1774322
+4,"Ivan Rakitic","CRO","M",1.84,78,"10-03-88","Rheinfelden","Sevilla","Barcelona","Spain",47.5543859,7.7922905
+5,"Sergio Busquets","ESP","M",1.89,76,"16-07-88","Sabadell","Barcelona B","Barcelona","Spain",41.5421013,2.1138977
+6,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+7,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+8,"Arthur","BRA","M",1.72,67,"12-08-96","Goiânia","Grêmio","Barcelona","Spain",-16.680882,-49.2532691
+9,"Luis Suárez","URU","F",1.82,86,"24-01-87","Salto","Liverpool","Barcelona","Spain",-23.1989983,-47.2913682
+10,"Lionel Messi","ARG","F",1.7,72,"24-06-87","Rosario","Barcelona B","Barcelona","Spain",-32.9595004,-60.6615415
+11,"Ousmane Dembélé","FRA","F",1.78,67,"15-05-97","Vernon","Borussia Dortmund","Barcelona","Spain",49.0917814,1.4886571
+12,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+13,"Neto","BRA","G",1.9,84,"19-07-89","Araxá","Valencia","Barcelona","Spain",-19.5928536,-46.940241
+14,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+15,"Clément Lenglet","FRA","D",1.86,81,"17-06-95","Beauvais","Sevilla","Barcelona","Spain",49.4300997,2.0823355
+16,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+17,"Antoine Griezmann","FRA","F",1.75,71,"21-03-91","Mâcon","Atlético Madrid","Barcelona","Spain",46.3036683,4.8322266
+18,"Jordi Alba","ESP","D",1.7,68,"21-03-89","L'Hospitalet de Llobregat","Valencia","Barcelona","Spain",41.3598601,2.0997927
+19,"Martin Braithwaite","DEN","F",1.79,77,"05-06-91","Esbjerg","Leganés","Barcelona","Spain",55.4664892,8.4520751
+20,"Sergi Roberto","ESP","D",1.78,68,"07-02-92","Reus","Barcelona B","Barcelona","Spain",41.1555564,1.1076133
+21,"Frenkie de Jong","NED","M",1.79,69,"12-05-97","Arkel","Ajax","Barcelona","Spain",51.8655522,4.99668427545102
+22,"Arturo Vidal","CHI","M",1.81,74,"22-05-87","Santiago","Bayern Munich","Barcelona","Spain",9.8694792,-83.7980749
+23,"Samuel Umtiti","FRA","D",1.82,75,"14-11-93","Yaoundé","Lyon","Barcelona","Spain",3.8689867,11.5213344
+24,"Júnior Firpo","ESP","D",1.84,75,"22-08-96","Santo Domingo","Betis","Barcelona","Spain",18.4801972,-69.942111
+25,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+26,"Iñaki Peña","ESP","G",1.84,78,"02-03-99","Alicante","Barcelona B","Barcelona","Spain",38.353738,-0.4901846
+27,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+28,"Riqui Puig","ESP","M",1.69,56,"13-08-99","Matadepera","Barcelona B","Barcelona","Spain",41.6012311,2.0275199
+29,"","","",NA,NA,"","","","Barcelona","Spain",NA,NA
+30,"Álex Collado","ESP","M",1.73,65,"22-04-99","Sabadell","Barcelona B","Barcelona","Spain",41.5421013,2.1138977
+31,"Ansu Fati","ESP","M",1.78,55,"31-10-02","Bissau","Barcelona B","Barcelona","Spain",11.861324,-15.583055
+32,"Guillem Jaime","ESP","M",1.77,70,"06-01-99","Torreforta","Barcelona B","Barcelona","Spain",41.119071,1.2155331
+33,"Ronald Araújo","URU","D",1.91,91,"07-03-99","Rivera","Boston River","Barcelona","Spain",-30.900058,-55.5408151
+34,"Ferran Sarsanedas","ESP","M",1.77,71,"11-02-97","Amer","Barcelona B","Barcelona","Spain",42.0092186,2.6030327
+35,"Dani Morer","ESP","D",1.69,65,"05-02-98","Mataró","Barcelona B","Barcelona","Spain",41.5398348,2.4448926
+36,"Arnau Tenas","ESP","G",1.85,75,"30-05-01","Vic","Barcelona B","Barcelona","Spain",-36.5986096,144.6780052
+37,"Hiroki Abe","JPN","F",1.71,65,"28-01-99","Tokyo","Kashima Antlers","Barcelona","Spain",35.6828387,139.7594549
+38,"Kike Saverio","ECU","F",1.78,69,"19-06-99","Genoa","Barcelona B","Barcelona","Spain",44.40726,8.9338624
+39,"Sergio Akieme","ESP","D",1.75,65,"16-12-97","Madrid","Rayo Vallecano","Barcelona","Spain",40.4167047,-3.7035825
+40,"Chumi","ESP","D",1.84,75,"02-03-99","Laracha","Barcelona B","Barcelona","Spain",43.403735,-6.0348949
+41,"Rey Manaj","ALB","F",1.82,76,"24-02-97","Lushnjë","Albacete","Barcelona","Spain",40.9422038,19.7059724
+1,"Joel Robles","ESP","G",1.95,90,"17-06-90","Leganés","Everton","Betis","Spain",40.3281942,-3.76527
+2,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+3,"Javi García","ESP","M",1.86,78,"08-02-87","Mula","Zenit St Petersburg","Betis","Spain",38.0418669,-1.4906872
+4,"Zouhair Feddal","MAR","D",1.91,78,"01-01-89","Tétouan","Alavés","Betis","Spain",35.570175,-5.3742776
+5,"Marc Bartra","ESP","D",1.84,75,"15-01-91","San Jaime dels Domenys","Borussia Dortmund","Betis","Spain",NA,NA
+6,"Alfonso Pedraza","ESP","M",1.82,75,"09-04-96","San Sebastián de los Ballesteros","Villarreal","Betis","Spain",37.6535266,-4.8240997
+7,"Juanmi","ESP","F",1.72,69,"20-05-93","Coín","Real Sociedad","Betis","Spain",36.6600506,-4.7565615
+8,"Nabil Fekir","FRA","M",1.73,72,"18-07-93","Lyon","Lyon","Betis","Spain",45.7578137,4.8320114
+9,"Borja Iglesias","ESP","F",1.87,79,"17-01-93","Santiago de Compostela","Celta Vigo","Betis","Spain",42.8804219,-8.5458608
+10,"Sergio Canales","ESP","M",1.8,74,"16-02-91","Santander","Real Sociedad","Betis","Spain",43.4620412,-3.8099719
+11,"Cristian Tello","ESP","M",1.78,65,"11-08-91","Sabadell","Barcelona","Betis","Spain",41.5421013,2.1138977
+12,"Sidnei","BRA","D",1.85,84,"23-08-89","Alegrete","Deportivo La Coruña","Betis","Spain",-29.790166,-55.794862
+13,"Dani Martín","ESP","G",1.86,76,"08-07-98","Gijón","Sporting Gijón","Betis","Spain",43.5450394,-5.6626443
+14,"William Carvalho","POR","M",1.87,79,"07-04-92","Luanda","Sporting CP","Betis","Spain",-8.8272699,13.2439512
+15,"Álex Moreno","ESP","D",1.79,68,"06-08-93","Sant Sadurní d'Anoia","Rayo Vallecano","Betis","Spain",41.4261458,1.7849898
+16,"Loren Morón","ESP","F",1.8,66,"30-12-93","Marbella","Marbella","Betis","Spain",36.508976,-4.88562
+17,"Joaquín","ESP","M",1.79,75,"21-07-81","El Puerto de Santa Maria","Fiorentina","Betis","Spain",36.601468,-6.2381494
+18,"Andrés Guardado","MEX","M",1.69,60,"28-09-86","Guadalajara","PSV Eindhoven","Betis","Spain",20.6720375,-103.3383962
+19,"Antonio Barragán","ESP","D",1.87,83,"12-06-87","Pontedeume","Middlesbrough","Betis","Spain",43.4072585,-8.1718823
+20,"Diego Lainez","MEX","M",1.67,58,"09-06-00","Villahermosa","América","Betis","Spain",18.0018152,-92.9330401483751
+21,"Guido Rodríguez","ARG","M",1.85,78,"12-04-94","Sáenz Peña","América","Betis","Spain",-34.6094188,-58.3866019
+22,"Emerson","BRA","D",1.83,70,"14-01-99","São Paulo","Atlético Mineiro","Betis","Spain",-23.5506507,-46.6333824
+23,"Aïssa Mandi","ALG","D",1.84,78,"22-10-91","Châlons-en-Champagne","Reims","Betis","Spain",48.9566218,4.3628851
+24,"Carles Aleñà","ESP","M",1.8,70,"05-01-98","Mataró","Barcelona","Betis","Spain",41.5398348,2.4448926
+25,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+26,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+27,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+28,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+29,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+30,"Dani Rebollo","ESP","G",NA,NA,"10-12-99","Lepe","Betis B","Betis","Spain",37.2551712,-7.201556
+31,"Carlos Marín","ESP","G",1.87,79,"20-02-97","Almería","Atlético Madrid B","Betis","Spain",36.8414197,-2.4628135
+32,"Edgar","ESP","D",1.93,85,"01-04-97","Sant Joan Despí","Espanyol B","Betis","Spain",41.3667951,2.0570346
+33,"Roberto González","ESP","F",NA,NA,"08-01-01","Mérida","Betis B","Betis","Spain",38.9174665,-6.3443977
+34,"Álex Meléndez","ESP","M",1.78,66,"13-05-99","Seville","Betis B","Betis","Spain",37.3886303,-5.9953403
+35,"Raúl","ESP","F",NA,NA,"30-11-00","Olesa de Montserrat","Betis B","Betis","Spain",41.543053,1.8931874
+36,"José Calderón","ESP","D",NA,NA,"07-01-00","Paradas","Betis B","Betis","Spain",37.2894922,-5.496965
+37,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+38,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+39,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+40,"","","",NA,NA,"","","","Betis","Spain",NA,NA
+1,"Sergio Álvarez","ESP","G",1.79,75,"03-08-86","Catoria","Celta B","Celta Vigo","Spain",NA,NA
+2,"Hugo Mallo","ESP","D",1.81,78,"22-06-91","Marín","Celta B","Celta Vigo","Spain",38.0409144,-122.6199638
+3,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+4,"Néstor Araujo","MEX","D",1.88,85,"29-08-91","Guadalajara","Santos Laguna","Celta Vigo","Spain",20.6720375,-103.3383962
+5,"Okay Yokuslu","TUR","M",1.88,79,"09-03-94","Izmir","Trabzonspor","Celta Vigo","Spain",38.4147331,27.1434119
+6,"Denis Suárez","ESP","M",1.76,69,"06-01-94","Salceda de Caselas","Barcelona","Celta Vigo","Spain",42.1021279,-8.5579472
+7,"Juan Hernández","ESP","F",1.77,71,"06-12-94","Lorca","Getafe B","Celta Vigo","Spain",37.6715679,-1.6988053
+8,"Fran Beltrán","ESP","M",1.7,64,"03-02-99","Madrid","Rayo Vallecano","Celta Vigo","Spain",40.4167047,-3.7035825
+9,"Fedor Smolov","RUS","F",1.87,80,"09-02-90","Saratov","Lokomotiv Moscow","Celta Vigo","Spain",51.530018,46.034683
+10,"Iago Aspas","ESP","F",1.76,67,"11-08-87","Moaña","Sevilla","Celta Vigo","Spain",42.2816553,-8.7356868
+11,"Pione Sisto","DEN","M",1.71,65,"04-02-95","Kampala","FC Midtjylland","Celta Vigo","Spain",0.3177137,32.5813539
+12,"Rafinha","BRA","M",1.74,71,"12-02-93","São Paulo","Barcelona","Celta Vigo","Spain",-23.5506507,-46.6333824
+13,"Rubén Blanco","ESP","G",1.88,70,"25-07-95","Vigo","Celta B","Celta Vigo","Spain",42.2376602,-8.7247205
+14,"Filip Bradaric","CRO","M",1.85,77,"11-01-92","Split","Cagliari","Celta Vigo","Spain",43.5116383,16.4399659
+15,"Lucas Olaza","URU","D",1.77,75,"21-07-94","Montevideo","Boca Juniors","Celta Vigo","Spain",-34.9059039,-56.1913569
+16,"Jorge","ESP","D",1.92,75,"17-11-96","Santa Cruz de Tenerife","Valencia","Celta Vigo","Spain",28.469648,-16.2540884
+17,"David Juncà","ESP","D",1.75,67,"16-11-93","Riumors","Eibar","Celta Vigo","Spain",42.2269331,3.0420591
+18,"Joseph Aidoo","GHA","D",1.8,80,"29-09-95","Tema","KRC Genk","Celta Vigo","Spain",5.69869215,0.040351070313932
+19,"Gabriel Fernández","URU","F",1.86,80,"13-05-94","Montevideo","Peñarol","Celta Vigo","Spain",-34.9059039,-56.1913569
+20,"Kevin Vázquez","ESP","D",1.73,72,"23-03-93","Nigrán","Celta B","Celta Vigo","Spain",42.1429822,-8.7879318
+21,"Jeison Murillo","COL","D",1.82,78,"27-05-92","Cali","Sampdoria","Celta Vigo","Spain",3.4517923,-76.5324943
+22,"Santi Mina","ESP","F",1.81,77,"07-12-95","Vigo","Valencia","Celta Vigo","Spain",42.2376602,-8.7247205
+23,"Brais Méndez","ESP","F",1.87,78,"07-01-97","Mos","Celta B","Celta Vigo","Spain",42.1893442,-8.6436949
+24,"Pape Cheikh","ESP","M",1.8,68,"08-08-97","Dakar","Lyon","Celta Vigo","Spain",14.693425,-17.447938
+25,"Iván Villar","ESP","G",1.83,76,"09-07-97","Aldán","Celta B","Celta Vigo","Spain",58.608414,125.388222
+26,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+27,"Fran Vieites","ESP","G",NA,NA,"07-05-99","Pontecesures","Celta B","Celta Vigo","Spain",42.7207856,-8.652991
+28,"Sergio Bermejo","ESP","M",1.7,61,"17-08-97","Madrid","Navalcarnero","Celta Vigo","Spain",40.4167047,-3.7035825
+29,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+30,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+31,"José Fontán","ESP","D",NA,NA,"11-02-00","Vilagarcía de Arousa","Celta B","Celta Vigo","Spain",42.5947625,-8.7669178
+32,"Sergio Carreira","ESP","D",1.7,65,"13-10-00","Vigo","Celta B","Celta Vigo","Spain",42.2376602,-8.7247205
+33,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+34,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+35,"Iago Domínguez","ESP","G",NA,NA,"22-11-01","","Celta B","Celta Vigo","Spain",NA,NA
+36,"Iker Losada","ESP","M",1.75,70,"01-08-01","Catoira","Celta B","Celta Vigo","Spain",42.6583215,-8.70344895039402
+37,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+38,"Brais Rodríguez","ESP","G",NA,NA,"09-04-03","","Celta B","Celta Vigo","Spain",NA,NA
+39,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+40,"","","",NA,NA,"","","","Celta Vigo","Spain",NA,NA
+1,"Marko Dmitrovic","SRB","G",1.94,94,"24-01-92","Subotica","Alcorcón"," Eibar","Spain",46.1000129,19.6640974
+2,"Esteban Burgos","ARG","D",1.88,84,"09-01-92","Salta","Alcorcón"," Eibar","Spain",-25.1076701,-64.3494964
+3,"Pedro Bigas","ESP","D",1.81,83,"15-05-90","Palma de Mallorca","Las Palmas"," Eibar","Spain",39.5695818,2.6500745
+4,"Iván Ramis","ESP","D",1.88,82,"25-10-84","Sa Pobla","Levante"," Eibar","Spain",39.7699388,3.0250102
+5,"Gonzalo Escalante","ARG","M",1.82,76,"27-03-93","Bella Vista","Catania"," Eibar","Spain",36.45765895,-94.2737211478164
+6,"Sergio Álvarez","ESP","M",1.8,65,"23-01-92","Avilés","Sporting Gijón"," Eibar","Spain",43.5554436,-5.9222466
+7,"Quique","ESP","F",1.75,67,"16-05-90","Valladolid","Deportivo La Coruña"," Eibar","Spain",41.6521328,-4.728562
+8,"Papakouli Diop","SEN","M",1.79,77,"19-03-86","Kaolack","Espanyol"," Eibar","Spain",13.9631756,-15.7888834
+9,"Sergi Enrich","ESP","F",1.81,77,"26-02-90","Ciutadella de Menorca","Numancia"," Eibar","Spain",40.0006767,3.8355966
+10,"Edu Expósito","ESP","M",1.79,68,"01-08-96","Barcelona","Deportivo La Coruña"," Eibar","Spain",41.3828939,2.1774322
+11,"Rafa Soares","POR","D",1.82,75,"09-05-95","Marco de Canaveses","Vitória Guimarães"," Eibar","Spain",41.1616546,-8.12779201865893
+12,"Paulo Oliveira","POR","D",1.87,78,"08-01-92","Vila Nova de Famalicão","Sporting CP"," Eibar","Spain",41.4065175,-8.5187481
+13,"Yoel","ESP","G",1.86,78,"28-08-88","Vigo","Valencia"," Eibar","Spain",42.2376602,-8.7247205
+14,"Fabián Orellana","CHI","M",1.69,68,"27-01-86","Santiago","Valencia"," Eibar","Spain",9.8694792,-83.7980749
+15,"José Ángel","ESP","D",1.82,77,"05-09-89","Gijón","FC Porto"," Eibar","Spain",43.5450394,-5.6626443
+16,"Pablo De Blasis","ARG","M",1.64,65,"04-02-88","La Plata","Mainz"," Eibar","Spain",-34.9206797,-57.9537638
+17,"Kike","ESP","F",1.86,79,"25-11-89","Motilla del Palancar","Middlesbrough"," Eibar","Spain",39.5629676,-1.9119709
+18,"Sebastián Cristóforo","URU","M",1.74,65,"23-08-93","Montevideo","Fiorentina"," Eibar","Spain",-34.9059039,-56.1913569
+19,"Charles","BRA","F",1.79,76,"04-04-84","Belem","Málaga"," Eibar","Spain",31.7043556,35.2061876
+20,"Rober","ESP","D",1.8,76,"20-09-92","Badajoz","Cádiz"," Eibar","Spain",38.8780585,-6.9702048
+21,"Pedro León","ESP","M",1.83,70,"24-11-86","Mula","Getafe"," Eibar","Spain",38.0418669,-1.4906872
+22,"Takashi Inui","JPN","M",1.69,59,"02-06-88","Omihachiman","Betis"," Eibar","Spain",35.1527915,136.0687365
+23,"Anaitz Arbilla","ESP","D",1.78,76,"15-05-87","Pamplona","Espanyol"," Eibar","Spain",42.8184538,-1.6442556
+24,"Álvaro Tejero","ESP","D",1.72,65,"20-07-96","Madrid","Real Madrid B"," Eibar","Spain",40.4167047,-3.7035825
+25,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+26,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+27,"Miguel Marí","ESP","M",1.85,78,"30-06-97","Alicante","Valladolid B"," Eibar","Spain",38.353738,-0.4901846
+28,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+29,"Ekhi Bravo","ESP","F",NA,NA,"30-11-97","San Sebastián","Vitoria"," Eibar","Spain",43.3224219,-1.9838889
+30,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+31,"Sergio Cubero","ESP","D",1.87,71,"05-09-99","Mungía","Vitoria"," Eibar","Spain",43.3540663,-2.8464157
+32,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+33,"Miguel Ángel Atienza","ESP","M",1.86,77,"27-05-99","Madrid","Vitoria"," Eibar","Spain",40.4167047,-3.7035825
+34,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+35,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+36,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+37,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+38,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+39,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+40,"","","",NA,NA,"","",""," Eibar","Spain",NA,NA
+1,"Andrés Prieto","ESP","G",1.94,92,"17-10-93","Alicante","Leganés","Espanyol","Spain",38.353738,-0.4901846
+2,"Pipa","ESP","D",1.75,68,"26-01-98","Esparraguera","Espanyol B","Espanyol","Spain",41.8079748,-4.0002615
+3,"Adrià Pedrosa","ESP","D",1.76,69,"13-05-98","Barcelona","Espanyol B","Espanyol","Spain",41.3828939,2.1774322
+4,"Víctor Sánchez","ESP","M",1.74,72,"08-09-87","Rubí","Neuchâtel Xamax","Espanyol","Spain",41.4936194,2.0319476
+5,"Naldo","BRA","D",1.88,80,"25-08-88","Santo André","FC Krasnodar","Espanyol","Spain",-23.6573395,-46.5322504
+6,"","","",NA,NA,"","","","Espanyol","Spain",NA,NA
+7,"Wu Lei","CHN","M",1.72,61,"19-11-91","Nanjing","Shanghai SIPG","Espanyol","Spain",32.0609736,118.7916458
+8,"Ander Iturraspe","ESP","M",1.87,77,"08-03-89","Abadiño","Athletic Bilbao","Espanyol","Spain",43.1526506,-2.6079995
+9,"Facundo Ferreyra","ARG","F",1.86,83,"14-03-91","Lomas de Zamora","Benfica","Espanyol","Spain",-34.7575788,-58.4027966
+10,"Sergi Darder","ESP","M",1.8,71,"22-12-93","Artà","Lyon","Espanyol","Spain",39.6950088,3.3506343
+11,"Raúl de Tomás","ESP","F",1.78,68,"17-10-94","Madrid","Benfica","Espanyol","Spain",40.4167047,-3.7035825
+12,"Jonathan Calleri","ARG","F",1.81,77,"23-09-93","Capital Federal","Deportivo Maldonado","Espanyol","Spain",-34.6075682,-58.4370894
+13,"Diego López","ESP","G",1.96,89,"03-11-81","Paradela","Milan","Espanyol","Spain",42.764594,-7.567601
+14,"Óscar Melendo","ESP","M",1.67,63,"23-08-97","Barcelona","Espanyol B","Espanyol","Spain",41.3828939,2.1774322
+15,"David López","ESP","M",1.83,81,"09-10-89","Barcelona","Napoli","Espanyol","Spain",41.3828939,2.1774322
+16,"Javi López","ESP","D",1.8,76,"21-01-86","Osuna","Betis B","Espanyol","Spain",37.2373532,-5.1033306
+17,"Dídac","ESP","D",1.85,74,"09-06-89","Mataró","AEK","Espanyol","Spain",41.5398348,2.4448926
+18,"Leandro Cabrera","URU","D",1.87,81,"17-06-91","Montevideo","Getafe","Espanyol","Spain",-34.9059039,-56.1913569
+19,"","","",NA,NA,"","","","Espanyol","Spain",NA,NA
+20,"Bernardo Espinosa","COL","D",1.92,84,"11-07-89","Cali","Girona","Espanyol","Spain",3.4517923,-76.5324943
+21,"Marc Roca","ESP","D",1.84,74,"26-11-96","La Granada","Espanyol B","Espanyol","Spain",37.183054,-3.6021928
+22,"Matías Vargas","ARG","M",1.68,66,"08-05-97","Salta","Vélez Sarsfield","Espanyol","Spain",-25.1076701,-64.3494964
+23,"Adri Embarba","ESP","F",1.73,66,"07-05-92","Madrid","Rayo Vallecano","Espanyol","Spain",40.4167047,-3.7035825
+24,"Fernando Calero","ESP","D",1.83,69,"27-06-95","Boecillo","Valladolid","Espanyol","Spain",41.5406814,-4.6993793
+25,"Oier Olazábal","ESP","G",1.89,82,"14-09-89","Irún","Levante","Espanyol","Spain",43.3383176,-1.7888095
+26,"Pol Lozano","ESP","M",1.76,68,"06-10-99","Sant Quirze del Vallès","Espanyol B","Espanyol","Spain",41.530143,2.0820052
+27,"Adrián López","ESP","G",1.85,73,"09-01-99","Barcelona","Espanyol B","Espanyol","Spain",41.3828939,2.1774322
+28,"Carles Soria","ESP","D",1.69,72,"08-10-96","Calaf","AEK Larnaca","Espanyol","Spain",41.7323852,1.5150275
+29,"Moha Ezzarfani","MAR","M",1.76,72,"15-11-97","Nador","Barcelona B","Espanyol","Spain",35.05191845,-2.82439937705742
+30,"","","",NA,NA,"","","","Espanyol","Spain",NA,NA
+31,"Víctor Campuzano","ESP","F",1.74,72,"31-05-97","Barcelona","Real Madrid B","Espanyol","Spain",41.3828939,2.1774322
+32,"Iago Indias","ESP","D",1.8,72,"03-01-96","Vigo","Espanyol B","Espanyol","Spain",42.2376602,-8.7247205
+33,"Nico","ESP","M",NA,NA,"11-04-01","Castelldefels","Espanyol B","Espanyol","Spain",41.2861022,1.9824173
+34,"Víctor Gómez","ESP","D",1.66,69,"01-04-00","Olesa de Montserrat","Espanyol B","Espanyol","Spain",41.543053,1.8931874
+35,"Joan García","ESP","G",NA,NA,"04-05-01","Sallent de Llobregat","Espanyol B","Espanyol","Spain",41.8165676,1.8923865
+36,"Kévin Soni","CMR","M",1.83,76,"17-04-98","Douala","Girona","Espanyol","Spain",4.0429408,9.706203
+37,"Ricard Pujol","ESP","D",NA,NA,"04-03-98","Castellví de Rosanes","Cornellà","Espanyol","Spain",41.450038,1.8994527
+38,"","","",NA,NA,"","","","Espanyol","Spain",NA,NA
+39,"","","",NA,NA,"","","","Espanyol","Spain",NA,NA
+40,"","","",NA,NA,"","","","Espanyol","Spain",NA,NA
+1,"Leandro Chichizola","ARG","G",1.86,82,"27-03-90","San Justo","Las Palmas","Getafe","Spain",42.1343272,-6.6253752
+2,"Dakonam Djené","TOG","D",1.87,72,"31-12-91","Dapaong","Sint-Truiden","Getafe","Spain",10.8595454,0.2043122
+3,"Vitorino Antunes","POR","D",1.76,70,"01-04-87","Freamunde","Dynamo Kyiv","Getafe","Spain",41.2885918,-8.3401591
+4,"Erick Cabaco","URU","D",1.86,75,"19-04-95","Montevideo","Levante","Getafe","Spain",-34.9059039,-56.1913569
+5,"Oghenekaro Etebo","NGA","M",1.76,70,"09-11-95","Lagos","Stoke C","Getafe","Spain",6.4550575,3.3941795
+6,"Chema Rodríguez","ESP","D",1.89,80,"03-03-92","Caudete","Nottingham F","Getafe","Spain",38.706703,-0.9867978
+7,"Jaime Mata","ESP","F",1.85,75,"24-10-88","Madrid","Valladolid","Getafe","Spain",40.4167047,-3.7035825
+8,"Francisco Portillo","ESP","M",1.69,60,"13-06-90","Málaga","Betis","Getafe","Spain",36.7213028,-4.4216366
+9,"Ángel","ESP","F",1.72,68,"26-04-87","Santa Cruz de Tenerife","Zaragoza","Getafe","Spain",28.469648,-16.2540884
+10,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+11,"Amath Ndiaye","SEN","F",1.73,70,"16-07-96","Dakar","Atlético Madrid B","Getafe","Spain",14.693425,-17.447938
+12,"Allan-Roméo Nyom","CMR","D",1.88,80,"10-05-88","Neuilly-sur-Seine","WBA","Getafe","Spain",48.884683,2.2695658
+13,"David Soria","ESP","G",1.92,85,"04-04-93","Madrid","Sevilla","Getafe","Spain",40.4167047,-3.7035825
+14,"Deyverson","BRA","F",1.89,82,"08-05-91","Santa Margarida","Palmeiras","Getafe","Spain",-20.3817696,-42.2522123
+15,"Marc Cucurella","ESP","D",1.75,69,"22-07-98","Alella","Barcelona B","Getafe","Spain",41.4952867,2.2942758
+16,"Xabier Etxeita","ESP","D",1.86,78,"31-10-87","Amorebieta-Etxano","Athletic Bilbao","Getafe","Spain",43.2201761,-2.7323154
+17,"Mathías Olivera","URU","D",1.84,78,"31-10-97","Montevideo","Nacional [URU]","Getafe","Spain",-34.9059039,-56.1913569
+18,"Mauro Arambarri","URU","M",1.75,74,"30-09-95","Salto","Boston River","Getafe","Spain",-23.1989983,-47.2913682
+19,"Jorge Molina","ESP","F",1.88,72,"22-04-82","Alcoy","Betis","Getafe","Spain",38.6982275,-0.4747767
+20,"Nemanja Maksimovic","SRB","M",1.84,75,"26-01-95","Banja Koviljaca","Valencia","Getafe","Spain",44.5144274,19.1583075
+21,"Fayçal Fajr","MAR","M",1.78,72,"01-08-88","Rouen","Caen","Getafe","Spain",49.4404591,1.0939658
+22,"Damián Suárez","URU","D",1.72,61,"27-04-88","Montevideo","Elche","Getafe","Spain",-34.9059039,-56.1913569
+23,"Jason","ESP","M",1.78,65,"06-07-94","La Coruña","Valencia","Getafe","Spain",43.3712091,-8.3958768
+24,"David Tímor","ESP","M",1.85,77,"17-10-89","Carcaixent","Las Palmas","Getafe","Spain",39.1218973,-0.4467128
+25,"Kenedy","BRA","M",1.82,77,"08-02-96","Santa Rita do Sapucaí","Chelsea","Getafe","Spain",-22.2486968,-45.7064507
+26,"Hugo Duro","ESP","F",1.77,70,"10-11-99","Getafe","Getafe B","Getafe","Spain",40.3081807,-3.7302679
+27,"Josete Miranda","EQG","F",1.7,64,"22-07-98","Getafe","Getafe B","Getafe","Spain",40.3081807,-3.7302679
+28,"Florent Poulolo","FRA","D",1.89,80,"02-01-97","","Alès","Getafe","Spain",NA,NA
+29,"Miguel Acosta","ESP","D",NA,NA,"16-03-98","Madrid","Getafe B","Getafe","Spain",40.4167047,-3.7035825
+30,"Jean Paul García","COL","G",NA,NA,"24-05-02","Cali","Getafe B","Getafe","Spain",3.4517923,-76.5324943
+31,"David Alba","ESP","D",1.8,77,"05-05-99","Seseña","Getafe B","Getafe","Spain",40.1048269,-3.6963093
+32,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+33,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+34,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+35,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+36,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+37,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+38,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+39,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+40,"","","",NA,NA,"","","","Getafe","Spain",NA,NA
+1,"Rui Silva","POR","G",1.89,85,"07-02-94","Águas Santas","Nacional [POR]","Granada","Spain",41.61221765,-8.31904048933344
+2,"Dimitri Foulquier","FRA","D",1.83,77,"23-03-93","Sarcelles","Watford","Granada","Spain",48.9960813,2.3796245
+3,"Álex Martínez","ESP","D",1.76,64,"12-08-90","Seville","Betis","Granada","Spain",37.3886303,-5.9953403
+4,"Maxime Gonalons","FRA","M",1.87,76,"10-03-89","Vénissieux","Roma","Granada","Spain",45.6977109,4.8855966
+5,"José Antonio Martínez","ESP","D",1.88,80,"12-02-93","La Palma del Condado","Eibar","Granada","Spain",37.3841757,-6.5517596
+6,"Germán Sánchez","ESP","D",1.88,82,"31-10-86","San Fernando","Tenerife","Granada","Spain",36.4643934,-6.198203
+7,"Álvaro Vadillo","ESP","M",1.8,69,"12-09-94","Puerto Real","Huesca","Granada","Spain",36.5286856,-6.1902161
+8,"Yan Brice","CMR","M",1.76,70,"26-08-97","Yaoundé","Sevilla","Granada","Spain",3.8689867,11.5213344
+9,"Roberto Soldado","ESP","F",1.79,81,"27-05-85","Valencia","Fenerbahçe","Granada","Spain",39.4699014,-0.3759513
+10,"Antonio Puertas","ESP","M",1.75,72,"21-02-92","Benahadux","Almería","Granada","Spain",36.9251533,-2.460209
+11,"Ismail Köybasi","TUR","D",1.77,65,"10-07-89","Iskenderun","Fenerbahçe","Granada","Spain",36.6215136,36.2654181002781
+12,"Ramon Azeez","NGA","M",1.7,70,"12-12-92","Abuja","Lugo","Granada","Spain",9.0643305,7.4892974
+13,"Aarón Escandell","ESP","G",1.88,72,"27-09-95","Carcaixent","Málaga B","Granada","Spain",39.1218973,-0.4467128
+14,"Fede Vico","ESP","M",1.8,70,"04-07-94","Córdoba","Leganés","Granada","Spain",37.8845813,-4.7760138
+15,"Carlos Neva","ESP","D",1.74,64,"12-06-96","El Puerto de Santa María","Marbella","Granada","Spain",36.601468,-6.2381494
+16,"Víctor Díaz","ESP","D",1.83,69,"12-06-88","Huelva","Leganés","Granada","Spain",37.2575874,-6.9484945
+17,"Gil Dias","POR","F",1.83,78,"28-09-96","Gafanha da Nazaré","Monaco","Granada","Spain",40.6376106,-8.7136614
+18,"Antoñín","ESP","F",1.82,71,"16-04-00","Málaga","Málaga","Granada","Spain",36.7213028,-4.4216366
+19,"Ángel Montoro","ESP","M",1.8,70,"25-06-88","Valencia","Las Palmas","Granada","Spain",39.4699014,-0.3759513
+20,"Jesús Vallejo","ESP","D",1.84,79,"05-01-97","Zaragoza","Real Madrid","Granada","Spain",41.6521342,-0.8809428
+21,"Yangel Herrera","VEN","M",1.84,75,"07-01-98","La Guaira","Manchester C","Granada","Spain",10.6000384,-66.9296405
+22,"Domingos Duarte","POR","D",1.92,78,"10-03-95","Cascais","Sporting CP","Granada","Spain",38.72240025,-9.39690917164988
+23,"Darwin Machís","VEN","F",1.7,58,"07-02-93","Tucupita","Udinese","Granada","Spain",9.0600851,-62.0479721
+24,"Carlos Fernández","ESP","F",1.86,72,"22-05-96","Seville","Sevilla B","Granada","Spain",37.3886303,-5.9953403
+25,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+26,"Antonio Aranda","ESP","M",1.75,62,"07-10-00","Huétor Vega","Granada B","Granada","Spain",37.1452042,-3.5694625
+27,"Antonio Marín","ESP","D",1.78,75,"17-06-96","Benalua","Almería B","Granada","Spain",37.3499272,-3.1690217
+28,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+29,"Isma","ESP","M",1.8,67,"14-02-01","Gójar","Granada B","Granada","Spain",37.104497,-3.6057759
+30,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+31,"Mario Rodríguez","ESP","M",1.76,64,"03-03-97","Barcelona","Peralada","Granada","Spain",41.3828939,2.1774322
+32,"Antonio Montoro","ESP","D",1.82,75,"10-05-97","Getafe","Navalcarnero","Granada","Spain",40.3081807,-3.7302679
+33,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+34,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+35,"Unai Etxebarria","ESP","G",1.88,81,"30-08-96","Getxo","Athletic Bilbao B","Granada","Spain",43.3479409,-3.0087671
+36,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+37,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+38,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+39,"Pepe","ESP","D",1.85,63,"02-03-00","Linares","Granada B","Granada","Spain",38.0928249,-3.6343581
+40,"","","",NA,NA,"","","","Granada","Spain",NA,NA
+1,"Iván Cuéllar","ESP","G",1.87,76,"27-05-84","Mérida","Sporting Gijón","Leganés","Spain",38.9174665,-6.3443977
+2,"Marc Navarro","ESP","D",1.88,79,"02-07-95","Barcelona","Watford","Leganés","Spain",41.3828939,2.1774322
+3,"Unai Bustinza","ESP","D",1.75,74,"02-02-92","Bilbao","Athletic Bilbao","Leganés","Spain",43.2630051,-2.9349915
+4,"Kenneth Omeruo","NGA","D",1.85,79,"17-10-93","Kaduna","Chelsea","Leganés","Spain",10.3825318,7.8533226
+5,"Jonathan Silva","ARG","D",1.78,69,"29-06-94","La Plata","Sporting CP","Leganés","Spain",-34.9206797,-57.9537638
+6,"Roque Mesa","ESP","M",1.71,74,"07-06-89","Telde","Sevilla","Leganés","Spain",27.9984538,-15.4166761
+7,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+8,"Recio","ESP","M",1.82,79,"11-01-91","Málaga","Málaga","Leganés","Spain",36.7213028,-4.4216366
+9,"Miguel Ángel Guerrero","ESP","F",1.82,77,"12-07-90","Toledo","Olympiakos","Leganés","Spain",39.8560679,-4.0239568
+10,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+11,"Alexander Szymanowski","ARG","M",1.75,65,"13-10-88","Capital Federal","Brøndby","Leganés","Spain",-34.6075682,-58.4370894
+12,"Chidozie Awaziem","NGA","D",1.89,82,"01-01-97","Enugu","FC Porto","Leganés","Spain",6.5536094,7.4143061
+13,"Juan Soriano","ESP","G",1.82,78,"23-08-97","Benacazón","Sevilla","Leganés","Spain",37.33716865,-6.20197237408438
+14,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+15,"Rodrigo Tarín","ESP","D",1.82,76,"05-07-96","Chiva","Barcelona B","Leganés","Spain",39.4726098,-0.7178348
+16,"Roberto Rosales","VEN","D",1.75,71,"20-11-88","Caracas","Málaga","Leganés","Spain",10.506098,-66.9146017
+17,"Javier Eraso","ESP","M",1.8,71,"22-03-90","Pamplona","Athletic Bilbao","Leganés","Spain",42.8184538,-1.6442556
+18,"Guido Carrillo","ARG","F",1.9,86,"25-05-91","La Plata","Southampton","Leganés","Spain",-34.9206797,-57.9537638
+19,"Aitor Ruibal","ESP","F",1.76,74,"22-03-96","Manresa","Betis B","Leganés","Spain",41.7288939,1.8286765
+20,"Roger Assalé","CIV","F",1.67,65,"13-11-93","Abengourou","Young Boys","Leganés","Spain",6.667663,-3.51074487303378
+21,"Rubén Pérez","ESP","M",1.78,73,"26-04-89","Écija","Granada","Leganés","Spain",37.5406007,-5.079589
+22,"Dimitris Siovas","GRE","D",1.92,83,"16-09-88","Drama","Olympiakos","Leganés","Spain",41.1499443,24.1468286
+23,"Ibrahim Amadou","FRA","M",1.83,78,"06-04-93","Douala","Sevilla","Leganés","Spain",4.0429408,9.706203
+24,"Kévin Rodrigues","POR","M",1.7,70,"05-03-94","Bayonne","Real Sociedad","Leganés","Spain",43.4933379,-1.475099
+25,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+26,"Bryan Gil","ESP","M",1.75,60,"11-02-01","Barbate","Sevilla","Leganés","Spain",36.1923983,-5.9192837
+27,"Óscar","ESP","M",1.74,68,"28-06-98","Talavera de la Reina","Real Madrid B","Leganés","Spain",39.9603798,-4.8311717
+28,"Ivi","ESP","D",NA,NA,"08-08-98","","Leganés B","Leganés","Spain",NA,NA
+29,"Ayman Mourid","MAR","M",NA,NA,"07-05-00","","Leganés B","Leganés","Spain",NA,NA
+30,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+31,"Dani Plomer","ESP","F",NA,NA,"30-11-98","","Leganés B","Leganés","Spain",NA,NA
+32,"Mario del Campo","ESP","D",1.83,73,"31-01-99","Madrid","Real Madrid B","Leganés","Spain",40.4167047,-3.7035825
+33,"Javier Avilés","ESP","F",NA,NA,"17-08-97","Madrid","Leganés B","Leganés","Spain",40.4167047,-3.7035825
+34,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+35,"Pablo Lombo","ESP","G",NA,NA,"24-05-99","","Leganés B","Leganés","Spain",NA,NA
+36,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+37,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+38,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+39,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+40,"","","",NA,NA,"","","","Leganés","Spain",NA,NA
+1,"Koke","ESP","G",1.88,88,"27-09-95","Málaga","Espanyol B","Levante","Spain",36.7213028,-4.4216366
+2,"Iván López","ESP","D",1.75,69,"23-08-93","Valencia","Levante B","Levante","Spain",39.4699014,-0.3759513
+3,"Toño","ESP","D",1.79,69,"07-11-89","Alcalá de Henares","Recreativo Huelva","Levante","Spain",40.4818396,-3.3644973
+4,"Róber Pier","ESP","D",1.82,74,"16-02-95","Oleiros","Deportivo La Coruña B","Levante","Spain",43.3507142,-8.3294374
+5,"Nemanja Radoja","SRB","M",1.86,77,"06-02-93","Novi Sad","Celta Vigo","Levante","Spain",45.2551338,19.8451756
+6,"Óscar Duarte","CRC","D",1.86,81,"03-06-89","Catarina","Espanyol","Levante","Spain",14.8401471,-92.0711277648208
+7,"Sergio León","ESP","F",1.78,73,"06-01-89","Palma del Río","Betis","Levante","Spain",37.6949622,-5.2804262
+8,"Hernâni","POR","F",1.8,69,"20-08-91","Lisbon","FC Porto","Levante","Spain",38.7077507,-9.1365919
+9,"Roger","ESP","F",1.79,74,"03-01-91","Torrent","Levante B","Levante","Spain",39.436668,-0.4656213
+10,"Enis Bardhi","MKD","M",1.69,67,"02-07-95","Skopje","Újpest","Levante","Spain",41.9960924,21.4316495
+11,"José Luis Morales","ESP","M",1.8,70,"23-07-87","Madrid","Fuenlabrada","Levante","Spain",40.4167047,-3.7035825
+12,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+13,"Aitor Fernández","ESP","G",1.82,74,"03-05-91","Mondragón","Numancia","Levante","Spain",43.0656783,-2.4900779
+14,"Rúben Vezo","POR","D",1.82,80,"25-04-94","Setúbal","Valencia","Levante","Spain",38.524321,-8.8926172
+15,"Sergio Postigo","ESP","D",1.84,78,"04-11-88","Madrid","Spezia","Levante","Spain",40.4167047,-3.7035825
+16,"Rubén Rochina","ESP","M",1.81,70,"23-03-91","Sagunto","Rubin Kazan","Levante","Spain",39.6791712,-0.2774146
+17,"Nikola Vukcevic","MNE","M",1.84,74,"13-12-91","Podgorica","Sporting Braga","Levante","Spain",42.4415238,19.2621081
+18,"Bruno","ESP","D",1.85,83,"24-05-90","Las Galletas","Getafe","Levante","Spain",28.0078975,-16.6557083
+19,"Carlos Clerc","ESP","D",1.8,72,"21-02-92","Barcelona","Osasuna","Levante","Spain",41.3828939,2.1774322
+20,"Jorge Miramón","ESP","D",1.76,74,"02-06-89","Zaragoza","Huesca","Levante","Spain",41.6521342,-0.8809428
+21,"Borja Mayoral","ESP","F",1.82,74,"05-04-97","Parla","Real Madrid","Levante","Spain",40.2373952,-3.7718902
+22,"Gonzalo Melero","ESP","M",1.83,77,"02-01-94","Madrid","Huesca","Levante","Spain",40.4167047,-3.7035825
+23,"Coke","ESP","D",1.82,78,"26-04-87","Madrid","Schalke","Levante","Spain",40.4167047,-3.7035825
+24,"José Campaña","ESP","M",1.76,55,"30-05-93","Seville","Sampdoria","Levante","Spain",37.3886303,-5.9953403
+25,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+26,"Dani Cárdenas","ESP","D",1.86,80,"28-03-97","Terrassa","Levante B","Levante","Spain",41.5629885,2.0102442
+27,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+28,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+29,"Gonzalo Pereira","ESP","D",1.8,75,"14-02-97","Barcelona","Calahorra","Levante","Spain",41.3828939,2.1774322
+30,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+31,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+32,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+33,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+34,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+35,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+36,"Pablo Martínez","ESP","M",1.82,74,"22-02-98","Madrid","Alcorcón B","Levante","Spain",40.4167047,-3.7035825
+37,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+38,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+39,"","","",NA,NA,"","","","Levante","Spain",NA,NA
+40,"Eliseo","ESP","D",1.83,83,"11-02-97","Seville","Granada B","Levante","Spain",37.3886303,-5.9953403
+1,"Manolo Reina","ESP","G",1.85,80,"01-04-85","Villaneuva del Trabuco","Nàstic","Mallorca","Spain",NA,NA
+2,"Joan Sastre","ESP","D",1.74,75,"30-04-97","Porreres","Mallorca B","Mallorca","Spain",39.5168891,3.0227517
+3,"Lumor Agbenyenu","GHA","D",1.75,70,"15-08-96","Accra","Sporting CP","Mallorca","Spain",5.5600141,-0.2057437
+4,"Josep Señé","ESP","M",1.85,74,"10-12-91","Barcelona","Cultural Leonesa","Mallorca","Spain",41.3828939,2.1774322
+5,"Xisco Campos","ESP","D",1.8,77,"10-03-82","Binissalem","Ponferradina","Mallorca","Spain",39.6889279,2.8420532
+6,"Marc Pedraza","ESP","M",1.83,74,"06-02-87","Barcelona","Numancia","Mallorca","Spain",41.3828939,2.1774322
+7,"Álex Pozo","ESP","M",1.74,62,"22-02-99","Huévar del Aljarafe","Sevilla","Mallorca","Spain",37.3558683,-6.2779814
+8,"Salva Sevilla","ESP","M",1.78,70,"18-03-84","Almería","Espanyol","Mallorca","Spain",36.8414197,-2.4628135
+9,"Abdón Prats","ESP","F",1.81,79,"17-02-92","Artà","Racing Santander","Mallorca","Spain",39.6950088,3.3506343
+10,"Ki Sung-Yueng","KOR","M",1.86,75,"24-01-89","Gwangju","Newcastle U","Mallorca","Spain",35.1595775,126.8515089
+11,"Lago Junior","CIV","M",1.82,74,"31-12-90","Yamoussoukro","Mirandés","Mallorca","Spain",6.809107,-5.273263
+12,"Iddrisu Baba","GHA","M",1.85,73,"22-01-96","Accra","Leganés B","Mallorca","Spain",5.5600141,-0.2057437
+13,"Fabricio","ESP","G",1.85,77,"31-12-87","Las Palmas","Fulham","Mallorca","Spain",28.128874,-15.4349448
+14,"Dani Rodríguez","ESP","M",1.77,71,"06-06-88","Betanzos","Albacete","Mallorca","Spain",43.2729197,-8.2218227
+15,"Fran Gámez","ESP","D",1.74,71,"27-07-91","Puerto de Sagunto","Atlético Saguntino","Mallorca","Spain",39.6631732,-0.2208575
+16,"Yannis Salibur","FRA","M",1.76,74,"24-01-91","St-Denis","Guingamp","Mallorca","Spain",48.935773,2.3580232
+17,"Aleksandar Trajkovski","MKD","F",1.79,78,"05-09-92","Skopje","Palermo","Mallorca","Spain",41.9960924,21.4316495
+18,"Leonardo Koutris","GRE","D",1.74,70,"23-07-95","Rhodes","Olympiakos","Mallorca","Spain",48.7579899,6.8988106
+19,"Pablo Chavarría","ARG","F",1.82,74,"02-01-88","Las Perdices","Reims","Mallorca","Spain",-33.554762,-70.553088
+20,"Aleksandar Sedlar","SRB","D",1.78,79,"13-12-91","Novi Sad","Piast Gliwice","Mallorca","Spain",45.2551338,19.8451756
+21,"Antonio Raíllo","ESP","D",1.86,77,"08-10-91","Córdoba","Espanyol","Mallorca","Spain",37.8845813,-4.7760138
+22,"Ante Budimir","BIH","F",1.9,75,"22-07-91","Zenica","Crotone","Mallorca","Spain",44.2010759,17.9055721
+23,"Aleix Febas","ESP","M",1.71,64,"02-02-96","Lleida","Real Madrid B","Mallorca","Spain",41.6147605,0.6267842
+24,"Martin Valjent","SVK","D",1.86,83,"11-12-95","Dubnica nad Váhom","Chievo Verona","Mallorca","Spain",48.9533545,18.199015055317
+25,"Miquel Parera","ESP","G",1.8,74,"18-05-96","Manacor","Mallorca B","Mallorca","Spain",39.5696458,3.2106461
+26,"Takefusa Kubo","JPN","M",1.7,63,"04-06-01","Kawasaki","Real Madrid","Mallorca","Spain",35.523142,139.708024
+27,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+28,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+29,"Cucho Hernández","COL","F",1.75,73,"22-04-99","Pereira","Watford","Mallorca","Spain",4.8142912,-75.6946451
+30,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+31,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+32,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+33,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+34,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+35,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+36,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+37,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+38,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+39,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+40,"","","",NA,NA,"","","","Mallorca","Spain",NA,NA
+1,"Sergio Herrera","ESP","G",1.92,82,"05-06-93","Miranda de Ebro","Huesca","Osasuna","Spain",42.6855632,-2.9478451
+2,"Nacho Vidal","ESP","D",1.8,75,"24-01-95","El Campello","Valencia B","Osasuna","Spain",38.427416,-0.3983685
+3,"Raúl Navas","ESP","D",1.86,84,"11-05-88","Seville","Real Sociedad","Osasuna","Spain",37.3886303,-5.9953403
+4,"Unai García","ESP","D",1.76,72,"03-09-92","Esquíroz","Osasuna B","Osasuna","Spain",42.77490255,-1.64952232398754
+5,"David García","ESP","D",1.85,72,"14-02-94","Pamplona","Osasuna B","Osasuna","Spain",42.8184538,-1.6442556
+6,"Oier Sanjurjo","ESP","D",1.78,66,"25-05-86","Pamplona","Osasuna B","Osasuna","Spain",42.8184538,-1.6442556
+7,"Marc Cardona","ESP","F",1.83,75,"08-07-95","Lleida","Barcelona B","Osasuna","Spain",41.6147605,0.6267842
+8,"Fran Mérida","ESP","M",1.75,70,"04-03-90","Barcelona","Huesca","Osasuna","Spain",41.3828939,2.1774322
+9,"Ezequiel Ávila","ARG","F",1.81,78,"06-02-94","Rosario","San Lorenzo","Osasuna","Spain",-32.9595004,-60.6615415
+10,"Roberto Torres","ESP","M",1.76,69,"07-03-89","Pamplona","Osasuna B","Osasuna","Spain",42.8184538,-1.6442556
+11,"Enric Gallego","ESP","F",1.9,87,"12-09-86","Martorell","Getafe","Osasuna","Spain",41.4769177,1.9283971
+12,"Facundo Roncaglia","ARG","D",1.79,76,"10-02-87","Chajarí","Celta Vigo","Osasuna","Spain",-30.73296275,-57.9600898572449
+13,"Rubén","ESP","G",1.88,79,"22-06-84","Coristanco","Deportivo La Coruña","Osasuna","Spain",43.1570617,-8.7639059
+14,"Rubén García","ESP","F",1.71,72,"14-07-93","Valencia","Levante","Osasuna","Spain",39.4699014,-0.3759513
+15,"Toni Lato","ESP","D",1.71,64,"21-11-97","La Pobla de Vallbona","Valencia","Osasuna","Spain",39.5907339,-0.5532185
+16,"José Arnáiz","ESP","F",1.74,70,"15-04-95","Talavera de la Reina","Leganés","Osasuna","Spain",39.9603798,-4.8311717
+17,"Robert Ibañez","ESP","M",1.78,71,"22-03-93","Valencia","Getafe","Osasuna","Spain",39.4699014,-0.3759513
+18,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+19,"Kike Barja","ESP","F",1.78,69,"01-04-97","Pamplona","Osasuna B","Osasuna","Spain",42.8184538,-1.6442556
+20,"Darko Brašanac","SRB","M",1.78,73,"12-02-92","Cajetina","Betis","Osasuna","Spain",43.7506286,19.7167804
+21,"Íñigo Pérez","ESP","M",1.78,74,"18-01-88","Iruñea","Numancia","Osasuna","Spain",42.8184538,-1.6442556
+22,"Adrián López","ESP","F",1.83,73,"08-01-88","San Martín de Teverga","FC Porto","Osasuna","Spain",NA,NA
+23,"Aridane","ESP","D",1.86,77,"23-03-89","Fuerteventura","Cádiz","Osasuna","Spain",28.40037685,-14.0048697135422
+24,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+25,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+26,"Juan Pérez","ESP","G",1.92,78,"15-07-96","Almudevar","Osasuna B","Osasuna","Spain",42.0427209,-0.5808273
+27,"Jon Moncayola","ESP","M",NA,NA,"13-05-98","Garinoain","Osasuna B","Osasuna","Spain",42.6006876,-1.6456923
+28,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+29,"Endika Irigoyen","ESP","D",1.76,69,"25-01-97","Pamplona","Osasuna B","Osasuna","Spain",42.8184538,-1.6442556
+30,"Pervis Estupiñán","ECU","D",1.75,69,"21-01-98","Esmeraldas","Watford","Osasuna","Spain",0.7343619,-79.3858867
+31,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+32,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+33,"Javi Martínez","ESP","M",NA,NA,"22-12-99","Ólvega","Osasuna B","Osasuna","Spain",41.779562,-1.9843627
+34,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+35,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+36,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+37,"Iñaki Álvarez","ESP","G",NA,NA,"18-06-97","Pamplona","Osasuna B","Osasuna","Spain",42.8184538,-1.6442556
+38,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+39,"Gorka Zabarte","ESP","D",1.76,74,"09-01-99","Madrid","Real Madrid B","Osasuna","Spain",40.4167047,-3.7035825
+40,"","","",NA,NA,"","","","Osasuna","Spain",NA,NA
+1,"Alphonse Areola","FRA","G",1.9,85,"27-02-93","Paris","Paris St-Germain","Real Madrid","Spain",48.8566969,2.3514616
+2,"Daniel Carvajal","ESP","D",1.73,74,"11-01-92","Leganés","Bayer Leverkusen","Real Madrid","Spain",40.3281942,-3.76527
+3,"Éder Militão","BRA","D",1.86,79,"18-01-98","Sertãozinho","FC Porto","Real Madrid","Spain",-21.1375782,-47.9913741
+4,"Sergio Ramos","ESP","D",1.84,82,"30-03-86","Camas","Sevilla","Real Madrid","Spain",37.4020115,-6.0331571
+5,"Raphaël Varane","FRA","D",1.91,81,"25-04-93","Lille","Lens","Real Madrid","Spain",50.6365654,3.0635282
+6,"Nacho Fernández","ESP","D",1.8,76,"18-01-90","Madrid","Real Madrid B","Real Madrid","Spain",40.4167047,-3.7035825
+7,"Eden Hazard","BEL","M",1.73,76,"07-01-91","La Louvière","Chelsea","Real Madrid","Spain",50.479487,4.1852682
+8,"Toni Kroos","GER","M",1.83,76,"04-01-90","Greifswald","Bayern Munich","Real Madrid","Spain",54.095791,13.3815238
+9,"Karim Benzema","FRA","F",1.85,81,"19-12-87","Lyon","Lyon","Real Madrid","Spain",45.7578137,4.8320114
+10,"Luka Modric","CRO","M",1.72,66,"09-09-85","Zadar","Tottenham H","Real Madrid","Spain",44.1186078,15.232136
+11,"Gareth Bale","WAL","F",1.85,82,"16-07-89","Cardiff","Tottenham H","Real Madrid","Spain",51.4816546,-3.1791934
+12,"Marcelo","BRA","D",1.74,80,"12-05-88","Rio de Janeiro","Fluminense","Real Madrid","Spain",-22.9110137,-43.2093727
+13,"Thibaut Courtois","BEL","G",1.99,94,"11-05-92","Bree","Chelsea","Real Madrid","Spain",51.1386239,5.6229805058514
+14,"Casemiro","BRA","M",1.85,84,"23-02-92","São José dos Campos","São Paulo","Real Madrid","Spain",-23.1805011,-45.8872969
+15,"Federico Valverde","URU","M",1.81,76,"22-07-98","Montevideo","Peñarol","Real Madrid","Spain",-34.9059039,-56.1913569
+16,"James Rodríguez","COL","M",1.8,77,"12-07-91","Cúcuta","Monaco","Real Madrid","Spain",7.8971458,-72.5080387
+17,"Lucas Vázquez","ESP","F",1.73,71,"01-07-91","Curtis","Espanyol","Real Madrid","Spain",43.1328173,-8.0446856
+18,"Luka Jovic","SRB","F",1.81,79,"23-12-97","Bijeljina","Eintracht Frankfurt","Real Madrid","Spain",44.7574154,19.2178854
+19,"","","",NA,NA,"","","","Real Madrid","Spain",NA,NA
+20,"Marco Asensio","ESP","M",1.82,76,"21-01-96","Palma de Mallorca","Mallorca B","Real Madrid","Spain",39.5695818,2.6500745
+21,"Brahim Díaz","ESP","M",1.7,68,"03-08-99","Málaga","Manchester C","Real Madrid","Spain",36.7213028,-4.4216366
+22,"Isco","ESP","M",1.76,79,"21-04-92","Benalmádena","Málaga","Real Madrid","Spain",36.594519,-4.572284
+23,"Ferland Mendy","FRA","D",1.78,73,"08-06-95","Meulan","Lyon","Real Madrid","Spain",49.0049712,1.9100835
+24,"Mariano","DOM","F",1.79,74,"01-08-93","Barcelona","Lyon","Real Madrid","Spain",41.3828939,2.1774322
+25,"Vinícius Júnior","BRA","F",1.77,62,"12-07-00","São Gonçalo","Flamengo","Real Madrid","Spain",-22.8219014,-43.0309252
+26,"Diego Altube","ESP","G",1.88,87,"22-02-00","Madrid","Real Madrid B","Real Madrid","Spain",40.4167047,-3.7035825
+27,"Rodrygo","BRA","F",1.73,63,"09-01-01","Osasco","Santos","Real Madrid","Spain",-23.5324859,-46.7916801
+28,"","","",NA,NA,"","","","Real Madrid","Spain",NA,NA
+29,"Pedro Ruiz","ESP","F",1.94,82,"30-03-00","Seville","Real Madrid B","Real Madrid","Spain",37.3886303,-5.9953403
+30,"Javier Belman","ESP","G",1.84,80,"04-10-98","Alicante","Real Madrid B","Real Madrid","Spain",38.353738,-0.4901846
+31,"Toni Fuidias","ESP","G",1.94,83,"15-04-01","Berga","Real Madrid B","Real Madrid","Spain",42.1011456,1.8454758
+32,"Sergio López","ESP","D",1.79,66,"08-04-99","Remscheid","Real Madrid B","Real Madrid","Spain",51.1798706,7.1943544
+33,"Fran García","ESP","D",1.67,61,"14-08-99","Bolaños de Calatrava","Real Madrid B","Real Madrid","Spain",38.9062533,-3.6629811
+34,"","","",NA,NA,"","","","Real Madrid","Spain",NA,NA
+35,"Adrián de la Fuente","ESP","D",1.78,75,"26-02-99","El Escorial","Real Madrid B","Real Madrid","Spain",40.58901485,-4.14866953418157
+36,"Martín Calderón","ESP","M",1.83,77,"01-03-99","Jerez de la Frontera","Real Madrid B","Real Madrid","Spain",36.6816936,-6.1377402
+37,"Franchu Feuillassier","ARG","M",1.72,68,"12-05-98","Mar del Plata","Real Madrid B","Real Madrid","Spain",-37.9977225,-57.5482703
+38,"Álvaro Bravo","ESP","M",1.84,70,"04-02-98","Pinto","Real Madrid B","Real Madrid","Spain",40.240985,-3.7005072
+39,"Javi Hernández","ESP","D",1.82,72,"02-05-98","Jerez de la Frontera","Real Madrid B","Real Madrid","Spain",36.6816936,-6.1377402
+40,"Víctor Chust","ESP","D",1.82,74,"05-03-00","Valencia","Real Madrid B","Real Madrid","Spain",39.4699014,-0.3759513
+41,"Marvin Park","ESP","M",1.78,64,"03-07-00","Palma de Mallorca","Real Madrid B","Real Madrid","Spain",39.5695818,2.6500745
+42,"Miguel Baeza","ESP","M",1.75,64,"27-03-00","Córdoba","Real Madrid B","Real Madrid","Spain",37.8845813,-4.7760138
+43,"Antonio Blanco","ESP","M",1.76,66,"23-07-00","Montalbán","Real Madrid B","Real Madrid","Spain",40.8324095,-0.7994195
+1,"Alejandro Remiro","ESP","G",1.91,80,"24-03-95","Cascante","Athletic Bilbao","Real Sociedad","Spain",41.9993288,-1.6786611
+2,"Joseba Zaldúa","ESP","D",1.76,70,"24-06-92","San Sebastián","Real Sociedad B","Real Sociedad","Spain",43.3224219,-1.9838889
+3,"Diego Llorente","ESP","D",1.86,75,"16-08-93","Madrid","Real Madrid B","Real Sociedad","Spain",40.4167047,-3.7035825
+4,"Asier Illarramendi","ESP","M",1.79,75,"08-03-90","Mutriku","Real Madrid","Real Sociedad","Spain",43.3071181,-2.3871098
+5,"Igor Zubeldia","ESP","M",1.8,79,"30-03-97","Azkoitia","Real Sociedad B","Real Sociedad","Spain",43.1781602,-2.3114989
+6,"Aritz Elustondo","ESP","D",1.8,71,"28-03-94","Beasain","Real Sociedad B","Real Sociedad","Spain",43.0473269,-2.2032868
+7,"Portu","ESP","M",1.78,70,"21-05-92","Murcia","Girona","Real Sociedad","Spain",37.9923795,-1.1305431
+8,"Mikel Merino","ESP","M",1.88,78,"22-06-96","Pamplona","Newcastle U","Real Sociedad","Spain",42.8184538,-1.6442556
+9,"Willian José","BRA","F",1.89,93,"23-11-91","Porto Calvo","Deportivo Maldonado","Real Sociedad","Spain",-9.051948,-35.398653
+10,"Mikel Oyarzabal","ESP","M",1.81,78,"21-04-97","Eibar","Real Sociedad B","Real Sociedad","Spain",43.1842839,-2.4732748
+11,"Adnan Januzaj","BEL","M",1.86,76,"05-02-95","Brussels","Manchester U","Real Sociedad","Spain",50.8436709,4.36743669338796
+12,"Aihen Muñoz","ESP","D",1.75,72,"16-08-97","Etxauri","Real Sociedad B","Real Sociedad","Spain",42.7932285,-1.7900237
+13,"Miguel Ángel Moyá","ESP","G",1.88,83,"02-04-84","Binissalem","Atlético Madrid","Real Sociedad","Spain",39.6889279,2.8420532
+14,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+15,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+16,"Ander Guevara","ESP","M",1.78,73,"07-07-97","Vitoria-Gasteiz","Real Sociedad B","Real Sociedad","Spain",42.8465088,-2.6724025
+17,"David Zurutuza","ESP","M",1.86,79,"19-07-86","Rochefort","Real Sociedad B","Real Sociedad","Spain",45.9442642,-0.9690432
+18,"Andoni Gorosabel","ESP","D",1.74,73,"04-08-96","Arrasate","Real Sociedad B","Real Sociedad","Spain",43.0656783,-2.4900779
+19,"Alexander Isak","SWE","F",1.9,70,"21-09-99","Solna","Borussia Dortmund","Real Sociedad","Spain",59.361367,18.0013693
+20,"Nacho Monreal","ESP","D",1.79,72,"26-02-86","Pamplona","Arsenal","Real Sociedad","Spain",42.8184538,-1.6442556
+21,"Martin Ødegaard","NOR","M",1.76,68,"17-12-98","Drammen","Real Madrid","Real Sociedad","Spain",59.7436749,10.2043749
+22,"Ander Barrenetxea","ESP","F",1.78,65,"27-12-01","San Sebastián","Real Sociedad B","Real Sociedad","Spain",43.3224219,-1.9838889
+23,"Luca Sangalli","ESP","M",1.67,74,"10-02-95","San Sebastián","Real Sociedad B","Real Sociedad","Spain",43.3224219,-1.9838889
+24,"Robin Le Normand","FRA","D",1.87,80,"11-11-96","Pabu","Brest","Real Sociedad","Spain",48.5880549,-3.137756
+25,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+26,"Jon Pacheco","ESP","D",1.84,77,"08-01-01","Elizondo","Real Sociedad B","Real Sociedad","Spain",43.1462852,-1.5183762
+27,"Xeber Alkain","ESP","M",1.74,69,"26-06-97","Hondarribia","Real Sociedad B","Real Sociedad","Spain",43.3624468,-1.7914309
+28,"Roberto López","ESP","F",1.79,70,"24-04-00","Zaragoza","Real Sociedad B","Real Sociedad","Spain",41.6521342,-0.8809428
+29,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+30,"Andoni Zubiaurre","ESP","G",1.88,82,"04-12-96","Ordizia","Real Sociedad B","Real Sociedad","Spain",43.0539687,-2.1795046
+31,"Naïs Djouahra","FRA","M",1.72,65,"23-11-99","Bourgoin-Jallieu","St-Etienne","Real Sociedad","Spain",45.5872259,5.2828123
+32,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+33,"Aritz Arambarri","ESP","D",NA,NA,"31-01-98","Azkoitia","Real Sociedad B","Real Sociedad","Spain",43.1781602,-2.3114989
+34,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+35,"Julen Lobete","ESP","F",NA,NA,"18-09-00","Lezo","Real Sociedad B","Real Sociedad","Spain",43.3212392,-1.8996138
+36,"Martín Zubimendi","ESP","M",1.8,74,"02-02-99","San Sebastián","Real Sociedad B","Real Sociedad","Spain",43.3224219,-1.9838889
+37,"Imanol Ezkurdia","ESP","D",NA,NA,"04-01-99","Lezo","Real Sociedad B","Real Sociedad","Spain",43.3212392,-1.8996138
+38,"Zourdine Thior","SEN","F",1.69,57,"09-07-97","Pikine","Real Sociedad B","Real Sociedad","Spain",14.751544,-17.396413
+39,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+40,"","","",NA,NA,"","","","Real Sociedad","Spain",NA,NA
+1,"Tomáš Vaclík","CZE","G",1.88,84,"29-03-89","Ostrava","Basel","Sevilla","Spain",49.8349139,18.2820084
+2,"","","",NA,NA,"","","","Sevilla","Spain",NA,NA
+3,"Sergi Gómez","ESP","D",1.81,76,"28-07-92","Arenys de Mar","Celta Vigo","Sevilla","Spain",41.5797031,2.5491562
+4,"","","",NA,NA,"","","","Sevilla","Spain",NA,NA
+5,"Lucas Ocampos","ARG","M",1.87,84,"11-07-94","Quilmes","Marseille","Sevilla","Spain",-34.7303025,-58.268868
+6,"Daniel Carriço","POR","D",1.8,75,"04-08-88","Cascais","Reading","Sevilla","Spain",38.72240025,-9.39690917164988
+7,"Marcos Lopes","POR","M",1.74,68,"28-12-95","Belém","Monaco","Sevilla","Spain",-1.45056,-48.4682453
+8,"Nolito","ESP","F",1.75,65,"15-10-86","Sanlúcar de Barrameda","Manchester C","Sevilla","Spain",36.7761393,-6.3534794
+9,"","","",NA,NA,"","","","Sevilla","Spain",NA,NA
+10,"Éver Banega","ARG","M",1.74,69,"29-06-88","Rosario","Internazionale","Sevilla","Spain",-32.9595004,-60.6615415
+11,"Munir El Haddadi","ESP","F",1.72,62,"01-09-95","San Lorenzo de El Escorial","Barcelona","Sevilla","Spain",40.5926673,-4.1471642
+12,"Jules Koundé","FRA","D",1.78,70,"12-11-98","Paris","Bordeaux","Sevilla","Spain",48.8566969,2.3514616
+13,"Yassine Bounou","MAR","G",1.92,78,"05-04-91","Montreal","Girona","Sevilla","Spain",45.4972159,-73.6103642
+14,"Suso","ESP","F",1.76,69,"19-11-93","Cádiz","Milan","Sevilla","Spain",36.5297438,-6.2928976
+15,"Yousseff En-Nesyri","MAR","F",1.89,73,"01-06-97","Fez","Leganés","Sevilla","Spain",34.0346534,-5.0161926
+16,"Jesús Navas","ESP","M",1.72,60,"21-11-85","Los Palacios","Manchester C","Sevilla","Spain",22.6149368,-83.2821283
+17,"Nemanja Gudelj","SRB","M",1.77,73,"16-11-91","Belgrade","Guangzhou Evergrande","Sevilla","Spain",44.8178131,20.4568974
+18,"Sergio Escudero","ESP","D",1.76,65,"02-09-89","Valladolid","Getafe","Sevilla","Spain",41.6521328,-4.728562
+19,"Luuk de Jong","NED","F",1.88,80,"27-08-90","Aigle","PSV Eindhoven","Sevilla","Spain",46.3179006,6.9688929
+20,"Diego Carlos","BRA","D",1.84,79,"15-03-93","Barra Bonita","Nantes","Sevilla","Spain",-22.490859,-48.558349
+21,"Óliver Torres","ESP","M",1.78,70,"10-11-94","Navalmoral de la Mata","FC Porto","Sevilla","Spain",39.8928306,-5.5401199
+22,"Franco Vázquez","ARG","M",1.86,82,"22-02-89","Tanti","Palermo","Sevilla","Spain",-31.3547972,-64.592479
+23,"Sergio Reguilón","ESP","D",1.78,68,"16-12-96","Madrid","Real Madrid","Sevilla","Spain",40.4167047,-3.7035825
+24,"Joan Jordán","ESP","M",1.84,74,"06-07-93","Palamós","Eibar","Sevilla","Spain",41.8495354,3.1278785
+25,"Fernando","BRA","M",1.83,76,"25-07-87","Alto Paraíso de Goiás","Galatasaray","Sevilla","Spain",-14.1304779,-47.5100161
+26,"José Mena","ESP","M",1.73,64,"15-05-98","Utrera","Sevilla B","Sevilla","Spain",37.1824646,-5.7817506
+27,"José Amo","ESP","D",1.81,72,"09-04-98","Las Pajanosas","Sevilla B","Sevilla","Spain",37.5769933,-6.105186
+28,"José Alonso Lara","ESP","M",1.67,61,"07-03-00","Seville","Sevilla B","Sevilla","Spain",37.3886303,-5.9953403
+29,"Juan Berrocal","ESP","D",1.84,72,"05-02-99","Jerez de la Frontera","Sevilla B","Sevilla","Spain",36.6816936,-6.1377402
+30,"","","",NA,NA,"","","","Sevilla","Spain",NA,NA
+31,"Javi Díaz","ESP","G",1.85,75,"15-05-97","Seville","Sevilla B","Sevilla","Spain",37.3886303,-5.9953403
+32,"Javi Pérez","ESP","D",1.75,70,"12-03-99","Seville","Sevilla B","Sevilla","Spain",37.3886303,-5.9953403
+33,"Alfonso Pastor","ESP","G",1.9,78,"04-10-00","Córdoba","Sevilla B","Sevilla","Spain",37.8845813,-4.7760138
+34,"Genaro","ESP","M",NA,NA,"23-03-98","Gerena","Sevilla B","Sevilla","Spain",37.5293784,-6.1556433
+35,"Adrián González","ESP","G",NA,NA,"28-03-00","Seville","Sevilla B","Sevilla","Spain",37.3886303,-5.9953403
+36,"Felipe Chacartegui","ESP","D",1.76,70,"23-02-98","Cádiz","Sevilla B","Sevilla","Spain",36.5297438,-6.2928976
+37,"Iván Romero","ESP","F",1.75,72,"10-04-01","","Sevilla B","Sevilla","Spain",NA,NA
+38,"Paco Fernández","ESP","M",NA,NA,"01-10-01","","Sevilla B","Sevilla","Spain",NA,NA
+39,"Lucho García","COL","G",1.83,75,"20-03-98","Barranquilla","Rayo Vallecano B","Sevilla","Spain",10.9799669,-74.8013085
+40,"Pablo Pérez","ESP","D",NA,NA,"01-01-01","","Sevilla B","Sevilla","Spain",NA,NA
+1,"Jaume Domènech","ESP","G",1.85,73,"05-11-90","Almenara","Huracán Valencia","Valencia","Spain",39.7521228,-0.2251286
+2,"Thierry Correia","POR","D",1.79,65,"09-03-99","Amadora","Sporting CP","Valencia","Spain",38.7595162,-9.22367700946013
+3,"Jaume","ESP","D",1.71,62,"18-03-88","Valencia","Villarreal","Valencia","Spain",39.4699014,-0.3759513
+4,"Eliaquim Mangala","FRA","D",1.87,74,"13-02-91","Colombes","Manchester C","Valencia","Spain",48.922788,2.2543577
+5,"Gabriel Paulista","BRA","D",1.85,72,"26-11-90","São Paulo","Arsenal","Valencia","Spain",-23.5506507,-46.6333824
+6,"Geoffrey Kondogbia","CTA","M",1.88,80,"15-02-93","Nemours","Internazionale","Valencia","Spain",48.268026,2.6953079
+7,"Gonçalo Guedes","POR","M",1.79,68,"29-11-96","Benavente","Paris St-Germain","Valencia","Spain",42.0032862,-5.6738595
+8,"Carlos Soler","ESP","M",1.8,76,"02-01-97","Valencia","Valencia B","Valencia","Spain",39.4699014,-0.3759513
+9,"Kevin Gameiro","FRA","F",1.72,70,"09-05-87","Senlis","Atlético Mineiro","Valencia","Spain",50.5331612,2.1523287
+10,"Daniel Parejo","ESP","M",1.82,74,"16-04-89","Madrid","Getafe","Valencia","Spain",40.4167047,-3.7035825
+11,"Denis Cheryshev","RUS","M",1.79,74,"26-12-90","Nizhny Novgorod","Villarreal","Valencia","Spain",56.328571,44.003506
+12,"Mouctar Diakhaby","FRA","D",1.89,78,"19-12-96","Vendôme","Lyon","Valencia","Spain",47.7934453,1.0662256
+13,"Jasper Cillessen","NED","G",1.85,83,"22-04-89","Groesbeek","Barcelona","Valencia","Spain",51.7759402,5.93963742580844
+14,"José Luis Gayà","ESP","D",1.72,66,"25-05-95","Pedreguer","Valencia B","Valencia","Spain",38.7938437,0.0343336
+15,"Manu Vallejo","ESP","F",1.67,62,"14-02-97","Chiclana de la Frontera","Cádiz","Valencia","Spain",36.4191096,-6.1460683
+16,"Lee Kang-In","KOR","M",1.73,61,"19-02-01","Incheon","Valencia B","Valencia","Spain",37.456,126.7052
+17,"Francis Coquelin","FRA","M",1.78,74,"13-05-91","Laval","Arsenal","Valencia","Spain",48.0710377,-0.7723499
+18,"Daniel Wass","DEN","M",1.81,74,"31-05-89","Gladsaxe","Celta Vigo","Valencia","Spain",55.7383794,12.4696107
+19,"Rodrigo Moreno","ESP","F",1.82,77,"06-03-91","Rio de Janeiro","Benfica","Valencia","Spain",-22.9110137,-43.2093727
+20,"Ferrán Torres","ESP","M",1.84,77,"29-02-00","Foios","Valencia B","Valencia","Spain",39.5381541,-0.3561396
+21,"Cristiano Piccini","ITA","D",1.83,77,"26-09-92","Florence","Sporting CP","Valencia","Spain",43.7698712,11.2555757
+22,"Maximiliano Gómez","URU","F",1.86,91,"14-08-96","Paysandú","Celta Vigo","Valencia","Spain",-32.3217257,-58.0892136
+23,"Rubén Sobrino","ESP","F",1.85,73,"01-06-92","Daimiel","Alavés","Valencia","Spain",39.072196,-3.6143611
+24,"Ezequiel Garay","ARG","D",1.89,90,"10-10-86","Rosario","Zenit St Petersburg","Valencia","Spain",-32.9595004,-60.6615415
+25,"Alessandro Florenzi","ITA","D",1.73,66,"11-03-91","Rome","Roma","Valencia","Spain",41.8933203,12.4829321
+26,"Pascu","ESP","M",NA,NA,"02-04-00","Santa Pola","Valencia B","Valencia","Spain",38.1924252,-0.5556711
+27,"Koba Koindredi","FRA","M",NA,NA,"27-10-01","Païta","Valencia B","Valencia","Spain",-22.1311499,166.3678601
+28,"Cristian Rivero","ESP","G",1.88,75,"21-03-98","Gandia","Valencia B","Valencia","Spain",38.9675925,-0.1803423
+29,"Jordi Escobar","ESP","F",NA,NA,"10-02-02","Sant Cebrià de Villalta","Valencia B","Valencia","Spain",NA,NA
+30,"Yunus Musah","ENG","M",NA,NA,"29-11-02","New York","Arsenal","Valencia","Spain",40.7127281,-74.0060152
+31,"","","",NA,NA,"","","","Valencia","Spain",NA,NA
+32,"Javi Jiménez","ESP","D",1.82,74,"11-03-97","Aldaia","Valencia B","Valencia","Spain",39.4648111,-0.4607554
+33,"Hugo Guillamón","ESP","D",1.76,62,"31-01-00","L'Eliana","Valencia B","Valencia","Spain",39.5659086,-0.5302784
+34,"Vicente Esquerdo","ESP","M",1.82,75,"02-01-99","Calp","Valencia B","Valencia","Spain",38.6447979,0.0454139
+35,"","","",NA,NA,"","","","Valencia","Spain",NA,NA
+36,"Emilio Bernad","ESP","G",1.83,69,"22-09-99","La Vall d'Uixó","Valencia B","Valencia","Spain",39.8235837,-0.2316995
+37,"Guillem Gutiérrez","ESP","D",1.83,71,"03-05-00","Valls","Valencia B","Valencia","Spain",41.2835355,1.2473637
+38,"Pablo Gozálbez","ESP","M",NA,NA,"30-04-01","Valencia","Valencia B","Valencia","Spain",39.4699014,-0.3759513
+39,"","","",NA,NA,"","","","Valencia","Spain",NA,NA
+40,"","","",NA,NA,"","","","Valencia","Spain",NA,NA
+1,"Jordi Masip","ESP","G",1.8,72,"03-01-89","Sabadell","Barcelona","Valladolid","Spain",41.5421013,2.1138977
+2,"Pedro Porro","ESP","D",1.76,71,"13-09-99","Don Benito","Manchester C","Valladolid","Spain",38.9540269,-5.8619466
+3,"Hatem Ben Arfa","FRA","M",1.78,65,"07-03-87","Clamart","Rennes","Valladolid","Spain",48.800368,2.2630292
+4,"Kiko","ESP","D",1.89,83,"21-08-88","Málaga","Girona","Valladolid","Spain",36.7213028,-4.4216366
+5,"Javi Sánchez","ESP","D",1.86,71,"14-03-97","Getafe","Real Madrid B","Valladolid","Spain",40.3081807,-3.7302679
+6,"Raúl García","ESP","D",1.75,72,"30-04-89","La Coruña","Getafe","Valladolid","Spain",43.3712091,-8.3958768
+7,"Sergi Guardiola","ESP","M",1.8,77,"29-05-91","Manacor","Córdoba","Valladolid","Spain",39.5696458,3.2106461
+8,"Matheus Fernandes","BRA","M",1.83,67,"30-06-98","Itaboraí","Palmeiras","Valladolid","Spain",-22.7496231,-42.8557428
+9,"Enes Ünal","TUR","F",1.85,75,"10-05-97","Bursa","Villarreal","Valladolid","Spain",40.182737,29.0678352
+10,"Óscar Plano","ESP","M",1.8,68,"11-02-91","Móstoles","Alcorcón","Valladolid","Spain",40.3238525,-3.8649214
+11,"Pablo Hervías","ESP","M",1.74,68,"08-03-93","Logroño","Eibar","Valladolid","Spain",42.4661196,-2.4396676
+12,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+13,"José Antonio Caro","ESP","G",1.84,73,"03-05-94","La Palma del Condado","Sevilla B","Valladolid","Spain",37.3841757,-6.5517596
+14,"Rubén Alcaraz","ESP","M",1.8,70,"01-05-91","Barcelona","Girona","Valladolid","Spain",41.3828939,2.1774322
+15,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+16,"Fede","ESP","M",1.74,68,"16-03-97","Torrelavega","Sevilla B","Valladolid","Spain",43.3487303,-4.0515082
+17,"Javi Moyano","ESP","D",1.77,69,"23-02-86","Jaén","Tenerife","Valladolid","Spain",37.9557275,-3.49205561203722
+18,"Antoñito","ESP","D",1.73,65,"24-12-87","Herrera","Córdoba","Valladolid","Spain",37.3653148,-4.8502348
+19,"Toni Villa","ESP","M",1.71,61,"07-01-95","Murcia","Valladolid B","Valladolid","Spain",37.9923795,-1.1305431
+20,"Sandro Ramírez","ESP","F",1.72,60,"09-07-95","Las Palmas","Everton","Valladolid","Spain",28.128874,-15.4349448
+21,"Míchel","ESP","M",1.81,69,"29-07-88","Valencia","Guangzhou R&F","Valladolid","Spain",39.4699014,-0.3759513
+22,"Nacho Martínez","ESP","D",1.75,76,"07-03-89","Madrid","Rayo Vallecano","Valladolid","Spain",40.4167047,-3.7035825
+23,"Waldo Rubio","ESP","F",1.81,70,"17-08-95","Badajoz","Córdoba B","Valladolid","Spain",38.8780585,-6.9702048
+24,"Joaquín","ESP","D",1.9,66,"31-05-96","Huercal de Almería","Almería","Valladolid","Spain",36.8836087,-2.4398613
+25,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+26,"Samu Pérez","ESP","G",1.85,82,"26-04-97","Tegueste","Sevilla B","Valladolid","Spain",28.5232609,-16.3407638
+27,"Mohammed Salisu","GHA","D",NA,NA,"17-04-99","","Valladolid B","Valladolid","Spain",NA,NA
+28,"Kike Pérez","ESP","M",1.84,80,"14-02-97","Gálvez","Lugo","Valladolid","Spain",39.7005585,-4.2737085
+29,"Miguel De La Fuente","ESP","F",NA,NA,"03-09-99","Tudela de Duero","Valladolid B","Valladolid","Spain",41.5846943,-4.5802535
+30,"Diego Alende","ESP","D",NA,NA,"25-08-97","Santiago de Compostela","Celta Vigo B","Valladolid","Spain",42.8804219,-8.5458608
+31,"Stiven Plaza","ECU","F",1.88,80,"11-03-99","Eloy Alfaro","Independiente del Valle","Valladolid","Spain",0.874044,-78.9950332281882
+32,"Kuki Zalazar","ESP","F",1.76,73,"05-05-98","Montevideo","Málaga B","Valladolid","Spain",-34.9059039,-56.1913569
+33,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+34,"Roberto Corral","ESP","D",NA,NA,"14-09-97","Valladolid","Valladolid B","Valladolid","Spain",41.6521328,-4.728562
+35,"Víctor García","ESP","F",NA,NA,"01-01-97","Valencia","Deportivo La Coruña B","Valladolid","Spain",39.4699014,-0.3759513
+36,"Apa","ESP","D",NA,NA,"08-03-00","Palencia","Valladolid B","Valladolid","Spain",42.4096322,-4.61610041029307
+37,"Jaime Sánchez","ESP","D",1.83,75,"11-03-95","Chiclana de la Frontera","Real Madrid B","Valladolid","Spain",36.4191096,-6.1460683
+38,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+39,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+40,"","","",NA,NA,"","","","Valladolid","Spain",NA,NA
+1,"Sergio Asenjo","ESP","G",1.89,87,"28-06-89","Palencia","Atlético Madrid","Villarreal","Spain",42.4096322,-4.61610041029307
+2,"Mario","ESP","D",1.82,74,"24-11-90","Novelda","Villarreal B","Villarreal","Spain",38.3842144,-0.7674146
+3,"Raúl Albiol","ESP","D",1.9,82,"04-09-85","Vilamarxant","Napoli","Villarreal","Spain",39.5680723,-0.6227531
+4,"Pau Francisco","ESP","D",1.91,80,"16-01-97","Villarreal","Villarreal B","Villarreal","Spain",10.3065364,-85.8035409
+5,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+6,"Ramiro Funes Mori","ARG","D",1.86,74,"03-05-91","Mendoza","Everton","Villarreal","Spain",-34.78719615,-68.4380712382687
+7,"Gerard Moreno","ESP","F",1.8,75,"07-04-92","Santa Coloma de Gramenet","Espanyol","Villarreal","Spain",41.4515626,2.2083371
+8,"Santi Cazorla","ESP","M",1.68,66,"13-12-84","Lugo de Llanera","Arsenal","Villarreal","Spain",43.4430551,-5.8173854
+9,"Carlos Bacca","COL","F",1.81,77,"08-09-86","Puerto Colombia","Milan","Villarreal","Spain",10.9965589,-74.9162475334152
+10,"Vicente Iborra","ESP","M",1.9,76,"16-01-88","Moncada","Leicester C","Villarreal","Spain",39.5450484,-0.3941015
+11,"Samuel Chukwueze","NGA","F",1.72,70,"22-05-99","Ugba","Diamond Football Academy","Villarreal","Spain",7.116667,8.683333
+12,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+13,"Andrés Fernández","ESP","G",1.85,82,"17-12-86","Murcia","FC Porto","Villarreal","Spain",37.9923795,-1.1305431
+14,"Manu Trigueros","ESP","M",1.78,71,"17-10-91","Talavera de la Reina","Villarreal B","Villarreal","Spain",39.9603798,-4.8311717
+15,"Manu Morlanes","ESP","M",1.78,75,"12-01-99","Zaragoza","Villarreal B","Villarreal","Spain",41.6521342,-0.8809428
+16,"Xavi Quintillà","ESP","D",1.79,70,"23-08-96","Lleida","Barcelona B","Villarreal","Spain",41.6147605,0.6267842
+17,"Paco Alcácer","ESP","F",1.75,71,"30-08-93","Torrent","Borussia Dortmund","Villarreal","Spain",39.436668,-0.4656213
+18,"Alberto Moreno","ESP","D",1.71,65,"05-07-92","Seville","Liverpool","Villarreal","Spain",37.3886303,-5.9953403
+19,"André-Frank Zambo Anguissa","CMR","M",1.84,74,"16-11-95","Yaoundé","Fulham","Villarreal","Spain",3.8689867,11.5213344
+20,"Rubén Peña","ESP","D",1.7,65,"18-07-91","Ávila","Eibar","Villarreal","Spain",40.656478,-4.7002172
+21,"Bruno","ESP","M",1.84,73,"12-06-84","Artana","Villarreal B","Villarreal","Spain",39.8911264,-0.2576603
+22,"Sofian Chakla","MAR","D",1.88,78,"02-09-93","Kenitra","Melilla","Villarreal","Spain",34.26457,-6.570169
+23,"Moi Gómez","ESP","M",1.74,65,"23-06-94","Rojales","Sporting Gijón","Villarreal","Spain",38.0871747,-0.7228213
+24,"Javi Ontiveros","ESP","M",1.7,72,"09-09-97","Marbella","Málaga","Villarreal","Spain",36.508976,-4.88562
+25,"Mariano Barbosa","ARG","G",1.88,79,"27-07-84","Lanús","Sevilla","Villarreal","Spain",43.6454126,-0.2241445
+26,"Ramiro Guerra","URU","M",1.83,75,"21-03-97","Montevideo","Villarreal B","Villarreal","Spain",-34.9059039,-56.1913569
+27,"Andrei Ratiu","ROU","D",1.83,74,"20-06-98","Aiud","Villarreal B","Villarreal","Spain",46.3108893,23.7188181
+28,"Sergio Lozano","ESP","M",NA,NA,"24-03-99","Benimuslem","Villarreal B","Villarreal","Spain",39.1319694,-0.4923176
+29,"Dani Villa","ESP","F",NA,NA,"01-02-98","Cártama","Villarreal B","Villarreal","Spain",36.7100716,-4.631539
+30,"Iván Martín","ESP","M",1.78,70,"14-02-99","Bilbao","Villarreal B","Villarreal","Spain",43.2630051,-2.9349915
+31,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+32,"Álex Baena","ESP","M",NA,NA,"20-07-01","Roquetas de Mar","Villarreal B","Villarreal","Spain",36.7630203,-2.6115886
+33,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+34,"Fernando Niño","ESP","F",NA,NA,"24-10-00","Rota","Villarreal B","Villarreal","Spain",36.6228636,-6.3599595
+35,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+36,"Migue Leal","ESP","D",1.76,68,"01-02-97","Villarreal","Villarreal B","Villarreal","Spain",10.3065364,-85.8035409
+37,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+38,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+39,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA
+40,"","","",NA,NA,"","","","Villarreal","Spain",NA,NA

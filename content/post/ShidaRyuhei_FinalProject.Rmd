@@ -1,0 +1,343 @@
+---
+title: "Final Project"
+author: "Ryuhei Shida"
+date: "3/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r, warning=FALSE, message=FALSE, include=FALSE}
+library(tidyverse)
+library(rvest)
+library(dplyr)
+library(lubridate)
+```
+# Scrape Data
+
+I scraped data from an online database using the rvest package.
+
+Source of Material is http://www.footballsquads.com. Material: © FootballSquads.com, 1999 - 2020, All Rights Reserved
+
+Scraping was a complex process, where I first needed to get the links to the indivual teams for each league.
+
+```{r, eval=FALSE, include=FALSE}
+# Stores html source of every league
+leagues_html = list()
+
+leagues_html[[1]] <- read_html("http://www.footballsquads.co.uk/eng/2019-2020/engprem.htm")
+leagues_html[[2]] <- read_html("http://www.footballsquads.co.uk/ger/2019-2020/gerbun.htm")
+leagues_html[[3]] <- read_html("http://www.footballsquads.co.uk/italy/2019-2020/seriea.htm")
+leagues_html[[4]] <- read_html("http://www.footballsquads.co.uk/spain/2019-2020/spalali.htm")
+```
+
+
+```{r, eval=FALSE, include=FALSE}
+# Stores links to teams per league
+leagues_teams = list()
+
+for(i in 1:length(leagues_html)) {
+  leagues_teams[[i]] <- leagues_html[[i]] %>% 
+    html_nodes("h5") %>% 
+    html_nodes("a") %>% 
+    html_attr("href")
+}
+```
+
+Then I went through each league's teams, and scraped the table on the site.
+
+I had to add the team name as a column, and remove players who were no longer at their club.
+
+```{r, eval=FALSE, include=FALSE}
+base_urls = list()
+base_urls[1] = "http://www.footballsquads.co.uk/eng/2019-2020/"
+base_urls[2] = "http://www.footballsquads.co.uk/ger/2019-2020/"
+base_urls[3] = "http://www.footballsquads.co.uk/italy/2019-2020/"
+base_urls[4] = "http://www.footballsquads.co.uk/spain/2019-2020/"
+```
+
+
+```{r, warning=FALSE, eval=FALSE, include=FALSE}
+
+# Stores players from every league
+leagues_allplayers = list()
+
+# Go through each league
+for(league in 1:length(leagues_teams)) {
+
+  team_names = list()
+  team_squads = list()
+  
+  for(team in 1:length(leagues_teams[[league]])) {
+    s = html_session(base_urls[[league]]) %>% jump_to(leagues_teams[[league]][team]) %>% read_html()
+      
+    team_names[[team]] <- s %>% 
+      html_nodes("h2") %>% 
+      #html_nodes("font") %>% 
+      html_text
+    
+    
+    team_squads[team] <- s %>% 
+      html_table(header = TRUE)
+  
+  }
+  
+  # For each team in current league
+  for(i in 1:length(team_names)) {
+    # Add team name
+    team_squads[i] <- lapply(team_squads[i], function(x) cbind(x, Team = team_names[[i]]))
+    
+    # Remove "Players no longer at this club"
+    team_squads[i] <- lapply(team_squads[i], head, n= which(as.data.frame(team_squads[i])$Number == "Players no longer at this club")-1)
+  #}
+  
+    leagues_allplayers[[league]] <- bind_rows(team_squads)
+
+  }
+}
+
+```
+
+After I had data frames for each league, I added the league name as a column, and removed numbers that were missing.
+
+```{r, eval=FALSE, include=FALSE}
+league_names = c("England", "Germany", "Italy", "Spain")
+```
+
+```{r, eval=FALSE, include=FALSE}
+# Function to 
+assign_and_remove <- function(index) {
+  leagues_allplayers[[index]]["League"] <- league_names[index]
+  leagues_allplayers[[index]] <- leagues_allplayers[[index]][!(is.na(leagues_allplayers[[index]]$Name) | leagues_allplayers[[index]]$Name==""), ]
+  leagues_allplayers[[index]]
+}
+```
+
+```{r, eval=FALSE, include=FALSE}
+assign_and_remove(1)
+```
+
+```{r, eval=FALSE, include=FALSE}
+assign_and_remove(2)
+```
+
+```{r, eval=FALSE, include=FALSE}
+assign_and_remove(3)
+```
+
+```{r, eval=FALSE, include=FALSE}
+assign_and_remove(4)
+```
+
+# Map Players to Birth Place
+
+Using the `tidygeocoder` package, we geocode players from each league.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+library(sf)
+library(mapview)
+library(tidygeocoder)
+```
+
+```{r, eval=FALSE}
+# Geocode
+get_coords <- function(index) {
+  leagues_allplayers[[index]] %>% 
+    geocode(`Birth Place`, method = "osm")
+}
+```
+
+```{r}
+geocoded = list()
+```
+
+
+
+```{r, eval=FALSE}
+# Write geocoded data frames to csv files
+write.csv(file="geocoded1.csv", x=geocoded[[1]], row.names = FALSE)
+write.csv(file="geocoded2.csv", x=geocoded[[2]], row.names = FALSE)
+write.csv(file="geocoded3.csv", x=geocoded[[3]], row.names = FALSE)
+write.csv(file="geocoded4.csv", x=geocoded[[4]], row.names = FALSE)
+```
+
+
+```{r}
+# Read data from csv files to save time
+
+geocoded[[1]] <- read.table("geocoded1.csv", header = TRUE, sep = ',', encoding = 'latin1')
+geocoded[[2]] <- read.table("geocoded2.csv", header = TRUE, sep = ',', encoding = 'latin1')
+geocoded[[3]] <- read.table("geocoded3.csv", header = TRUE, sep = ',', encoding = 'latin1')
+geocoded[[4]] <- read.table("geocoded4.csv", header = TRUE, sep = ',', encoding = 'latin1')
+```
+
+
+```{r, warning=FALSE}
+top4leagues <- bind_rows(list(geocoded[[1]],
+                              geocoded[[2]],
+                              geocoded[[3]],
+                              geocoded[[4]]))
+```
+
+```{r}
+head(top4leagues)
+```
+
+
+
+
+```{r}
+# Remove numbers that are missing
+top4leagues <- top4leagues[!(is.na(top4leagues$Name) | top4leagues$Name==""), ]
+```
+
+```{r}
+head(top4leagues)
+```
+
+```{r}
+# Save to csv file
+write.csv(file="top4leagues.csv", x=top4leagues, row.names = FALSE)
+```
+
+
+```{r, message=FALSE}
+#all_teams2 <- read_csv("all_teams.csv", locale = readr::locale(encoding = "latin1"))
+```
+
+```{r, eval=FALSE}
+# Add information for some notable missing players
+
+#all_teams2[all_teams2$Name == "Mohamed Salah", "lat"] = 30.940491
+#all_teams2[all_teams2$Name == "Mohamed Salah", "long"] = 30.830231
+#all_teams2[all_teams2$Name == "Bukayo Saka", "lat"] = 51.525
+#all_teams2[all_teams2$Name == "Bukayo Saka", "long"] = -0.3325
+```
+
+
+
+```{r}
+# Keep players with lat and long not na
+top4leagues2 <- top4leagues[complete.cases(top4leagues[12:13]), ]
+```
+
+
+```{r}
+england <- top4leagues2 %>% 
+  filter(League == "England")
+
+germany <- top4leagues2 %>% 
+  filter(League == "Germany")
+
+italy <- top4leagues2 %>% 
+  filter(League == "Italy")
+
+spain <- top4leagues2 %>% 
+  filter(League == "Spain")
+```
+
+
+```{r}
+locations_sf <- st_as_sf(england, coords = c("long", "lat"), crs = 4326)
+mapview(locations_sf, zcol=c("Pos"))
+```
+
+
+```{r}
+locations_sf <- st_as_sf(germany, coords = c("long", "lat"), crs = 4326)
+mapview(locations_sf, zcol=c("Pos"))
+```
+
+```{r}
+locations_sf <- st_as_sf(italy, coords = c("long", "lat"), crs = 4326)
+mapview(locations_sf, zcol=c("Pos"))
+```
+
+
+```{r}
+locations_sf <- st_as_sf(spain, coords = c("long", "lat"), crs = 4326)
+mapview(locations_sf, zcol=c("Pos"))
+```
+
+- Asian Players tend to be forwards in England, midfielders in Germany and Spain, and defenders in Italy.
+
+# Birthdays
+
+```{r}
+#top4leagues3 <- top4leagues2
+```
+
+```{r}
+#top4leagues3$`Date of Birth` = dmy(top4leagues3$`Date of Birth`)
+```
+```{r}
+#top4leagues3
+```
+
+
+
+```{r}
+#all_teams4$`Date of Birth` = dmy(all_teams4$`Date of Birth`)
+```
+
+
+```{r}
+#all_teams4$bd_year <- year(all_teams4$`Date of Birth`)
+```
+
+
+```{r}
+#all_teams4 %>% 
+#  ggplot(aes(x = bd_year)) +
+#  geom_density(stat = "count") +
+#  ggtitle("Birthday of Premier League Players")
+```
+
+```{r}
+#summary(all_teams4$`Date of Birth`)
+```
+
+# Count per team
+
+```{r}
+top4leagues2 %>% 
+  group_by(League, Team) %>% 
+  summarise(`Player Count` = length(Team)) %>% 
+  arrange(desc(`Player Count`)) %>% 
+  head(10)
+```
+
+Liverpool, Tottenham Hotspur, and Manchester United have the highest player count
+
+# Height and Weight per position
+
+```{r, warning=FALSE}
+top4leagues2 %>% 
+  ggplot(aes(x = Height, color = Pos)) +
+  geom_density() +
+  ggtitle("Height Distribution by Position")
+```
+
+
+```{r}
+tapply(top4leagues2$Height, top4leagues2$Pos, summary)
+```
+
+Goalkeepers have the highest height.
+
+```{r, warning=FALSE}
+top4leagues2 %>% 
+  ggplot(aes(x = Height, color = Pos)) +
+  geom_density() +
+  ggtitle("Weight Distribution by Position")
+```
+
+```{r}
+tapply(top4leagues2$Weight, top4leagues2$Pos, summary)
+```
+
+Goalkeepers have a much larger weight than other positions.
