@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+[GitHub Repo](https://github.com/ryushida/331_blogdown)
 
 # Introduction
 
@@ -145,9 +146,11 @@ assign_and_remove(3)
 assign_and_remove(4)
 ```
 
+I ended up with a list of data frames, where each data frame held the data for every player in a league.
+
 # Map Players to Birth Place
 
-Using the `tidygeocoder` package, we geocode players from each league.
+Using the `tidygeocoder` package, we geocode players from each league. Since the city name of the birth place was given, this data was passed to the geocode function.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 library(sf)
@@ -162,6 +165,8 @@ get_coords <- function(index) {
     geocode(`Birth Place`, method = "osm")
 }
 ```
+
+After running the geocode function, we now have longitude and latitude columns on our data frame.
 
 ```{r, eval=FALSE, echo=FALSE}
 geocoded = list()
@@ -350,7 +355,7 @@ Goalkeepers have the highest height.
 
 ```{r, warning=FALSE}
 top4leagues2 %>% 
-  ggplot(aes(x = Height, color = Pos)) +
+  ggplot(aes(x = Weight, color = Pos)) +
   geom_density() +
   ggtitle("Weight Distribution by Position")
 ```
@@ -359,4 +364,4 @@ top4leagues2 %>%
 tapply(top4leagues2$Weight, top4leagues2$Pos, summary)
 ```
 
-Goalkeepers have a much larger weight than other positions.
+Goalkeepers have a larger weight than other positions, with the other 3 positions being similar.

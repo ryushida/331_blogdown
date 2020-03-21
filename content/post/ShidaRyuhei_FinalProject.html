@@ -22,6 +22,7 @@ output: html_document
 <link href="/rmarkdown-libs/PopupTable/popup.css" rel="stylesheet" />
 
 
+<p><a href="https://github.com/ryushida/331_blogdown">GitHub Repo</a></p>
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
 <p>I was interested in how the players in different European Football leagues were different, so I decided to get data and analyze it.</p>
@@ -83,15 +84,17 @@ assign_and_remove &lt;- function(index) {
     !(is.na(leagues_allplayers[[index]]$Name) | leagues_allplayers[[index]]$Name==&quot;&quot;), ]
   leagues_allplayers[[index]]
 }</code></pre>
+<p>I ended up with a list of data frames, where each data frame held the data for every player in a league.</p>
 </div>
 <div id="map-players-to-birth-place" class="section level1">
 <h1>Map Players to Birth Place</h1>
-<p>Using the <code>tidygeocoder</code> package, we geocode players from each league.</p>
+<p>Using the <code>tidygeocoder</code> package, we geocode players from each league. Since the city name of the birth place was given, this data was passed to the geocode function.</p>
 <pre class="r"><code># Geocode
 get_coords &lt;- function(index) {
   leagues_allplayers[[index]] %&gt;% 
     geocode(`Birth Place`, method = &quot;osm&quot;)
 }</code></pre>
+<p>After running the geocode function, we now have longitude and latitude columns on our data frame.</p>
 <p>The geocoded list holds the data frames of players in each of the 4 leagues.</p>
 <p>I finally put the data for all 4 leagues together, now that they are mostly prepared for analysis.</p>
 <pre class="r"><code>top4leagues &lt;- bind_rows(list(geocoded[[1]],
@@ -262,7 +265,7 @@ top4leagues3$bd_year &lt;- year(top4leagues3$bd)</code></pre>
 ##   1.600   1.750   1.800   1.794   1.830   1.940      87</code></pre>
 <p>Goalkeepers have the highest height.</p>
 <pre class="r"><code>top4leagues2 %&gt;% 
-  ggplot(aes(x = Height, color = Pos)) +
+  ggplot(aes(x = Weight, color = Pos)) +
   geom_density() +
   ggtitle(&quot;Weight Distribution by Position&quot;)</code></pre>
 <p><img src="/post/ShidaRyuhei_FinalProject_files/figure-html/unnamed-chunk-36-1.png" width="672" /></p>
@@ -285,5 +288,5 @@ top4leagues3$bd_year &lt;- year(top4leagues3$bd)</code></pre>
 ## $M
 ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA&#39;s 
 ##      48      68      72      72      76      91      99</code></pre>
-<p>Goalkeepers have a much larger weight than other positions.</p>
+<p>Goalkeepers have a larger weight than other positions, with the other 3 positions being similar.</p>
 </div>
