@@ -19,7 +19,9 @@ library(lubridate)
 ```
 # Scrape Data
 
-I scraped data from an online database using the rvest package.
+I scraped European football data from an online database using the rvest package.
+
+Using rvest, I got data about every team in the "top 4 leagues" of European Football, which are England, Germany, Italy, and Spain.
 
 Source of Material is http://www.footballsquads.com. Material: © FootballSquads.com, 1999 - 2020, All Rights Reserved
 
@@ -96,7 +98,7 @@ for(league in 1:length(leagues_teams)) {
     # Remove "Players no longer at this club"
     team_squads[i] <- lapply(team_squads[i],
                              head,
-                             n= which(as.data.frame(team_squads[i])$Number == "Players no longer at this club")-1)
+                             n = which(as.data.frame(team_squads[i])$Number == "Players no longer at this club")-1)
   
     leagues_allplayers[[league]] <- bind_rows(team_squads)
 
@@ -274,8 +276,13 @@ mapview(locations_sf, zcol=c("Pos"))
 # Birthdays
 
 ```{r}
-#top4leagues3 <- top4leagues2
+top4leagues3 <- top4leagues2
 ```
+
+```{r}
+top4leagues3
+```
+
 
 ```{r}
 #top4leagues3$`Date of Birth` = dmy(top4leagues3$`Date of Birth`)
