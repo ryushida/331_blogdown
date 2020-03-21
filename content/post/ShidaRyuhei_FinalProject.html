@@ -160,16 +160,28 @@ mapview(locations_sf, zcol=c(&quot;Pos&quot;))</code></pre>
 <pre class="r"><code>top4leagues3$bd &lt;- dmy(top4leagues3$Date.of.Birth)
 top4leagues3$bd_year &lt;- year(top4leagues3$bd)</code></pre>
 <pre class="r"><code>top4leagues3 %&gt;% 
-  ggplot(aes(x = bd_year)) +
+  ggplot(aes(x = bd_year, color = League)) +
   geom_density(stat = &quot;count&quot;) +
   ggtitle(&quot;Birthday of Active Players&quot;)</code></pre>
-<pre><code>## Warning: Removed 1 rows containing non-finite values (stat_count).</code></pre>
 <p><img src="/post/ShidaRyuhei_FinalProject_files/figure-html/unnamed-chunk-30-1.png" width="672" /></p>
-<pre class="r"><code>summary(top4leagues3$bd)</code></pre>
-<pre><code>##         Min.      1st Qu.       Median         Mean      3rd Qu.         Max. 
-## &quot;1978-01-28&quot; &quot;1991-02-12&quot; &quot;1995-02-03&quot; &quot;1994-09-29&quot; &quot;1999-01-08&quot; &quot;2003-10-17&quot; 
+<pre class="r"><code>tapply(top4leagues3$bd, top4leagues3$League, summary)</code></pre>
+<pre><code>## $England
+##         Min.      1st Qu.       Median         Mean      3rd Qu.         Max. 
+## &quot;1980-02-20&quot; &quot;1991-11-20&quot; &quot;1996-06-12&quot; &quot;1995-09-20&quot; &quot;2000-05-16&quot; &quot;2003-10-17&quot; 
 ##         NA&#39;s 
-##          &quot;1&quot;</code></pre>
+##          &quot;1&quot; 
+## 
+## $Germany
+##         Min.      1st Qu.       Median         Mean      3rd Qu.         Max. 
+## &quot;1978-10-03&quot; &quot;1991-02-05&quot; &quot;1994-08-05&quot; &quot;1994-05-10&quot; &quot;1997-11-13&quot; &quot;2002-11-13&quot; 
+## 
+## $Italy
+##         Min.      1st Qu.       Median         Mean      3rd Qu.         Max. 
+## &quot;1978-01-28&quot; &quot;1990-09-15&quot; &quot;1994-07-25&quot; &quot;1994-05-11&quot; &quot;1998-12-21&quot; &quot;2003-07-10&quot; 
+## 
+## $Spain
+##         Min.      1st Qu.       Median         Mean      3rd Qu.         Max. 
+## &quot;1981-02-11&quot; &quot;1990-09-13&quot; &quot;1994-08-16&quot; &quot;1994-04-10&quot; &quot;1998-01-22&quot; &quot;2002-11-29&quot;</code></pre>
 </div>
 <div id="count-per-team" class="section level1">
 <h1>Count per team</h1>

@@ -292,16 +292,16 @@ top4leagues3$bd_year <- year(top4leagues3$bd)
 ```
 
 
-```{r}
+```{r, warning=FALSE}
 top4leagues3 %>% 
-  ggplot(aes(x = bd_year)) +
+  ggplot(aes(x = bd_year, color = League)) +
   geom_density(stat = "count") +
   ggtitle("Birthday of Active Players")
 ```
 
 
 ```{r}
-summary(top4leagues3$bd)
+tapply(top4leagues3$bd, top4leagues3$League, summary)
 ```
 
 # Count per team
